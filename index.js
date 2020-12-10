@@ -1,7 +1,7 @@
 var Xray = require("x-ray");
-var x = Xray();
+var xray = Xray();
 
-x(
+xray(
   "https://www.yemeksepeti.com/istanbul/besiktas-levent-mah",
   "a.restaurantName",
   [
@@ -13,4 +13,11 @@ x(
 )
   .paginate("ul.pagination > li > a@href")
   .limit(3)
-  .write("results.json");
+  .write("results2.json");
+
+// xray(
+//   "https://www.yemeksepeti.com/istanbul/besiktas-levent-mah",
+//   "body@html"
+// )(function (_err, title) {
+//   console.log(title);
+// });
