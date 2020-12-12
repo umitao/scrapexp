@@ -1,1391 +1,4462 @@
 [
-
   {
-    "title": "McDonald's, Beşiktaş (Levent Mah.)"
+    "title": "Arnavutköy İlçesi (Adnan Menderes Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-adnan-menderes-mah"
   },
   {
-    "title": "Günaydın Köfte & Döner, Şişli (Esentepe Mah. - Plazalar)"
+    "title": "Arnavutköy İlçesi (Anadolu Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-anadolu-mah"
   },
   {
-    "title": "Burger King, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Arnavutköy İlçesi (Atatürk Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-ataturk-mah"
   },
   {
-    "title": "Nadide Restaurant, Şişli (Esentepe Mah.)"
+    "title": "Arnavutköy İlçesi (Baklalı Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-baklali-mah"
   },
   {
-    "title": "Vanilia Cafe, Beşiktaş (Gayrettepe Mah.)"
+    "title": "Arnavutköy İlçesi (Balabanburun Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-balabanburun-mah"
   },
   {
-    "title": "Bomba Döner, Şişli (Mecidiyeköy Mah.)"
+    "title": "Arnavutköy İlçesi (Boğazköy İstiklal Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-bogazkoy-istiklal-mah"
   },
   {
-    "title": "Abi Kardeş Kebap & Dürüm Evi, Kağıthane (Harmantepe Mah.)"
+    "title": "Arnavutköy İlçesi (Bolluca Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-bolluca-mah"
   },
   {
-    "title": "Abi Kardeş Pide & Lahmacun, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Arnavutköy İlçesi (Boyalık Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-boyalik-mah"
   },
   {
-    "title": "Aboov Urfam Kebap, Sarıyer (Pınar Mah.)"
+    "title": "Arnavutköy İlçesi (Çilingir Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-cilingir-mah"
   },
   {
-    "title": "Adıyaman Pide & Lahmacun, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Arnavutköy İlçesi (Deliklikaya Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-deliklikaya-mah"
   },
   {
-    "title": "Adıyaman Pide & Lahmacun, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Arnavutköy İlçesi (Dursunköy Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-dursunkoy-mah"
   },
   {
-    "title": "Ağız Tadı Kebap & Lahmacun, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Arnavutköy İlçesi (Durusu Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-durusu-mah"
   },
   {
-    "title": "Altın Sofra, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Arnavutköy İlçesi (Fatih Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-fatih-mah"
   },
   {
-    "title": "Altunova Kardeşler Pide & Lahmacun, Kağıthane (Harmantepe Mah.)"
+    "title": "Arnavutköy İlçesi (Hacımaşlı Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-hacimasli-mah"
   },
   {
-    "title": "Antep Lahmacun & Pide, Kağıthane (Harmantepe Mah.)"
+    "title": "Arnavutköy İlçesi (Hadımköy Hastane Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-hadimkoy-hastane-mah"
   },
   {
-    "title": "Antepli Kardeşler, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Arnavutköy İlçesi (Hadımköy Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-hadimkoy-mah"
   },
   {
-    "title": "Ar Gurme Hamburger & Köfte, Kağıthane (Çeliktepe Mah.)"
+    "title": "Arnavutköy İlçesi (Haraççı Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-haracci-mah"
   },
   {
-    "title": "Asrın Pide & Lahmacun, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Arnavutköy İlçesi (Hicret Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-hicret-mah"
   },
   {
-    "title": "As Urfa Pide & Lahmacun, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Arnavutköy İlçesi (İmrahor Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-imrahor-mah"
   },
   {
-    "title": "Dobby's Burger Place, Sarıyer (Maslak Mah.)"
+    "title": "Arnavutköy İlçesi (İslambey Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-islambey-mah"
   },
   {
-    "title": "Hurma Restaurant, Beşiktaş (Ulus Mah.)"
+    "title": "Arnavutköy İlçesi (İstanbul Havalimanı)",
+    "url": "/istanbul/arnavutkoy-ilcesi-istanbul-havalimani"
   },
   {
-    "title": "İkbal Lokantası 1922, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Arnavutköy İlçesi (Karaburun Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-karaburun-mah"
   },
   {
-    "title": "Öz Adana Kebap, Kağıthane (Ortabayır Mah.)"
+    "title": "Arnavutköy İlçesi (Karlıbayır Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-karlibayir-mah"
   },
   {
-    "title": "Paşazadem Antep Sofrası, Kağıthane (Şirintepe Mah.)"
+    "title": "Arnavutköy İlçesi (M. Fevzi Çakmak Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-m-fevzi-cakmak-mah"
   },
   {
-    "title": "Urfa Kebapçım, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Arnavutköy İlçesi (Mavigöl Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-mavigol-mah"
   },
   {
-    "title": "7/70 Pizza & Burger, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Arnavutköy İlçesi (Mehmet Akif Ersoy Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-mehmet-akif-ersoy-mah"
   },
   {
-    "title": "Acıktım Kardeşler Pide & Lahmacun, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Arnavutköy İlçesi (Merkez Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-merkez-mah"
   },
   {
-    "title": "Adalı Midye, Sarıyer (Ayazağa Mah.)"
+    "title": "Arnavutköy İlçesi (Mustafa Kemal Paşa Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-mustafa-kemal-pasa-mah"
   },
   {
-    "title": "Aile Mutfağı Ev Yemekleri, Şişli (Mecidiyeköy Mah.)"
+    "title": "Arnavutköy İlçesi (Nene Hatun Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-nene-hatun-mah"
   },
   {
-    "title": "Ala Sandwich, Sarıyer (Reşitpaşa Mah.)"
+    "title": "Arnavutköy İlçesi (Ömerli Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-omerli-mah"
   },
   {
-    "title": "Blue Ice Cream, Kağıthane (Ortabayır Mah.)"
+    "title": "Arnavutköy İlçesi (Sazlıbosna Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-sazlibosna-mah"
   },
   {
-    "title": "Bostan Meze, Beşiktaş (Akat Mah.)"
+    "title": "Arnavutköy İlçesi (Taşoluk Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-tasoluk-mah"
   },
   {
-    "title": "Brkd Döner & Pide & Lahmacun, Sarıyer (FSM Mah.)"
+    "title": "Arnavutköy İlçesi (Tayakadın Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-tayakadin-mah"
   },
   {
-    "title": "Hisar Lokantası & Döner, Sarıyer (Rumelihisarı Mah. - Hisarüstü)"
+    "title": "Arnavutköy İlçesi (Terkos Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-terkos-mah"
   },
   {
-    "title": "Madam Butterfly Restaurant & Cafe, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Arnavutköy İlçesi (Yassıören Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-yassioren-mah"
   },
   {
-    "title": "Tostlar Sağolsun, Şişli (Esentepe Mah.)"
+    "title": "Arnavutköy İlçesi (Yavuz Selim Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-yavuz-selim-mah"
   },
   {
-    "title": "Türkis Gourmet Pide, Beşiktaş (Levent Mah.)"
+    "title": "Arnavutköy İlçesi (Yeniköy Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-yenikoy-mah"
   },
   {
-    "title": "Urfalı Kebapçım, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Arnavutköy İlçesi (Yeşilbayır Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-yesilbayir-mah"
   },
   {
-    "title": "Wallop, Sarıyer (Maslak Mah.)"
+    "title": "Arnavutköy İlçesi (Yunus Emre Mah.)",
+    "url": "/istanbul/arnavutkoy-ilcesi-yunus-emre-mah"
   },
   {
-    "title": "(Chinastix) & Sushi, Beşiktaş (Etiler Mah.)"
+    "title": "Ataşehir (Aşık Veysel Mah.)",
+    "url": "/istanbul/atasehir-asik-veysel-mah"
   },
   {
-    "title": "(Parantez İstanbul) Pide, Beşiktaş (Etiler Mah.)"
+    "title": "Ataşehir (Atatürk Mah.)",
+    "url": "/istanbul/atasehir-ataturk-mah"
   },
   {
-    "title": "(Parantez İstanbul) Zeytinyağlı & Meze, Beşiktaş (Etiler Mah.)"
+    "title": "Ataşehir (Barbaros Mah. - Batı)",
+    "url": "/istanbul/atasehir-barbaros-mah-bati"
   },
   {
-    "title": "33 Suat Usta Mersin Tantuni, Beşiktaş (Sinanpaşa Mah.)"
+    "title": "Ataşehir (Barbaros Mah.)",
+    "url": "/istanbul/atasehir-barbaros-mah"
   },
   {
-    "title": "33 Suat Usta Mersin Tantuni, Şişli (Mecidiyeköy Mah.)"
+    "title": "Ataşehir (Esatpaşa Mah.)",
+    "url": "/istanbul/atasehir-esatpasa-mah"
   },
   {
-    "title": "4X4 Tost, Beşiktaş (Nisbetiye Mah.)"
+    "title": "Ataşehir (Ferhatpaşa Mah.)",
+    "url": "/istanbul/atasehir-ferhatpasa-mah"
   },
   {
-    "title": "Abc Sucuk Ekmek, Şişli (Mecidiyeköy Mah.)"
+    "title": "Ataşehir (Fetih Mah.)",
+    "url": "/istanbul/atasehir-fetih-mah"
   },
   {
-    "title": "Abla Kardeş Mantı Evi, Beşiktaş (Etiler Mah.)"
+    "title": "Ataşehir (İçerenköy Mah.)",
+    "url": "/istanbul/atasehir-icerenkoy-mah"
   },
   {
-    "title": "Above Taco, Şişli (Esentepe Mah.)"
+    "title": "Ataşehir (İnönü Mah.)",
+    "url": "/istanbul/atasehir-inonu-mah"
   },
   {
-    "title": "Acar Dürüm Evi, Şişli (Esentepe Mah.)"
+    "title": "Ataşehir (Kayışdağı Mah.)",
+    "url": "/istanbul/atasehir-kayisdagi-mah"
   },
   {
-    "title": "Acıktım Pide & Lahmacun, Kağıthane (Harmantepe Mah.)"
+    "title": "Ataşehir (Küçükbakkalköy Mah.)",
+    "url": "/istanbul/atasehir-kucukbakkalkoy-mah"
   },
   {
-    "title": "Acıktım Tat Lahmacun Pide & Kebap, Kağıthane (Yahya Kemal Mah. - Ayazma)"
+    "title": "Ataşehir (Mevlana Mah.)",
+    "url": "/istanbul/atasehir-mevlana-mah"
   },
   {
-    "title": "Acil Tost, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Ataşehir (Mimar Sinan Mah.)",
+    "url": "/istanbul/atasehir-mimar-sinan-mah"
   },
   {
-    "title": "Adana Mahle Ocakbaşı, Sarıyer (Rumelihisarı Mah. - Hisarüstü)"
+    "title": "Ataşehir (Mustafa Kemal Mah.)",
+    "url": "/istanbul/atasehir-mustafa-kemal-mah"
   },
   {
-    "title": "Agapia Gourmet Meze, Beşiktaş (Kültür Mah.)"
+    "title": "Ataşehir (Örnek Mah.)",
+    "url": "/istanbul/atasehir-ornek-mah"
   },
   {
-    "title": "Agreeni Burger House, Sarıyer (FSM Mah.)"
+    "title": "Ataşehir (Yeni Çamlıca Mah.)",
+    "url": "/istanbul/atasehir-yeni-camlica-mah"
   },
   {
-    "title": "Al'bi Tost, Beşiktaş (Konaklar Mah.)"
+    "title": "Ataşehir (Yenisahra Mah.)",
+    "url": "/istanbul/atasehir-yenisahra-mah"
   },
   {
-    "title": "Altınemek Döner, Şişli (Mecidiyeköy Mah.)"
+    "title": "Ataşehir (Yenişehir Mah.)",
+    "url": "/istanbul/atasehir-yenisehir-mah"
   },
   {
-    "title": "Anadolu Pide & Lahmacun, Kağıthane (Harmantepe Mah.)"
+    "title": "Avcılar (Ambarlı Mah.)",
+    "url": "/istanbul/avcilar-ambarli-mah"
   },
   {
-    "title": "Anadolu Urfa Kebap Lahmacun & Pide, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Avcılar (Cihangir Mah.)",
+    "url": "/istanbul/avcilar-cihangir-mah"
   },
   {
-    "title": "Anne Gözleme, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Avcılar (Denizköşkler Mah.)",
+    "url": "/istanbul/avcilar-denizkoskler-mah"
   },
   {
-    "title": "As Bursa İskender, Beşiktaş (Gayrettepe Mah.)"
+    "title": "Avcılar (Firuzköy Mah.)",
+    "url": "/istanbul/avcilar-firuzkoy-mah"
   },
   {
-    "title": "As Gaziantep Kebap & Izgara, Kağıthane (Harmantepe Mah.)"
+    "title": "Avcılar (Gümüşpala Mah.)",
+    "url": "/istanbul/avcilar-gumuspala-mah"
   },
   {
-    "title": "Asil Mantı & Tava, Kağıthane (Gültepe Mah.)"
+    "title": "Avcılar (Merkez Mah.)",
+    "url": "/istanbul/avcilar-merkez-mah"
   },
   {
-    "title": "Aşiyan Mantı & Tava Ev Yemekleri, Kağıthane (Yahya Kemal Mah. - Ayazma)"
+    "title": "Avcılar (Mustafa Kemal Paşa Mah.)",
+    "url": "/istanbul/avcilar-mustafa-kemal-pasa-mah"
   },
   {
-    "title": "Ayça Kasap Burger, Şişli (Fulya Mah. - Ortaklar)"
+    "title": "Avcılar (Tahtakale Mah. - Ispartakule Evleri)",
+    "url": "/istanbul/avcilar-tahtakale-mah-ispartakule-evleri"
   },
   {
-    "title": "BackStreet Diner, Kağıthane (Merkez Mah. - Çobançeşme)"
+    "title": "Avcılar (Tahtakale Mah.)",
+    "url": "/istanbul/avcilar-tahtakale-mah"
   },
   {
-    "title": "Bad Fried Chicken, Beşiktaş (Türkali Mah.)"
+    "title": "Avcılar (Üniversite Mah.)",
+    "url": "/istanbul/avcilar-universite-mah"
   },
   {
-    "title": "Bakırda Kuru, Beşiktaş (Etiler Mah.)"
+    "title": "Avcılar (Yeşilkent Mah.)",
+    "url": "/istanbul/avcilar-yesilkent-mah"
   },
   {
-    "title": "Bal Kaymak Kahvaltı & Ev Yemekleri, Beşiktaş (Sinanpaşa Mah.)"
+    "title": "Bağcılar (100. Yıl Mah.)",
+    "url": "/istanbul/bagcilar-100-yil-mah"
   },
   {
-    "title": "Baltazar, Beşiktaş (Türkali Mah.)"
+    "title": "Bağcılar (Bağlar Mah.)",
+    "url": "/istanbul/bagcilar-baglar-mah"
   },
   {
-    "title": "Bean's Dessert, Beşiktaş (Nisbetiye Mah.)"
+    "title": "Bağcılar (Barbaros Mah.)",
+    "url": "/istanbul/bagcilar-barbaros-mah"
   },
   {
-    "title": "Bean's Dessert, Kağıthane (Ortabayır Mah.)"
+    "title": "Bağcılar (Çınar Mah.)",
+    "url": "/istanbul/bagcilar-cinar-mah"
   },
   {
-    "title": "Bebek Pilavcısı, Beşiktaş (Bebek Mah.)"
+    "title": "Bağcılar (Demirkapı Mah.)",
+    "url": "/istanbul/bagcilar-demirkapi-mah"
   },
   {
-    "title": "Bi Boyoz, Beşiktaş (Vişnezade Mah. - Akaretler)"
+    "title": "Bağcılar (Evren Mah. - 15 Temmuz)",
+    "url": "/istanbul/bagcilar-evren-mah-15-temmuz"
   },
   {
-    "title": "Binbir Lahmacun, Şişli (Mecidiyeköy Mah.)"
+    "title": "Bağcılar (Fatih Mah.)",
+    "url": "/istanbul/bagcilar-fatih-mah"
   },
   {
-    "title": "Bizim Balıkçı Namık Abi, Kağıthane (Seyrantepe Mah.)"
+    "title": "Bağcılar (Fevzi Çakmak Mah. - Tabya)",
+    "url": "/istanbul/bagcilar-fevzi-cakmak-mah-tabya"
   },
   {
-    "title": "Boğaziçi Pide & Lahmacun, Sarıyer (Rumelihisarı Mah. - Hisarüstü)"
+    "title": "Bağcılar (Göztepe Mah. - Batışehir)",
+    "url": "/istanbul/bagcilar-goztepe-mah-batisehir"
   },
   {
-    "title": "Chop Shop Sushi & Noodle, Beşiktaş (Levent Mah.)"
+    "title": "Bağcılar (Göztepe Mah. - İstoç)",
+    "url": "/istanbul/bagcilar-goztepe-mah-istoc"
   },
   {
-    "title": "Çardakçı Cafe, Kağıthane (Yeşilce Mah.)"
+    "title": "Bağcılar (Göztepe Mah.)",
+    "url": "/istanbul/bagcilar-goztepe-mah"
   },
   {
-    "title": "Çiftlik Kasap Burger, Beşiktaş (Akat Mah.)"
+    "title": "Bağcılar (Güneşli Mah.)",
+    "url": "/istanbul/bagcilar-gunesli-mah"
   },
   {
-    "title": "Emine Ana Tantuni, Şişli (Mecidiyeköy Mah.)"
+    "title": "Bağcılar (Hürriyet Mah.)",
+    "url": "/istanbul/bagcilar-hurriyet-mah"
   },
   {
-    "title": "Fiskos Cafe & Breakfast, Beşiktaş (Sinanpaşa Mah.)"
+    "title": "Bağcılar (İnönü Mah.)",
+    "url": "/istanbul/bagcilar-inonu-mah"
   },
   {
-    "title": "Fresh Food, Sarıyer (FSM Mah.)"
+    "title": "Bağcılar (Kazım Karabekir Mah.)",
+    "url": "/istanbul/bagcilar-kazim-karabekir-mah"
   },
   {
-    "title": "Joy Meal Cafe, Beşiktaş (Türkali Mah.)"
+    "title": "Bağcılar (Kemalpaşa Mah.)",
+    "url": "/istanbul/bagcilar-kemalpasa-mah"
   },
   {
-    "title": "Kaktüs Büfe & Pilav, Kağıthane (Gültepe Mah.)"
+    "title": "Bağcılar (Kirazlı Mah.)",
+    "url": "/istanbul/bagcilar-kirazli-mah"
   },
   {
-    "title": "Küp Cafe Tost & Tatlı, Sarıyer (Rumelihisarı Mah.)"
+    "title": "Bağcılar (Mahmutbey Mah. - İstoç)",
+    "url": "/istanbul/bagcilar-mahmutbey-mah-istoc"
   },
   {
-    "title": "Lokum Burger, Sarıyer (Rumelihisarı Mah.)"
+    "title": "Bağcılar (Mahmutbey Mah.)",
+    "url": "/istanbul/bagcilar-mahmutbey-mah"
   },
   {
-    "title": "Mis Döner Evi, Şişli (Esentepe Mah.)"
+    "title": "Bağcılar (Merkez Mah.)",
+    "url": "/istanbul/bagcilar-merkez-mah"
   },
   {
-    "title": "Mos Kafe Restoran, Beşiktaş (Gayrettepe Mah.)"
+    "title": "Bağcılar (Sancaktepe Mah.)",
+    "url": "/istanbul/bagcilar-sancaktepe-mah"
   },
   {
-    "title": "Muallim Ocakbaşı, Beşiktaş (Ortaköy Mah.)"
+    "title": "Bağcılar (Yavuz Selim Mah. - Çiftlik)",
+    "url": "/istanbul/bagcilar-yavuz-selim-mah-ciftlik"
   },
   {
-    "title": "My Graffiti Burger Co., Sarıyer (Maslak Mah.)"
+    "title": "Bağcılar (Yenigün Mah.)",
+    "url": "/istanbul/bagcilar-yenigun-mah"
   },
   {
-    "title": "Nappo, Şişli (Esentepe Mah. - Plazalar)"
+    "title": "Bağcılar (Yenimahalle Mah.)",
+    "url": "/istanbul/bagcilar-yenimahalle-mah"
   },
   {
-    "title": "Nevada Leaf Restaurant, Şişli (Mecidiyeköy Mah.)"
+    "title": "Bağcılar (Yıldıztepe Mah.)",
+    "url": "/istanbul/bagcilar-yildiztepe-mah"
   },
   {
-    "title": "Niş Burger & Steak House, Beşiktaş (Ulus Mah.)"
+    "title": "Bahçelievler (Cumhuriyet Mah.)",
+    "url": "/istanbul/bahcelievler-cumhuriyet-mah"
   },
   {
-    "title": "Opera Pastanesi, Beşiktaş (Nisbetiye Mah.)"
+    "title": "Bahçelievler (Çobançeşme Mah.)",
+    "url": "/istanbul/bahcelievler-cobancesme-mah"
   },
   {
-    "title": "Oya'nın Yeri, Beşiktaş (Etiler Mah.)"
+    "title": "Bahçelievler (Fevzi Çakmak Mah.)",
+    "url": "/istanbul/bahcelievler-fevzi-cakmak-mah"
   },
   {
-    "title": "Ozzy's Cafe & Bistro, Beşiktaş (Balmumcu Mah.)"
+    "title": "Bahçelievler (Hürriyet Mah.)",
+    "url": "/istanbul/bahcelievler-hurriyet-mah"
   },
   {
-    "title": "Paşa Döner, Sarıyer (Rumelihisarı Mah. - Hisarüstü)"
+    "title": "Bahçelievler (Kocasinan Mah.)",
+    "url": "/istanbul/bahcelievler-kocasinan-mah"
   },
   {
-    "title": "Patso & Pilav, Kağıthane (Harmantepe Mah.)"
+    "title": "Bahçelievler (Merkez Mah. - Basın Sitesi Bölgesi)",
+    "url": "/istanbul/bahcelievler-merkez-mah-basin-sitesi-bolgesi"
   },
   {
-    "title": "Pizza Mia Casa, Beşiktaş (Kültür Mah.)"
+    "title": "Bahçelievler (Merkez Mah. - Yayla)",
+    "url": "/istanbul/bahcelievler-merkez-mah-yayla"
   },
   {
-    "title": "Pizza Station, Beşiktaş (Etiler Mah.)"
+    "title": "Bahçelievler (Merkez Mah.)",
+    "url": "/istanbul/bahcelievler-merkez-mah"
   },
   {
-    "title": "Plus Kitchen, Beşiktaş (Kültür Mah.)"
+    "title": "Bahçelievler (Siyavuşpaşa Mah. - Yayla)",
+    "url": "/istanbul/bahcelievler-siyavuspasa-mah-yayla"
   },
   {
-    "title": "Poker Burger, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Bahçelievler (Siyavuşpaşa Mah.)",
+    "url": "/istanbul/bahcelievler-siyavuspasa-mah"
   },
   {
-    "title": "Rumeli Pilav Üstü, Sarıyer (Rumelihisarı Mah.)"
+    "title": "Bahçelievler (Soğanlı Mah.)",
+    "url": "/istanbul/bahcelievler-soganli-mah"
   },
   {
-    "title": "Saladstation, Beşiktaş (Levent Mah.)"
+    "title": "Bahçelievler (Şirinevler Mah.)",
+    "url": "/istanbul/bahcelievler-sirinevler-mah"
   },
   {
-    "title": "Tencere Ev Yemekleri & Meze, Beşiktaş (Bebek Mah.)"
+    "title": "Bahçelievler (Yenibosna Merkez Mah. - Basın Ekspres Yolu)",
+    "url": "/istanbul/bahcelievler-yenibosna-merkez-mah-basin-ekspres-yolu"
   },
   {
-    "title": "Torcello Ristorante Italiano, Beşiktaş (Akat Mah.)"
+    "title": "Bahçelievler (Yenibosna Merkez Mah.)",
+    "url": "/istanbul/bahcelievler-yenibosna-merkez-mah"
   },
   {
-    "title": "Tost Royce, Beşiktaş (Etiler Mah.)"
+    "title": "Bahçelievler (Zafer Mah.)",
+    "url": "/istanbul/bahcelievler-zafer-mah"
   },
   {
-    "title": "Trabzon Kaşıkçı Pilavı, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Bakırköy (Ataköy 1. Kısım)",
+    "url": "/istanbul/bakirkoy-atakoy-1-kisim"
   },
   {
-    "title": "Urfa Kebap & Lahmacun & Pide, Kağıthane (Şirintepe Mah.)"
+    "title": "Bakırköy (Ataköy 10. Kısım)",
+    "url": "/istanbul/bakirkoy-atakoy-10-kisim"
   },
   {
-    "title": "Yummy & Beyond Restaurant, Kağıthane (Seyrantepe Mah.)"
+    "title": "Bakırköy (Ataköy 11. Kısım)",
+    "url": "/istanbul/bakirkoy-atakoy-11-kisim"
   },
   {
-    "title": "(+) Tatlı Zamanı, Kağıthane (Çeliktepe Mah.)"
+    "title": "Bakırköy (Ataköy 2. Kısım)",
+    "url": "/istanbul/bakirkoy-atakoy-2-kisim"
   },
   {
-    "title": "(2 Go) By Goodville, Şişli (Esentepe Mah. - Plazalar)"
+    "title": "Bakırköy (Ataköy 3. Kısım)",
+    "url": "/istanbul/bakirkoy-atakoy-3-kisim"
   },
   {
-    "title": "(Bebek Waffle & Kumpir), Beşiktaş (Bebek Mah.)"
+    "title": "Bakırköy (Ataköy 4. Kısım)",
+    "url": "/istanbul/bakirkoy-atakoy-4-kisim"
   },
   {
-    "title": "(Her Alem) Ocakbaşı, Şişli (Esentepe Mah.)"
+    "title": "Bakırköy (Ataköy 5. Kısım)",
+    "url": "/istanbul/bakirkoy-atakoy-5-kisim"
   },
   {
-    "title": "(Parantez İstanbul), Beşiktaş (Nisbetiye Mah.)"
+    "title": "Bakırköy (Ataköy 6. Kısım - Ataköy Konakları)",
+    "url": "/istanbul/bakirkoy-atakoy-6-kisim-atakoy-konaklari"
   },
   {
-    "title": "+ Profiterol & Tatlı Dükkanı, Beşiktaş (Muradiye Mah.)"
+    "title": "Bakırköy (Ataköy 6. Kısım)",
+    "url": "/istanbul/bakirkoy-atakoy-6-kisim"
   },
   {
-    "title": "21 Mercan Kebap, Beşiktaş (Vişnezade Mah. - Akaretler)"
+    "title": "Bakırköy (Ataköy 7. Kısım)",
+    "url": "/istanbul/bakirkoy-atakoy-7-kisim"
   },
   {
-    "title": "46 Zurna Dürüm, Kağıthane (Çeliktepe Mah.)"
+    "title": "Bakırköy (Ataköy 8. Kısım)",
+    "url": "/istanbul/bakirkoy-atakoy-8-kisim"
   },
   {
-    "title": "46 Zurna Dürüm, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Bakırköy (Ataköy 9. Kısım)",
+    "url": "/istanbul/bakirkoy-atakoy-9-kisim"
   },
   {
-    "title": "4X4 Tost, Beşiktaş (Levent Mah.)"
+    "title": "Bakırköy (Basınköy Mah.)",
+    "url": "/istanbul/bakirkoy-basinkoy-mah"
   },
   {
-    "title": "86'd Deli Sandwiches, Beşiktaş (Etiler Mah.)"
+    "title": "Bakırköy (Cevizlik Mah.)",
+    "url": "/istanbul/bakirkoy-cevizlik-mah"
   },
   {
-    "title": "Ab'bas Waffle & Kumpir, Beşiktaş (Ortaköy Mah.)"
+    "title": "Bakırköy (Kartaltepe Mah. - İncirli)",
+    "url": "/istanbul/bakirkoy-kartaltepe-mah-incirli"
   },
   {
-    "title": "Abacı Çeşme Kumru, Şişli (Fulya Mah.)"
+    "title": "Bakırköy (Kartaltepe Mah.)",
+    "url": "/istanbul/bakirkoy-kartaltepe-mah"
   },
   {
-    "title": "Abacı Kasap Burger, Beşiktaş (Dikilitaş Mah.)"
+    "title": "Bakırköy (Osmaniye Mah.)",
+    "url": "/istanbul/bakirkoy-osmaniye-mah"
   },
   {
-    "title": "Abacı Kasap Burger, Şişli (Fulya Mah.)"
+    "title": "Bakırköy (Sakızağacı Mah.)",
+    "url": "/istanbul/bakirkoy-sakizagaci-mah"
   },
   {
-    "title": "Abant Ev Yemekleri & Izgara, Şişli (Fulya Mah.)"
+    "title": "Bakırköy (Şenlikköy Mah. - Florya)",
+    "url": "/istanbul/bakirkoy-senlikkoy-mah-florya"
   },
   {
-    "title": "Abantlı Neco Ciğer Pilav, Beşiktaş (Etiler Mah.)"
+    "title": "Bakırköy (Şenlikköy Mah.)",
+    "url": "/istanbul/bakirkoy-senlikkoy-mah"
   },
   {
-    "title": "Abat, Sarıyer (Maslak Mah.)"
+    "title": "Bakırköy (Yenimahalle Mah.)",
+    "url": "/istanbul/bakirkoy-yenimahalle-mah"
   },
   {
-    "title": "Aberna, Şişli (Fulya Mah.)"
+    "title": "Bakırköy (Yeşilköy Atatürk Havalimanı)",
+    "url": "/istanbul/bakirkoy-yesilkoy-ataturk-havalimani"
   },
   {
-    "title": "Abi Burger, Beşiktaş (Etiler Mah.)"
+    "title": "Bakırköy (Yeşilköy Mah. - İDTM)",
+    "url": "/istanbul/bakirkoy-yesilkoy-mah-idtm"
   },
   {
-    "title": "Abi Döner Express, Kağıthane (Gültepe Mah.)"
+    "title": "Bakırköy (Yeşilköy Mah.)",
+    "url": "/istanbul/bakirkoy-yesilkoy-mah"
   },
   {
-    "title": "Abi Gala Kokoreç, Şişli (Mecidiyeköy Mah.)"
+    "title": "Bakırköy (Yeşilyurt Mah.)",
+    "url": "/istanbul/bakirkoy-yesilyurt-mah"
   },
   {
-    "title": "Ability Menemen Station, Şişli (Esentepe Mah. - Plazalar)"
+    "title": "Bakırköy (Zeytinlik Mah.)",
+    "url": "/istanbul/bakirkoy-zeytinlik-mah"
   },
   {
-    "title": "A Bit Of Eggo, Beşiktaş (Arnavutköy Mah.)"
+    "title": "Bakırköy (Zuhuratbaba Mah. - İncirli)",
+    "url": "/istanbul/bakirkoy-zuhuratbaba-mah-incirli"
   },
   {
-    "title": "Abi Tost Station, Şişli (Esentepe Mah. - Plazalar)"
+    "title": "Bakırköy (Zuhuratbaba Mah.)",
+    "url": "/istanbul/bakirkoy-zuhuratbaba-mah"
   },
   {
-    "title": "Ablanın Yeri, Şişli (Esentepe Mah.)"
+    "title": "Başakşehir (Altınşehir Mah.)",
+    "url": "/istanbul/basaksehir-altinsehir-mah"
   },
   {
-    "title": "Acil 1 Mantı & Tava Yemekleri, Şişli (Mecidiyeköy Mah. - Dereboyu)"
+    "title": "Başakşehir (Bahçeşehir 1. Kısım Mah. - Estonşehir)",
+    "url": "/istanbul/basaksehir-bahcesehir-1-kisim-mah-estonsehir"
   },
   {
-    "title": "Açık Büfe Zeytinyağlı Ev Yemekleri, Şişli (Esentepe Mah.)"
+    "title": "Başakşehir (Bahçeşehir 1. Kısım Mah. - Vaditepe)",
+    "url": "/istanbul/basaksehir-bahcesehir-1-kisim-mah-vaditepe"
   },
   {
-    "title": "Açık Mutfak Ev Yemekleri & Izgara, Şişli (Fulya Mah.)"
+    "title": "Başakşehir (Bahçeşehir 1. Kısım Mah.)",
+    "url": "/istanbul/basaksehir-bahcesehir-1-kisim-mah"
   },
   {
-    "title": "Adabella Dessert, Şişli (Merkez Mah.)"
+    "title": "Başakşehir (Bahçeşehir 2. Kısım Mah. - Boğazköy)",
+    "url": "/istanbul/basaksehir-bahcesehir-2-kisim-mah-bogazkoy"
   },
   {
-    "title": "Ada Kahvaltı Evi, Sarıyer (FSM Mah.)"
+    "title": "Başakşehir (Bahçeşehir 2. Kısım Mah.)",
+    "url": "/istanbul/basaksehir-bahcesehir-2-kisim-mah"
   },
   {
-    "title": "Adana 34 Dürüm Evi, Beşiktaş (Ulus Mah.)"
+    "title": "Başakşehir (Başak Mah. - 4. Etap)",
+    "url": "/istanbul/basaksehir-basak-mah-4-etap"
   },
   {
-    "title": "Adana 34 Lahmacun & Pide, Beşiktaş (Ulus Mah.)"
+    "title": "Başakşehir (Başak Mah. - 5. Etap)",
+    "url": "/istanbul/basaksehir-basak-mah-5-etap"
   },
   {
-    "title": "Adana Dürüm Olay Yeri, Kağıthane (Ortabayır Mah.)"
+    "title": "Başakşehir (Başak Mah.)",
+    "url": "/istanbul/basaksehir-basak-mah"
   },
   {
-    "title": "Adana Kebap & Lahmacun & Pide, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Başakşehir (Başakşehir Mah. - 1. Etap)",
+    "url": "/istanbul/basaksehir-basaksehir-mah-1-etap"
   },
   {
-    "title": "Adanalı Dürümcü Abi, Şişli (İzzet Paşa Mah.)"
+    "title": "Başakşehir (Başakşehir Mah. - 2. Etap)",
+    "url": "/istanbul/basaksehir-basaksehir-mah-2-etap"
   },
   {
-    "title": "Adana Varda Ocakbaşı, Sarıyer (Rumelihisarı Mah. - Hisarüstü)"
+    "title": "Başakşehir (Başakşehir Mah.)",
+    "url": "/istanbul/basaksehir-basaksehir-mah"
   },
   {
-    "title": "Adanistan, Beşiktaş (Gayrettepe Mah.)"
+    "title": "Başakşehir (Güvercintepe Mah.)",
+    "url": "/istanbul/basaksehir-guvercintepe-mah"
   },
   {
-    "title": "Ada Sokağı, Beşiktaş (Abbasağa Mah.)"
+    "title": "Başakşehir (İkitelli OSB)",
+    "url": "/istanbul/basaksehir-ikitelli-osb"
   },
   {
-    "title": "Address City, Beşiktaş (Etiler Mah.)"
+    "title": "Başakşehir (Kayabaşı Mah. - Kayaşehir 14. Bölge)",
+    "url": "/istanbul/basaksehir-kayabasi-mah-kayasehir-14-bolge"
   },
   {
-    "title": "Adem Baba, Beşiktaş (Arnavutköy Mah.)"
+    "title": "Başakşehir (Kayabaşı Mah. - Kayaşehir 16. Bölge)",
+    "url": "/istanbul/basaksehir-kayabasi-mah-kayasehir-16-bolge"
   },
   {
-    "title": "Adım Kebap, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Başakşehir (Kayabaşı Mah. - Kayaşehir 17/18/19. Bölge)",
+    "url": "/istanbul/basaksehir-kayabasi-mah-kayasehir-17-18-19-bolge"
   },
   {
-    "title": "Adıyaman Çiğ Köfte, Şişli (Gülbahar Mah. - Gülbağ)"
-  }
-,
+    "title": "Başakşehir (Kayabaşı Mah. - Kayaşehir 20/21. Bölge)",
+    "url": "/istanbul/basaksehir-kayabasi-mah-kayasehir-20-21-bolge"
+  },
+  {
+    "title": "Başakşehir (Kayabaşı Mah. - Kayaşehir)",
+    "url": "/istanbul/basaksehir-kayabasi-mah-kayasehir"
+  },
+  {
+    "title": "Başakşehir (Kayaşehir Mah. - Kayaşehir 11/12/13/23. Bölge)",
+    "url": "/istanbul/basaksehir-kayasehir-mah-kayasehir-11-12-13-23-bolge"
+  },
+  {
+    "title": "Başakşehir (Şahintepe Mah.)",
+    "url": "/istanbul/basaksehir-sahintepe-mah"
+  },
+  {
+    "title": "Başakşehir (Şamlar Mah.)",
+    "url": "/istanbul/basaksehir-samlar-mah"
+  },
+  {
+    "title": "Başakşehir (Ziya Gökalp Mah. - Ayazma Mevkii)",
+    "url": "/istanbul/basaksehir-ziya-gokalp-mah-ayazma-mevkii"
+  },
+  {
+    "title": "Başakşehir (Ziya Gökalp Mah.)",
+    "url": "/istanbul/basaksehir-ziya-gokalp-mah"
+  },
+  {
+    "title": "Bayrampaşa (Altıntepsi Mah.)",
+    "url": "/istanbul/bayrampasa-altintepsi-mah"
+  },
+  {
+    "title": "Bayrampaşa (Cevatpaşa Mah.)",
+    "url": "/istanbul/bayrampasa-cevatpasa-mah"
+  },
+  {
+    "title": "Bayrampaşa (İsmetpaşa Mah.)",
+    "url": "/istanbul/bayrampasa-ismetpasa-mah"
+  },
+  {
+    "title": "Bayrampaşa (Kartaltepe Mah.)",
+    "url": "/istanbul/bayrampasa-kartaltepe-mah"
+  },
+  {
+    "title": "Bayrampaşa (Kocatepe Mah.)",
+    "url": "/istanbul/bayrampasa-kocatepe-mah"
+  },
+  {
+    "title": "Bayrampaşa (Muratpaşa Mah.)",
+    "url": "/istanbul/bayrampasa-muratpasa-mah"
+  },
+  {
+    "title": "Bayrampaşa (Orta Mah.)",
+    "url": "/istanbul/bayrampasa-orta-mah"
+  },
+  {
+    "title": "Bayrampaşa (Terazidere Mah.)",
+    "url": "/istanbul/bayrampasa-terazidere-mah"
+  },
+  {
+    "title": "Bayrampaşa (Vatan Mah.)",
+    "url": "/istanbul/bayrampasa-vatan-mah"
+  },
+  {
+    "title": "Bayrampaşa (Yenidoğan Mah.)",
+    "url": "/istanbul/bayrampasa-yenidogan-mah"
+  },
+  {
+    "title": "Bayrampaşa (Yıldırım Mah.)",
+    "url": "/istanbul/bayrampasa-yildirim-mah"
+  },
+  {
+    "title": "Beşiktaş (Abbasağa Mah.)",
+    "url": "/istanbul/besiktas-abbasaga-mah"
+  },
+  {
+    "title": "Beşiktaş (Akat Mah.)",
+    "url": "/istanbul/besiktas-akat-mah"
+  },
+  {
+    "title": "Beşiktaş (Arnavutköy Mah.)",
+    "url": "/istanbul/besiktas-arnavutkoy-mah"
+  },
+  {
+    "title": "Beşiktaş (Balmumcu Mah.)",
+    "url": "/istanbul/besiktas-balmumcu-mah"
+  },
+  {
+    "title": "Beşiktaş (Bebek Mah.)",
+    "url": "/istanbul/besiktas-bebek-mah"
+  },
+  {
+    "title": "Beşiktaş (Cihannuma Mah.)",
+    "url": "/istanbul/besiktas-cihannuma-mah"
+  },
+  {
+    "title": "Beşiktaş (Dikilitaş Mah.)",
+    "url": "/istanbul/besiktas-dikilitas-mah"
+  },
+  {
+    "title": "Beşiktaş (Etiler Mah.)",
+    "url": "/istanbul/besiktas-etiler-mah"
+  },
+  {
+    "title": "Beşiktaş (Gayrettepe Mah.)",
+    "url": "/istanbul/besiktas-gayrettepe-mah"
+  },
+  {
+    "title": "Beşiktaş (Konaklar Mah.)",
+    "url": "/istanbul/besiktas-konaklar-mah"
+  },
+  {
+    "title": "Beşiktaş (Kuruçeşme Mah.)",
+    "url": "/istanbul/besiktas-kurucesme-mah"
+  },
+  {
+    "title": "Beşiktaş (Kültür Mah.)",
+    "url": "/istanbul/besiktas-kultur-mah"
+  },
+  {
+    "title": "Beşiktaş (Levazım Mah.)",
+    "url": "/istanbul/besiktas-levazim-mah"
+  },
+  {
+    "title": "Beşiktaş (Levent Mah.)",
+    "url": "/istanbul/besiktas-levent-mah"
+  },
+  {
+    "title": "Beşiktaş (Mecidiye Mah.)",
+    "url": "/istanbul/besiktas-mecidiye-mah"
+  },
+  {
+    "title": "Beşiktaş (Muradiye Mah.)",
+    "url": "/istanbul/besiktas-muradiye-mah"
+  },
+  {
+    "title": "Beşiktaş (Nisbetiye Mah.)",
+    "url": "/istanbul/besiktas-nisbetiye-mah"
+  },
+  {
+    "title": "Beşiktaş (Ortaköy Mah.)",
+    "url": "/istanbul/besiktas-ortakoy-mah"
+  },
+  {
+    "title": "Beşiktaş (Sinanpaşa Mah.)",
+    "url": "/istanbul/besiktas-sinanpasa-mah"
+  },
+  {
+    "title": "Beşiktaş (Türkali Mah.)",
+    "url": "/istanbul/besiktas-turkali-mah"
+  },
+  {
+    "title": "Beşiktaş (Ulus Mah.)",
+    "url": "/istanbul/besiktas-ulus-mah"
+  },
+  {
+    "title": "Beşiktaş (Vişnezade Mah. - Akaretler)",
+    "url": "/istanbul/besiktas-visnezade-mah-akaretler"
+  },
+  {
+    "title": "Beşiktaş (Yıldız Mah.)",
+    "url": "/istanbul/besiktas-yildiz-mah"
+  },
+  {
+    "title": "Beykoz (Acarlar Mah. - Acarkent)",
+    "url": "/istanbul/beykoz-acarlar-mah-acarkent"
+  },
+  {
+    "title": "Beykoz (Acarlar Mah.)",
+    "url": "/istanbul/beykoz-acarlar-mah"
+  },
+  {
+    "title": "Beykoz (Akbaba Mah.)",
+    "url": "/istanbul/beykoz-akbaba-mah"
+  },
+  {
+    "title": "Beykoz (Alibahadır Mah.)",
+    "url": "/istanbul/beykoz-alibahadir-mah"
+  },
+  {
+    "title": "Beykoz (Anadoluhisarı Mah.)",
+    "url": "/istanbul/beykoz-anadoluhisari-mah"
+  },
+  {
+    "title": "Beykoz (Baklacı Mah.)",
+    "url": "/istanbul/beykoz-baklaci-mah"
+  },
+  {
+    "title": "Beykoz (Çamlıbahçe Mah.)",
+    "url": "/istanbul/beykoz-camlibahce-mah"
+  },
+  {
+    "title": "Beykoz (Çavuşbaşı Mah.)",
+    "url": "/istanbul/beykoz-cavusbasi-mah"
+  },
+  {
+    "title": "Beykoz (Çengeldere Mah.)",
+    "url": "/istanbul/beykoz-cengeldere-mah"
+  },
+  {
+    "title": "Beykoz (Çiftlik Mah.)",
+    "url": "/istanbul/beykoz-ciftlik-mah"
+  },
+  {
+    "title": "Beykoz (Çiğdem Mah.)",
+    "url": "/istanbul/beykoz-cigdem-mah"
+  },
+  {
+    "title": "Beykoz (Çubuklu Mah.)",
+    "url": "/istanbul/beykoz-cubuklu-mah"
+  },
+  {
+    "title": "Beykoz (Dereseki Mah.)",
+    "url": "/istanbul/beykoz-dereseki-mah"
+  },
+  {
+    "title": "Beykoz (Elmalı Mah.)",
+    "url": "/istanbul/beykoz-elmali-mah"
+  },
+  {
+    "title": "Beykoz (Fatih Mah.)",
+    "url": "/istanbul/beykoz-fatih-mah"
+  },
+  {
+    "title": "Beykoz (Göksu Mah.)",
+    "url": "/istanbul/beykoz-goksu-mah"
+  },
+  {
+    "title": "Beykoz (Görele Mah.)",
+    "url": "/istanbul/beykoz-gorele-mah"
+  },
+  {
+    "title": "Beykoz (Göztepe Mah. - Beykoz Konutları)",
+    "url": "/istanbul/beykoz-goztepe-mah-beykoz-konutlari"
+  },
+  {
+    "title": "Beykoz (Göztepe Mah.)",
+    "url": "/istanbul/beykoz-goztepe-mah"
+  },
+  {
+    "title": "Beykoz (Gümüşsuyu Mah.)",
+    "url": "/istanbul/beykoz-gumussuyu-mah"
+  },
+  {
+    "title": "Beykoz (İncirköy Mah.)",
+    "url": "/istanbul/beykoz-incirkoy-mah"
+  },
+  {
+    "title": "Beykoz (Kanlıca Mah.)",
+    "url": "/istanbul/beykoz-kanlica-mah"
+  },
+  {
+    "title": "Beykoz (Kavacık Mah.)",
+    "url": "/istanbul/beykoz-kavacik-mah"
+  },
+  {
+    "title": "Beykoz (Mahmutşevketpaşa Mah.)",
+    "url": "/istanbul/beykoz-mahmutsevketpasa-mah"
+  },
+  {
+    "title": "Beykoz (Merkez Mah.)",
+    "url": "/istanbul/beykoz-merkez-mah"
+  },
+  {
+    "title": "Beykoz (Ortaçeşme Mah.)",
+    "url": "/istanbul/beykoz-ortacesme-mah"
+  },
+  {
+    "title": "Beykoz (Örnekköy Mah.)",
+    "url": "/istanbul/beykoz-ornekkoy-mah"
+  },
+  {
+    "title": "Beykoz (Paşabahçe Mah.)",
+    "url": "/istanbul/beykoz-pasabahce-mah"
+  },
+  {
+    "title": "Beykoz (Polonezköy Mah.)",
+    "url": "/istanbul/beykoz-polonezkoy-mah"
+  },
+  {
+    "title": "Beykoz (Rüzgarlıbahçe Mah.)",
+    "url": "/istanbul/beykoz-ruzgarlibahce-mah"
+  },
+  {
+    "title": "Beykoz (Soğuksu Mah.)",
+    "url": "/istanbul/beykoz-soguksu-mah"
+  },
+  {
+    "title": "Beykoz (Tokatköy Mah.)",
+    "url": "/istanbul/beykoz-tokatkoy-mah"
+  },
+  {
+    "title": "Beykoz (Vaniköy Mah.)",
+    "url": "/istanbul/beykoz-vanikoy-mah"
+  },
+  {
+    "title": "Beykoz (Yalıköy Mah.)",
+    "url": "/istanbul/beykoz-yalikoy-mah"
+  },
+  {
+    "title": "Beykoz (Yavuz Selim Mah.)",
+    "url": "/istanbul/beykoz-yavuz-selim-mah"
+  },
+  {
+    "title": "Beykoz (Yeni Mah.)",
+    "url": "/istanbul/beykoz-yeni-mah"
+  },
+  {
+    "title": "Beykoz (Zerzavatçı Mah.)",
+    "url": "/istanbul/beykoz-zerzavatci-mah"
+  },
+  {
+    "title": "Beylikdüzü (Adnan Kahveci Mah.)",
+    "url": "/istanbul/beylikduzu-adnan-kahveci-mah"
+  },
+  {
+    "title": "Beylikdüzü (Barış Mah.)",
+    "url": "/istanbul/beylikduzu-baris-mah"
+  },
+  {
+    "title": "Beylikdüzü (Büyükşehir Mah.)",
+    "url": "/istanbul/beylikduzu-buyuksehir-mah"
+  },
+  {
+    "title": "Beylikdüzü (Cumhuriyet Mah.)",
+    "url": "/istanbul/beylikduzu-cumhuriyet-mah"
+  },
+  {
+    "title": "Beylikdüzü (Dereağzı Mah.)",
+    "url": "/istanbul/beylikduzu-dereagzi-mah"
+  },
+  {
+    "title": "Beylikdüzü (Gürpınar Mah.)",
+    "url": "/istanbul/beylikduzu-gurpinar-mah"
+  },
+  {
+    "title": "Beylikdüzü (Kavaklı Mah. - İhlas Mar. Evleri 2)",
+    "url": "/istanbul/beylikduzu-kavakli-mah-ihlas-mar-evleri-2"
+  },
+  {
+    "title": "Beylikdüzü (Kavaklı Mah. - İhlas Mar. Evleri 4)",
+    "url": "/istanbul/beylikduzu-kavakli-mah-ihlas-mar-evleri-4"
+  },
+  {
+    "title": "Beylikdüzü (Kavaklı Mah.)",
+    "url": "/istanbul/beylikduzu-kavakli-mah"
+  },
+  {
+    "title": "Beylikdüzü (Marmara Mah. - İhlas Mar. Evleri 1)",
+    "url": "/istanbul/beylikduzu-marmara-mah-ihlas-mar-evleri-1"
+  },
+  {
+    "title": "Beylikdüzü (Marmara Mah. - İhlas Mar. Evleri 3)",
+    "url": "/istanbul/beylikduzu-marmara-mah-ihlas-mar-evleri-3"
+  },
+  {
+    "title": "Beylikdüzü (Marmara Mah. - Marina)",
+    "url": "/istanbul/beylikduzu-marmara-mah-marina"
+  },
+  {
+    "title": "Beylikdüzü (Marmara Mah.)",
+    "url": "/istanbul/beylikduzu-marmara-mah"
+  },
+  {
+    "title": "Beylikdüzü (OSB)",
+    "url": "/istanbul/beylikduzu-osb"
+  },
+  {
+    "title": "Beylikdüzü (Sahil Mah.)",
+    "url": "/istanbul/beylikduzu-sahil-mah"
+  },
+  {
+    "title": "Beylikdüzü (Yakuplu Mah.)",
+    "url": "/istanbul/beylikduzu-yakuplu-mah"
+  },
+  {
+    "title": "Beyoğlu (Arapcami Mah.)",
+    "url": "/istanbul/beyoglu-arapcami-mah"
+  },
+  {
+    "title": "Beyoğlu (Asmalımescit Mah.)",
+    "url": "/istanbul/beyoglu-asmalimescit-mah"
+  },
+  {
+    "title": "Beyoğlu (Bedrettin Mah.)",
+    "url": "/istanbul/beyoglu-bedrettin-mah"
+  },
+  {
+    "title": "Beyoğlu (Bereketzade Mah.)",
+    "url": "/istanbul/beyoglu-bereketzade-mah"
+  },
+  {
+    "title": "Beyoğlu (Bostan Mah.)",
+    "url": "/istanbul/beyoglu-bostan-mah"
+  },
+  {
+    "title": "Beyoğlu (Bülbül Mah.)",
+    "url": "/istanbul/beyoglu-bulbul-mah"
+  },
+  {
+    "title": "Beyoğlu (Camiikebir Mah.)",
+    "url": "/istanbul/beyoglu-camiikebir-mah"
+  },
+  {
+    "title": "Beyoğlu (Cihangir Mah. - Sıraselviler)",
+    "url": "/istanbul/beyoglu-cihangir-mah-siraselviler"
+  },
+  {
+    "title": "Beyoğlu (Cihangir Mah.)",
+    "url": "/istanbul/beyoglu-cihangir-mah"
+  },
+  {
+    "title": "Beyoğlu (Çatmamescit Mah.)",
+    "url": "/istanbul/beyoglu-catmamescit-mah"
+  },
+  {
+    "title": "Beyoğlu (Çukur Mah.)",
+    "url": "/istanbul/beyoglu-cukur-mah"
+  },
+  {
+    "title": "Beyoğlu (Emekyemez Mah.)",
+    "url": "/istanbul/beyoglu-emekyemez-mah"
+  },
+  {
+    "title": "Beyoğlu (Evliya Çelebi Mah. - Şişhane)",
+    "url": "/istanbul/beyoglu-evliya-celebi-mah-sishane"
+  },
+  {
+    "title": "Beyoğlu (Fetihtepe Mah.)",
+    "url": "/istanbul/beyoglu-fetihtepe-mah"
+  },
+  {
+    "title": "Beyoğlu (Firüzağa Mah.)",
+    "url": "/istanbul/beyoglu-firuzaga-mah"
+  },
+  {
+    "title": "Beyoğlu (Gümüşsuyu Mah. - Taksim)",
+    "url": "/istanbul/beyoglu-gumussuyu-mah-taksim"
+  },
+  {
+    "title": "Beyoğlu (Gümüşsuyu Mah.)",
+    "url": "/istanbul/beyoglu-gumussuyu-mah"
+  },
+  {
+    "title": "Beyoğlu (Hacıahmet Mah.)",
+    "url": "/istanbul/beyoglu-haciahmet-mah"
+  },
+  {
+    "title": "Beyoğlu (Hacımimi Mah.)",
+    "url": "/istanbul/beyoglu-hacimimi-mah"
+  },
+  {
+    "title": "Beyoğlu (Halıcıoğlu Mah.)",
+    "url": "/istanbul/beyoglu-halicioglu-mah"
+  },
+  {
+    "title": "Beyoğlu (Hüseyinağa Mah.)",
+    "url": "/istanbul/beyoglu-huseyinaga-mah"
+  },
+  {
+    "title": "Beyoğlu (İstiklal Mah.)",
+    "url": "/istanbul/beyoglu-istiklal-mah"
+  },
+  {
+    "title": "Beyoğlu (Kadımehmet Mah.)",
+    "url": "/istanbul/beyoglu-kadimehmet-mah"
+  },
+  {
+    "title": "Beyoğlu (Kalyoncukulluk Mah.)",
+    "url": "/istanbul/beyoglu-kalyoncukulluk-mah"
+  },
+  {
+    "title": "Beyoğlu (Kamerhatun Mah.)",
+    "url": "/istanbul/beyoglu-kamerhatun-mah"
+  },
+  {
+    "title": "Beyoğlu (Kaptanpaşa Mah.)",
+    "url": "/istanbul/beyoglu-kaptanpasa-mah"
+  },
+  {
+    "title": "Beyoğlu (Katip Mustafa Çelebi Mah.)",
+    "url": "/istanbul/beyoglu-katip-mustafa-celebi-mah"
+  },
+  {
+    "title": "Beyoğlu (Keçeçipiri Mah.)",
+    "url": "/istanbul/beyoglu-kececipiri-mah"
+  },
+  {
+    "title": "Beyoğlu (Kemankeş Mah.)",
+    "url": "/istanbul/beyoglu-kemankes-mah"
+  },
+  {
+    "title": "Beyoğlu (Kılıç Ali Paşa Mah.)",
+    "url": "/istanbul/beyoglu-kilic-ali-pasa-mah"
+  },
+  {
+    "title": "Beyoğlu (Kocatepe Mah.)",
+    "url": "/istanbul/beyoglu-kocatepe-mah"
+  },
+  {
+    "title": "Beyoğlu (Kulaksız Mah.)",
+    "url": "/istanbul/beyoglu-kulaksiz-mah"
+  },
+  {
+    "title": "Beyoğlu (Kuloğlu Mah.)",
+    "url": "/istanbul/beyoglu-kuloglu-mah"
+  },
+  {
+    "title": "Beyoğlu (Küçükpiyale Mah.)",
+    "url": "/istanbul/beyoglu-kucukpiyale-mah"
+  },
+  {
+    "title": "Beyoğlu (Müeyyetzade Mah. - Karaköy)",
+    "url": "/istanbul/beyoglu-mueyyetzade-mah-karakoy"
+  },
+  {
+    "title": "Beyoğlu (Ömeravni Mah. - Fındıklı)",
+    "url": "/istanbul/beyoglu-omeravni-mah-findikli"
+  },
+  {
+    "title": "Beyoğlu (Ömeravni Mah. - Kabataş)",
+    "url": "/istanbul/beyoglu-omeravni-mah-kabatas"
+  },
+  {
+    "title": "Beyoğlu (Örnektepe Mah.)",
+    "url": "/istanbul/beyoglu-ornektepe-mah"
+  },
+  {
+    "title": "Beyoğlu (Piri Paşa Mah.)",
+    "url": "/istanbul/beyoglu-piri-pasa-mah"
+  },
+  {
+    "title": "Beyoğlu (Piyale Paşa Mah.)",
+    "url": "/istanbul/beyoglu-piyale-pasa-mah"
+  },
+  {
+    "title": "Beyoğlu (Pürtelaş Mah.)",
+    "url": "/istanbul/beyoglu-purtelas-mah"
+  },
+  {
+    "title": "Beyoğlu (Sururi Mah.)",
+    "url": "/istanbul/beyoglu-sururi-mah"
+  },
+  {
+    "title": "Beyoğlu (Sütlüce Mah.)",
+    "url": "/istanbul/beyoglu-sutluce-mah"
+  },
+  {
+    "title": "Beyoğlu (Şahkulu Mah.)",
+    "url": "/istanbul/beyoglu-sahkulu-mah"
+  },
+  {
+    "title": "Beyoğlu (Şehitmuhtar Mah.)",
+    "url": "/istanbul/beyoglu-sehitmuhtar-mah"
+  },
+  {
+    "title": "Beyoğlu (Tomtom Mah.)",
+    "url": "/istanbul/beyoglu-tomtom-mah"
+  },
+  {
+    "title": "Beyoğlu (Yahya Kahya Mah. - Kasımpaşa)",
+    "url": "/istanbul/beyoglu-yahya-kahya-mah-kasimpasa"
+  },
+  {
+    "title": "Beyoğlu (Yenişehir Mah.)",
+    "url": "/istanbul/beyoglu-yenisehir-mah"
+  },
+  {
+    "title": "Burgazada",
+    "url": "/istanbul/burgazada"
+  },
+  {
+    "title": "Büyükada",
+    "url": "/istanbul/buyukada"
+  },
+  {
+    "title": "Büyükçekmece (19 Mayıs Mah.)",
+    "url": "/istanbul/buyukcekmece-19-mayis-mah"
+  },
+  {
+    "title": "Büyükçekmece (Ahmediye Mah.)",
+    "url": "/istanbul/buyukcekmece-ahmediye-mah"
+  },
+  {
+    "title": "Büyükçekmece (Alkent 2000 Mah.)",
+    "url": "/istanbul/buyukcekmece-alkent-2000-mah"
+  },
+  {
+    "title": "Büyükçekmece (Atatürk Mah.)",
+    "url": "/istanbul/buyukcekmece-ataturk-mah"
+  },
+  {
+    "title": "Büyükçekmece (Bahçelievler Mah.)",
+    "url": "/istanbul/buyukcekmece-bahcelievler-mah"
+  },
+  {
+    "title": "Büyükçekmece (Celaliye Mah.)",
+    "url": "/istanbul/buyukcekmece-celaliye-mah"
+  },
+  {
+    "title": "Büyükçekmece (Cumhuriyet Mah.)",
+    "url": "/istanbul/buyukcekmece-cumhuriyet-mah"
+  },
+  {
+    "title": "Büyükçekmece (Çakmaklı Mah.)",
+    "url": "/istanbul/buyukcekmece-cakmakli-mah"
+  },
+  {
+    "title": "Büyükçekmece (Dizdariye Mah.)",
+    "url": "/istanbul/buyukcekmece-dizdariye-mah"
+  },
+  {
+    "title": "Büyükçekmece (Ekinoba Mah.)",
+    "url": "/istanbul/buyukcekmece-ekinoba-mah"
+  },
+  {
+    "title": "Büyükçekmece (Fatih Mah.)",
+    "url": "/istanbul/buyukcekmece-fatih-mah"
+  },
+  {
+    "title": "Büyükçekmece (Güzelce Mah.)",
+    "url": "/istanbul/buyukcekmece-guzelce-mah"
+  },
+  {
+    "title": "Büyükçekmece (Hürriyet Mah.)",
+    "url": "/istanbul/buyukcekmece-hurriyet-mah"
+  },
+  {
+    "title": "Büyükçekmece (Kamiloba Mah.)",
+    "url": "/istanbul/buyukcekmece-kamiloba-mah"
+  },
+  {
+    "title": "Büyükçekmece (Karaağaç Mah.)",
+    "url": "/istanbul/buyukcekmece-karaagac-mah"
+  },
+  {
+    "title": "Büyükçekmece (Kumburgaz Mah.)",
+    "url": "/istanbul/buyukcekmece-kumburgaz-mah"
+  },
+  {
+    "title": "Büyükçekmece (Mimar Sinan Mah.)",
+    "url": "/istanbul/buyukcekmece-mimar-sinan-mah"
+  },
+  {
+    "title": "Büyükçekmece (Mimaroba Mah.)",
+    "url": "/istanbul/buyukcekmece-mimaroba-mah"
+  },
+  {
+    "title": "Büyükçekmece (Muratçeşme Mah.)",
+    "url": "/istanbul/buyukcekmece-muratcesme-mah"
+  },
+  {
+    "title": "Büyükçekmece (Pınartepe Mah.)",
+    "url": "/istanbul/buyukcekmece-pinartepe-mah"
+  },
+  {
+    "title": "Büyükçekmece (Sinanoba Mah.)",
+    "url": "/istanbul/buyukcekmece-sinanoba-mah"
+  },
+  {
+    "title": "Büyükçekmece (Türkoba Mah.)",
+    "url": "/istanbul/buyukcekmece-turkoba-mah"
+  },
+  {
+    "title": "Büyükçekmece (Ulus Mah.)",
+    "url": "/istanbul/buyukcekmece-ulus-mah"
+  },
+  {
+    "title": "Büyükçekmece (Yeni Mah.)",
+    "url": "/istanbul/buyukcekmece-yeni-mah"
+  },
+  {
+    "title": "Çatalca (Ferhatpaşa Mah. - Kiptaş Bölgesi)",
+    "url": "/istanbul/catalca-ferhatpasa-mah-kiptas-bolgesi"
+  },
+  {
+    "title": "Çatalca (Ferhatpaşa Mah.)",
+    "url": "/istanbul/catalca-ferhatpasa-mah"
+  },
+  {
+    "title": "Çatalca (Kaleiçi Mah.)",
+    "url": "/istanbul/catalca-kaleici-mah"
+  },
+  {
+    "title": "Çatalca (Muratbey Merkez Mah. - Gümrük)",
+    "url": "/istanbul/catalca-muratbey-merkez-mah-gumruk"
+  },
+  {
+    "title": "Çekmeköy (Alemdağ Mah.)",
+    "url": "/istanbul/cekmekoy-alemdag-mah"
+  },
+  {
+    "title": "Çekmeköy (Aydınlar Mah.)",
+    "url": "/istanbul/cekmekoy-aydinlar-mah"
+  },
+  {
+    "title": "Çekmeköy (Cumhuriyet Mah.)",
+    "url": "/istanbul/cekmekoy-cumhuriyet-mah"
+  },
+  {
+    "title": "Çekmeköy (Çamlık Mah.)",
+    "url": "/istanbul/cekmekoy-camlik-mah"
+  },
+  {
+    "title": "Çekmeköy (Çatalçeşme Mah. - Çatalmeşe)",
+    "url": "/istanbul/cekmekoy-catalcesme-mah-catalmese"
+  },
+  {
+    "title": "Çekmeköy (Çavuşbaşı Bölg. - Merkez Mah.)",
+    "url": "/istanbul/cekmekoy-cavusbasi-bolg-merkez-mah"
+  },
+  {
+    "title": "Çekmeköy (Ekşioğlu Mah.)",
+    "url": "/istanbul/cekmekoy-eksioglu-mah"
+  },
+  {
+    "title": "Çekmeköy (Güngören Mah.)",
+    "url": "/istanbul/cekmekoy-gungoren-mah"
+  },
+  {
+    "title": "Çekmeköy (Hamidiye Mah.)",
+    "url": "/istanbul/cekmekoy-hamidiye-mah"
+  },
+  {
+    "title": "Çekmeköy (Kirazlıdere Mah.)",
+    "url": "/istanbul/cekmekoy-kirazlidere-mah"
+  },
+  {
+    "title": "Çekmeköy (Koçullu Mah.)",
+    "url": "/istanbul/cekmekoy-kocullu-mah"
+  },
+  {
+    "title": "Çekmeköy (Mehmet Akif Mah.)",
+    "url": "/istanbul/cekmekoy-mehmet-akif-mah"
+  },
+  {
+    "title": "Çekmeköy (Merkez Mah.)",
+    "url": "/istanbul/cekmekoy-merkez-mah"
+  },
+  {
+    "title": "Çekmeköy (Mimar Sinan Mah.)",
+    "url": "/istanbul/cekmekoy-mimar-sinan-mah"
+  },
+  {
+    "title": "Çekmeköy (Nişantepe Mah.)",
+    "url": "/istanbul/cekmekoy-nisantepe-mah"
+  },
+  {
+    "title": "Çekmeköy (Ömerli Mah.)",
+    "url": "/istanbul/cekmekoy-omerli-mah"
+  },
+  {
+    "title": "Çekmeköy (Reşadiye Mah.)",
+    "url": "/istanbul/cekmekoy-resadiye-mah"
+  },
+  {
+    "title": "Çekmeköy (Sırapınar Mah.)",
+    "url": "/istanbul/cekmekoy-sirapinar-mah"
+  },
+  {
+    "title": "Çekmeköy (Soğukpınar Mah.)",
+    "url": "/istanbul/cekmekoy-sogukpinar-mah"
+  },
+  {
+    "title": "Çekmeköy (Sultançiftliği Mah.)",
+    "url": "/istanbul/cekmekoy-sultanciftligi-mah"
+  },
+  {
+    "title": "Çekmeköy (Taşdelen Mah.)",
+    "url": "/istanbul/cekmekoy-tasdelen-mah"
+  },
+  {
+    "title": "Esenler (Birlik Mah.)",
+    "url": "/istanbul/esenler-birlik-mah"
+  },
+  {
+    "title": "Esenler (Çiftehavuzlar Mah.)",
+    "url": "/istanbul/esenler-ciftehavuzlar-mah"
+  },
+  {
+    "title": "Esenler (Davutpaşa Mah.)",
+    "url": "/istanbul/esenler-davutpasa-mah"
+  },
+  {
+    "title": "Esenler (Fatih Mah.)",
+    "url": "/istanbul/esenler-fatih-mah"
+  },
+  {
+    "title": "Esenler (Fevzi Çakmak Mah.)",
+    "url": "/istanbul/esenler-fevzi-cakmak-mah"
+  },
+  {
+    "title": "Esenler (Havaalanı Mah.)",
+    "url": "/istanbul/esenler-havaalani-mah"
+  },
+  {
+    "title": "Esenler (Karabayır Mah.)",
+    "url": "/istanbul/esenler-karabayir-mah"
+  },
+  {
+    "title": "Esenler (Kazım Karabekir Mah.)",
+    "url": "/istanbul/esenler-kazim-karabekir-mah"
+  },
+  {
+    "title": "Esenler (Kemer Mah. - Atışalanı)",
+    "url": "/istanbul/esenler-kemer-mah-atisalani"
+  },
+  {
+    "title": "Esenler (Menderes Mah.)",
+    "url": "/istanbul/esenler-menderes-mah"
+  },
+  {
+    "title": "Esenler (Mimar Sinan Mah.)",
+    "url": "/istanbul/esenler-mimar-sinan-mah"
+  },
+  {
+    "title": "Esenler (Namık Kemal Mah.)",
+    "url": "/istanbul/esenler-namik-kemal-mah"
+  },
+  {
+    "title": "Esenler (Nine Hatun Mah.)",
+    "url": "/istanbul/esenler-nine-hatun-mah"
+  },
+  {
+    "title": "Esenler (Oruç Reis Mah. - Tekstilkent)",
+    "url": "/istanbul/esenler-oruc-reis-mah-tekstilkent"
+  },
+  {
+    "title": "Esenler (Oruç Reis Mah.)",
+    "url": "/istanbul/esenler-oruc-reis-mah"
+  },
+  {
+    "title": "Esenler (Tuna Mah.)",
+    "url": "/istanbul/esenler-tuna-mah"
+  },
+  {
+    "title": "Esenler (Turgut Reis Mah.)",
+    "url": "/istanbul/esenler-turgut-reis-mah"
+  },
+  {
+    "title": "Esenler (Yavuz Selim Mah.)",
+    "url": "/istanbul/esenler-yavuz-selim-mah"
+  },
+  {
+    "title": "Esenyurt (Akçaburgaz Mah.)",
+    "url": "/istanbul/esenyurt-akcaburgaz-mah"
+  },
+  {
+    "title": "Esenyurt (Akevler Mah.)",
+    "url": "/istanbul/esenyurt-akevler-mah"
+  },
+  {
+    "title": "Esenyurt (Akşemseddin Mah.)",
+    "url": "/istanbul/esenyurt-aksemseddin-mah"
+  },
+  {
+    "title": "Esenyurt (Ardıçlı Mah.)",
+    "url": "/istanbul/esenyurt-ardicli-mah"
+  },
+  {
+    "title": "Esenyurt (Aşık Veysel Mah.)",
+    "url": "/istanbul/esenyurt-asik-veysel-mah"
+  },
+  {
+    "title": "Esenyurt (Atatürk Mah.)",
+    "url": "/istanbul/esenyurt-ataturk-mah"
+  },
+  {
+    "title": "Esenyurt (Bağlarçeşme Mah.)",
+    "url": "/istanbul/esenyurt-baglarcesme-mah"
+  },
+  {
+    "title": "Esenyurt (Balıkyolu Mah.)",
+    "url": "/istanbul/esenyurt-balikyolu-mah"
+  },
+  {
+    "title": "Esenyurt (Barbaros Hayrettin Paşa Mah.)",
+    "url": "/istanbul/esenyurt-barbaros-hayrettin-pasa-mah"
+  },
+  {
+    "title": "Esenyurt (Battalgazi Mah.)",
+    "url": "/istanbul/esenyurt-battalgazi-mah"
+  },
+  {
+    "title": "Esenyurt (Cumhuriyet Mah.)",
+    "url": "/istanbul/esenyurt-cumhuriyet-mah"
+  },
+  {
+    "title": "Esenyurt (Çınar Mah.)",
+    "url": "/istanbul/esenyurt-cinar-mah"
+  },
+  {
+    "title": "Esenyurt (Esenkent Mah.)",
+    "url": "/istanbul/esenyurt-esenkent-mah"
+  },
+  {
+    "title": "Esenyurt (Fatih Mah.)",
+    "url": "/istanbul/esenyurt-fatih-mah"
+  },
+  {
+    "title": "Esenyurt (Gökevler Mah.)",
+    "url": "/istanbul/esenyurt-gokevler-mah"
+  },
+  {
+    "title": "Esenyurt (Güzelyurt Mah.)",
+    "url": "/istanbul/esenyurt-guzelyurt-mah"
+  },
+  {
+    "title": "Esenyurt (Hürriyet Mah.)",
+    "url": "/istanbul/esenyurt-hurriyet-mah"
+  },
+  {
+    "title": "Esenyurt (İncirtepe Mah.)",
+    "url": "/istanbul/esenyurt-incirtepe-mah"
+  },
+  {
+    "title": "Esenyurt (İnönü Mah.)",
+    "url": "/istanbul/esenyurt-inonu-mah"
+  },
+  {
+    "title": "Esenyurt (İstiklal Mah.)",
+    "url": "/istanbul/esenyurt-istiklal-mah"
+  },
+  {
+    "title": "Esenyurt (Koza Mah.)",
+    "url": "/istanbul/esenyurt-koza-mah"
+  },
+  {
+    "title": "Esenyurt (Mehmet Akif Ersoy Mah.)",
+    "url": "/istanbul/esenyurt-mehmet-akif-ersoy-mah"
+  },
+  {
+    "title": "Esenyurt (Mehterçeşme Mah.)",
+    "url": "/istanbul/esenyurt-mehtercesme-mah"
+  },
+  {
+    "title": "Esenyurt (Mevlana Mah.)",
+    "url": "/istanbul/esenyurt-mevlana-mah"
+  },
+  {
+    "title": "Esenyurt (Namık Kemal Mah.)",
+    "url": "/istanbul/esenyurt-namik-kemal-mah"
+  },
+  {
+    "title": "Esenyurt (Necip Fazıl Kısakürek Mah.)",
+    "url": "/istanbul/esenyurt-necip-fazil-kisakurek-mah"
+  },
+  {
+    "title": "Esenyurt (Orhangazi Mah.)",
+    "url": "/istanbul/esenyurt-orhangazi-mah"
+  },
+  {
+    "title": "Esenyurt (Osmangazi Mah.)",
+    "url": "/istanbul/esenyurt-osmangazi-mah"
+  },
+  {
+    "title": "Esenyurt (Örnek Mah.)",
+    "url": "/istanbul/esenyurt-ornek-mah"
+  },
+  {
+    "title": "Esenyurt (Pınar Mah.)",
+    "url": "/istanbul/esenyurt-pinar-mah"
+  },
+  {
+    "title": "Esenyurt (Piri Reis Mah.)",
+    "url": "/istanbul/esenyurt-piri-reis-mah"
+  },
+  {
+    "title": "Esenyurt (Saadetdere Mah.)",
+    "url": "/istanbul/esenyurt-saadetdere-mah"
+  },
+  {
+    "title": "Esenyurt (Selahaddin Eyyubi Mah.)",
+    "url": "/istanbul/esenyurt-selahaddin-eyyubi-mah"
+  },
+  {
+    "title": "Esenyurt (Sultaniye Mah.)",
+    "url": "/istanbul/esenyurt-sultaniye-mah"
+  },
+  {
+    "title": "Esenyurt (Süleymaniye Mah.)",
+    "url": "/istanbul/esenyurt-suleymaniye-mah"
+  },
+  {
+    "title": "Esenyurt (Şehitler Mah.)",
+    "url": "/istanbul/esenyurt-sehitler-mah"
+  },
+  {
+    "title": "Esenyurt (Talatpaşa Mah.)",
+    "url": "/istanbul/esenyurt-talatpasa-mah"
+  },
+  {
+    "title": "Esenyurt (Turgut Özal Mah.)",
+    "url": "/istanbul/esenyurt-turgut-ozal-mah"
+  },
+  {
+    "title": "Esenyurt (Üçevler Mah.)",
+    "url": "/istanbul/esenyurt-ucevler-mah"
+  },
+  {
+    "title": "Esenyurt (Yenikent Mah.)",
+    "url": "/istanbul/esenyurt-yenikent-mah"
+  },
+  {
+    "title": "Esenyurt (Yeşilkent Mah.)",
+    "url": "/istanbul/esenyurt-yesilkent-mah"
+  },
+  {
+    "title": "Esenyurt (Yunusemre Mah.)",
+    "url": "/istanbul/esenyurt-yunusemre-mah"
+  },
+  {
+    "title": "Esenyurt (Zafer Mah.)",
+    "url": "/istanbul/esenyurt-zafer-mah"
+  },
+  {
+    "title": "Eyüp (Akşemsettin Mah.)",
+    "url": "/istanbul/eyup-aksemsettin-mah"
+  },
+  {
+    "title": "Eyüp (Alibeyköy Mah.)",
+    "url": "/istanbul/eyup-alibeykoy-mah"
+  },
+  {
+    "title": "Eyüp (Çırçır Mah.)",
+    "url": "/istanbul/eyup-circir-mah"
+  },
+  {
+    "title": "Eyüp (Defterdar Mah.)",
+    "url": "/istanbul/eyup-defterdar-mah"
+  },
+  {
+    "title": "Eyüp (Düğmeciler Mah.)",
+    "url": "/istanbul/eyup-dugmeciler-mah"
+  },
+  {
+    "title": "Eyüp (Emniyettepe Mah.)",
+    "url": "/istanbul/eyup-emniyettepe-mah"
+  },
+  {
+    "title": "Eyüp (Esentepe Mah.)",
+    "url": "/istanbul/eyup-esentepe-mah"
+  },
+  {
+    "title": "Eyüp (Göktürk Merkez Mah. - Kemer Country Bölgesi)",
+    "url": "/istanbul/eyup-gokturk-merkez-mah-kemer-country-bolgesi"
+  },
+  {
+    "title": "Eyüp (Göktürk Merkez Mah. - Kemerburgaz)",
+    "url": "/istanbul/eyup-gokturk-merkez-mah-kemerburgaz"
+  },
+  {
+    "title": "Eyüp (Göktürk Merkez Mah.)",
+    "url": "/istanbul/eyup-gokturk-merkez-mah"
+  },
+  {
+    "title": "Eyüp (Güzeltepe Mah. - 5. Levent)",
+    "url": "/istanbul/eyup-guzeltepe-mah-5-levent"
+  },
+  {
+    "title": "Eyüp (Güzeltepe Mah. - Finanskent Konutları)",
+    "url": "/istanbul/eyup-guzeltepe-mah-finanskent-konutlari"
+  },
+  {
+    "title": "Eyüp (Güzeltepe Mah.)",
+    "url": "/istanbul/eyup-guzeltepe-mah"
+  },
+  {
+    "title": "Eyüp (İslambey Mah.)",
+    "url": "/istanbul/eyup-islambey-mah"
+  },
+  {
+    "title": "Eyüp (Karadolap Mah.)",
+    "url": "/istanbul/eyup-karadolap-mah"
+  },
+  {
+    "title": "Eyüp (Merkez Mah.)",
+    "url": "/istanbul/eyup-merkez-mah"
+  },
+  {
+    "title": "Eyüp (Mimar Sinan Mah.)",
+    "url": "/istanbul/eyup-mimar-sinan-mah"
+  },
+  {
+    "title": "Eyüp (Mithat Paşa Mah.)",
+    "url": "/istanbul/eyup-mithat-pasa-mah"
+  },
+  {
+    "title": "Eyüp (Nişanca Mah.)",
+    "url": "/istanbul/eyup-nisanca-mah"
+  },
+  {
+    "title": "Eyüp (Rami Cuma Mah.)",
+    "url": "/istanbul/eyup-rami-cuma-mah"
+  },
+  {
+    "title": "Eyüp (Rami Yeni Mah.)",
+    "url": "/istanbul/eyup-rami-yeni-mah"
+  },
+  {
+    "title": "Eyüp (Sakarya Mah.)",
+    "url": "/istanbul/eyup-sakarya-mah"
+  },
+  {
+    "title": "Eyüp (Silahtarağa Mah.)",
+    "url": "/istanbul/eyup-silahtaraga-mah"
+  },
+  {
+    "title": "Eyüp (Topçular Mah.)",
+    "url": "/istanbul/eyup-topcular-mah"
+  },
+  {
+    "title": "Eyüp (Yeşilpınar Mah.)",
+    "url": "/istanbul/eyup-yesilpinar-mah"
+  },
+  {
+    "title": "Fatih (Aksaray Mah.)",
+    "url": "/istanbul/fatih-aksaray-mah"
+  },
+  {
+    "title": "Fatih (Akşemsettin Mah.)",
+    "url": "/istanbul/fatih-aksemsettin-mah"
+  },
+  {
+    "title": "Fatih (Alemdar Mah.)",
+    "url": "/istanbul/fatih-alemdar-mah"
+  },
+  {
+    "title": "Fatih (Ali Kuşçu Mah.)",
+    "url": "/istanbul/fatih-ali-kuscu-mah"
+  },
+  {
+    "title": "Fatih (Atikali Mah.)",
+    "url": "/istanbul/fatih-atikali-mah"
+  },
+  {
+    "title": "Fatih (Ayvansaray Mah.)",
+    "url": "/istanbul/fatih-ayvansaray-mah"
+  },
+  {
+    "title": "Fatih (Balabanağa Mah.)",
+    "url": "/istanbul/fatih-balabanaga-mah"
+  },
+  {
+    "title": "Fatih (Balat Mah.)",
+    "url": "/istanbul/fatih-balat-mah"
+  },
+  {
+    "title": "Fatih (Beyazıt Mah.)",
+    "url": "/istanbul/fatih-beyazit-mah"
+  },
+  {
+    "title": "Fatih (Binbirdirek Mah.)",
+    "url": "/istanbul/fatih-binbirdirek-mah"
+  },
+  {
+    "title": "Fatih (Cankurtaran Mah.)",
+    "url": "/istanbul/fatih-cankurtaran-mah"
+  },
+  {
+    "title": "Fatih (Cerrahpaşa Mah.)",
+    "url": "/istanbul/fatih-cerrahpasa-mah"
+  },
+  {
+    "title": "Fatih (Cibali Mah. - Unkapanı)",
+    "url": "/istanbul/fatih-cibali-mah-unkapani"
+  },
+  {
+    "title": "Fatih (Demirtaş Mah.)",
+    "url": "/istanbul/fatih-demirtas-mah"
+  },
+  {
+    "title": "Fatih (Dervişali Mah.)",
+    "url": "/istanbul/fatih-dervisali-mah"
+  },
+  {
+    "title": "Fatih (Emin Sinan Mah.)",
+    "url": "/istanbul/fatih-emin-sinan-mah"
+  },
+  {
+    "title": "Fatih (Hacıkadın Mah.)",
+    "url": "/istanbul/fatih-hacikadin-mah"
+  },
+  {
+    "title": "Fatih (Haseki Sultan Mah. - Fındıkzade)",
+    "url": "/istanbul/fatih-haseki-sultan-mah-findikzade"
+  },
+  {
+    "title": "Fatih (Hırka-i Şerif Mah.)",
+    "url": "/istanbul/fatih-hirka-i-serif-mah"
+  },
+  {
+    "title": "Fatih (Hobyar Mah. - Bahçekapı)",
+    "url": "/istanbul/fatih-hobyar-mah-bahcekapi"
+  },
+  {
+    "title": "Fatih (Hobyar Mah. - Cağaloğlu)",
+    "url": "/istanbul/fatih-hobyar-mah-cagaloglu"
+  },
+  {
+    "title": "Fatih (Hoca Gıyasettin Mah.)",
+    "url": "/istanbul/fatih-hoca-giyasettin-mah"
+  },
+  {
+    "title": "Fatih (Hoca Paşa Mah. - Sirkeci)",
+    "url": "/istanbul/fatih-hoca-pasa-mah-sirkeci"
+  },
+  {
+    "title": "Fatih (İskenderpaşa Mah.)",
+    "url": "/istanbul/fatih-iskenderpasa-mah"
+  },
+  {
+    "title": "Fatih (Kalenderhane Mah. - Şehzadebaşı)",
+    "url": "/istanbul/fatih-kalenderhane-mah-sehzadebasi"
+  },
+  {
+    "title": "Fatih (Karagümrük Mah.)",
+    "url": "/istanbul/fatih-karagumruk-mah"
+  },
+  {
+    "title": "Fatih (Katip Kasım Mah. - Yenikapı)",
+    "url": "/istanbul/fatih-katip-kasim-mah-yenikapi"
+  },
+  {
+    "title": "Fatih (Kemal Paşa Mah.)",
+    "url": "/istanbul/fatih-kemal-pasa-mah"
+  },
+  {
+    "title": "Fatih (Kocamustafapaşa Mah.)",
+    "url": "/istanbul/fatih-kocamustafapasa-mah"
+  },
+  {
+    "title": "Fatih (Küçük Ayasofya Mah.)",
+    "url": "/istanbul/fatih-kucuk-ayasofya-mah"
+  },
+  {
+    "title": "Fatih (Mercan Mah.)",
+    "url": "/istanbul/fatih-mercan-mah"
+  },
+  {
+    "title": "Fatih (Mesih Paşa Mah. - Laleli)",
+    "url": "/istanbul/fatih-mesih-pasa-mah-laleli"
+  },
+  {
+    "title": "Fatih (Mevlanakapı Mah.)",
+    "url": "/istanbul/fatih-mevlanakapi-mah"
+  },
+  {
+    "title": "Fatih (Mimar Hayrettin Mah.)",
+    "url": "/istanbul/fatih-mimar-hayrettin-mah"
+  },
+  {
+    "title": "Fatih (Mimar Kemalettin Mah.)",
+    "url": "/istanbul/fatih-mimar-kemalettin-mah"
+  },
+  {
+    "title": "Fatih (Molla Gürani Mah. - Fındıkzade)",
+    "url": "/istanbul/fatih-molla-gurani-mah-findikzade"
+  },
+  {
+    "title": "Fatih (Mollafeneri Mah. - Çemberlitaş)",
+    "url": "/istanbul/fatih-mollafeneri-mah-cemberlitas"
+  },
+  {
+    "title": "Fatih (Mollahüsrev Mah.)",
+    "url": "/istanbul/fatih-mollahusrev-mah"
+  },
+  {
+    "title": "Fatih (Muhsine Hatun Mah. - Kumkapı)",
+    "url": "/istanbul/fatih-muhsine-hatun-mah-kumkapi"
+  },
+  {
+    "title": "Fatih (Nişanca Mah.)",
+    "url": "/istanbul/fatih-nisanca-mah"
+  },
+  {
+    "title": "Fatih (Rüstem Paşa Mah.)",
+    "url": "/istanbul/fatih-rustem-pasa-mah"
+  },
+  {
+    "title": "Fatih (Saraç İshak Mah.)",
+    "url": "/istanbul/fatih-sarac-ishak-mah"
+  },
+  {
+    "title": "Fatih (Sarıdemir Mah.)",
+    "url": "/istanbul/fatih-saridemir-mah"
+  },
+  {
+    "title": "Fatih (Seyyid Ömer Mah. - Fındıkzade)",
+    "url": "/istanbul/fatih-seyyid-omer-mah-findikzade"
+  },
+  {
+    "title": "Fatih (Silivri Kapı Mah.)",
+    "url": "/istanbul/fatih-silivri-kapi-mah"
+  },
+  {
+    "title": "Fatih (Sultan Ahmet Mah.)",
+    "url": "/istanbul/fatih-sultan-ahmet-mah"
+  },
+  {
+    "title": "Fatih (Sururi Mah.)",
+    "url": "/istanbul/fatih-sururi-mah"
+  },
+  {
+    "title": "Fatih (Süleymaniye Mah.)",
+    "url": "/istanbul/fatih-suleymaniye-mah"
+  },
+  {
+    "title": "Fatih (Sümbül Efendi Mah.)",
+    "url": "/istanbul/fatih-sumbul-efendi-mah"
+  },
+  {
+    "title": "Fatih (Şehremini Mah. - Çapa)",
+    "url": "/istanbul/fatih-sehremini-mah-capa"
+  },
+  {
+    "title": "Fatih (Şehremini Mah. - Fındıkzade)",
+    "url": "/istanbul/fatih-sehremini-mah-findikzade"
+  },
+  {
+    "title": "Fatih (Şehsuvarbey Mah.)",
+    "url": "/istanbul/fatih-sehsuvarbey-mah"
+  },
+  {
+    "title": "Fatih (Tahtakale Mah.)",
+    "url": "/istanbul/fatih-tahtakale-mah"
+  },
+  {
+    "title": "Fatih (Taya Hatun Mah.)",
+    "url": "/istanbul/fatih-taya-hatun-mah"
+  },
+  {
+    "title": "Fatih (Topkapı Mah.)",
+    "url": "/istanbul/fatih-topkapi-mah"
+  },
+  {
+    "title": "Fatih (Yavuz Sinan Mah.)",
+    "url": "/istanbul/fatih-yavuz-sinan-mah"
+  },
+  {
+    "title": "Fatih (Yavuz Sultan Selim Mah.)",
+    "url": "/istanbul/fatih-yavuz-sultan-selim-mah"
+  },
+  {
+    "title": "Fatih (Yedikule Mah.)",
+    "url": "/istanbul/fatih-yedikule-mah"
+  },
+  {
+    "title": "Fatih (Zeyrek Mah. - Vefa)",
+    "url": "/istanbul/fatih-zeyrek-mah-vefa"
+  },
+  {
+    "title": "Gaziosmanpaşa (B. Hayr. Paşa Mah.)",
+    "url": "/istanbul/gaziosmanpasa-b-hayr-pasa-mah"
+  },
+  {
+    "title": "Gaziosmanpaşa (Bağlarbaşı Mah.)",
+    "url": "/istanbul/gaziosmanpasa-baglarbasi-mah"
+  },
+  {
+    "title": "Gaziosmanpaşa (Fevzi Çakmak Mah.)",
+    "url": "/istanbul/gaziosmanpasa-fevzi-cakmak-mah"
+  },
+  {
+    "title": "Gaziosmanpaşa (Hürriyet Mah.)",
+    "url": "/istanbul/gaziosmanpasa-hurriyet-mah"
+  },
+  {
+    "title": "Gaziosmanpaşa (Karadeniz Mah.)",
+    "url": "/istanbul/gaziosmanpasa-karadeniz-mah"
+  },
+  {
+    "title": "Gaziosmanpaşa (Karayolları Mah.)",
+    "url": "/istanbul/gaziosmanpasa-karayollari-mah"
+  },
+  {
+    "title": "Gaziosmanpaşa (Karlıtepe Mah.)",
+    "url": "/istanbul/gaziosmanpasa-karlitepe-mah"
+  },
+  {
+    "title": "Gaziosmanpaşa (Kazım Karabekir Mah.)",
+    "url": "/istanbul/gaziosmanpasa-kazim-karabekir-mah"
+  },
+  {
+    "title": "Gaziosmanpaşa (Merkez Mah.)",
+    "url": "/istanbul/gaziosmanpasa-merkez-mah"
+  },
+  {
+    "title": "Gaziosmanpaşa (Mevlana Mah.)",
+    "url": "/istanbul/gaziosmanpasa-mevlana-mah"
+  },
+  {
+    "title": "Gaziosmanpaşa (Pazariçi Mah.)",
+    "url": "/istanbul/gaziosmanpasa-pazarici-mah"
+  },
+  {
+    "title": "Gaziosmanpaşa (Sarıgöl Mah.)",
+    "url": "/istanbul/gaziosmanpasa-sarigol-mah"
+  },
+  {
+    "title": "Gaziosmanpaşa (Şemsi Paşa Mah.)",
+    "url": "/istanbul/gaziosmanpasa-semsi-pasa-mah"
+  },
+  {
+    "title": "Gaziosmanpaşa (Yeni Mah.)",
+    "url": "/istanbul/gaziosmanpasa-yeni-mah"
+  },
+  {
+    "title": "Gaziosmanpaşa (Yenidoğan Mah.)",
+    "url": "/istanbul/gaziosmanpasa-yenidogan-mah"
+  },
+  {
+    "title": "Gaziosmanpaşa (Yıldıztabya Mah.)",
+    "url": "/istanbul/gaziosmanpasa-yildiztabya-mah"
+  },
+  {
+    "title": "Güngören (A. Nafiz Gürman Mah.)",
+    "url": "/istanbul/gungoren-a-nafiz-gurman-mah"
+  },
+  {
+    "title": "Güngören (Akıncılar Mah.)",
+    "url": "/istanbul/gungoren-akincilar-mah"
+  },
+  {
+    "title": "Güngören (Gençosman Mah.)",
+    "url": "/istanbul/gungoren-gencosman-mah"
+  },
+  {
+    "title": "Güngören (Güneştepe Mah.)",
+    "url": "/istanbul/gungoren-gunestepe-mah"
+  },
+  {
+    "title": "Güngören (Güven Mah.)",
+    "url": "/istanbul/gungoren-guven-mah"
+  },
+  {
+    "title": "Güngören (Haznedar Mah.)",
+    "url": "/istanbul/gungoren-haznedar-mah"
+  },
+  {
+    "title": "Güngören (M. Nesih Özmen Mah. - Merter)",
+    "url": "/istanbul/gungoren-m-nesih-ozmen-mah-merter"
+  },
+  {
+    "title": "Güngören (M. Nesih Özmen Mah.)",
+    "url": "/istanbul/gungoren-m-nesih-ozmen-mah"
+  },
+  {
+    "title": "Güngören (Mareşal Çakmak Mah.)",
+    "url": "/istanbul/gungoren-maresal-cakmak-mah"
+  },
+  {
+    "title": "Güngören (Merkez Mah.)",
+    "url": "/istanbul/gungoren-merkez-mah"
+  },
+  {
+    "title": "Güngören (Sanayi Mah.)",
+    "url": "/istanbul/gungoren-sanayi-mah"
+  },
+  {
+    "title": "Güngören (Tozkoparan Mah.)",
+    "url": "/istanbul/gungoren-tozkoparan-mah"
+  },
+  {
+    "title": "Kadıköy (19 Mayıs Mah.)",
+    "url": "/istanbul/kadikoy-19-mayis-mah"
+  },
+  {
+    "title": "Kadıköy (Acıbadem Mah.)",
+    "url": "/istanbul/kadikoy-acibadem-mah"
+  },
+  {
+    "title": "Kadıköy (Bostancı Mah. - Şenesenevler)",
+    "url": "/istanbul/kadikoy-bostanci-mah-senesenevler"
+  },
+  {
+    "title": "Kadıköy (Bostancı Mah. - Üst)",
+    "url": "/istanbul/kadikoy-bostanci-mah-ust"
+  },
+  {
+    "title": "Kadıköy (Bostancı Mah.)",
+    "url": "/istanbul/kadikoy-bostanci-mah"
+  },
+  {
+    "title": "Kadıköy (Caddebostan Mah. - Ethemefendi)",
+    "url": "/istanbul/kadikoy-caddebostan-mah-ethemefendi"
+  },
+  {
+    "title": "Kadıköy (Caddebostan Mah.)",
+    "url": "/istanbul/kadikoy-caddebostan-mah"
+  },
+  {
+    "title": "Kadıköy (Caferağa Mah. - Moda)",
+    "url": "/istanbul/kadikoy-caferaga-mah-moda"
+  },
+  {
+    "title": "Kadıköy (Dumlupınar Mah.)",
+    "url": "/istanbul/kadikoy-dumlupinar-mah"
+  },
+  {
+    "title": "Kadıköy (Eğitim Mah.)",
+    "url": "/istanbul/kadikoy-egitim-mah"
+  },
+  {
+    "title": "Kadıköy (Erenköy Mah. - Ethemefendi)",
+    "url": "/istanbul/kadikoy-erenkoy-mah-ethemefendi"
+  },
+  {
+    "title": "Kadıköy (Erenköy Mah. - Üst)",
+    "url": "/istanbul/kadikoy-erenkoy-mah-ust"
+  },
+  {
+    "title": "Kadıköy (Erenköy Mah.)",
+    "url": "/istanbul/kadikoy-erenkoy-mah"
+  },
+  {
+    "title": "Kadıköy (Fenerbahçe Mah. - Kalamış)",
+    "url": "/istanbul/kadikoy-fenerbahce-mah-kalamis"
+  },
+  {
+    "title": "Kadıköy (Fenerbahçe Mah. - Selamiçeşme)",
+    "url": "/istanbul/kadikoy-fenerbahce-mah-selamicesme"
+  },
+  {
+    "title": "Kadıköy (Fenerbahçe Mah.)",
+    "url": "/istanbul/kadikoy-fenerbahce-mah"
+  },
+  {
+    "title": "Kadıköy (Feneryolu Mah.)",
+    "url": "/istanbul/kadikoy-feneryolu-mah"
+  },
+  {
+    "title": "Kadıköy (Fikirtepe Mah.)",
+    "url": "/istanbul/kadikoy-fikirtepe-mah"
+  },
+  {
+    "title": "Kadıköy (Göztepe Mah. - Çemenzar)",
+    "url": "/istanbul/kadikoy-goztepe-mah-cemenzar"
+  },
+  {
+    "title": "Kadıköy (Göztepe Mah. - Çiftehavuzlar)",
+    "url": "/istanbul/kadikoy-goztepe-mah-ciftehavuzlar"
+  },
+  {
+    "title": "Kadıköy (Göztepe Mah. - Üst)",
+    "url": "/istanbul/kadikoy-goztepe-mah-ust"
+  },
+  {
+    "title": "Kadıköy (Göztepe Mah.)",
+    "url": "/istanbul/kadikoy-goztepe-mah"
+  },
+  {
+    "title": "Kadıköy (Hasanpaşa Mah.)",
+    "url": "/istanbul/kadikoy-hasanpasa-mah"
+  },
+  {
+    "title": "Kadıköy (Koşuyolu Mah.)",
+    "url": "/istanbul/kadikoy-kosuyolu-mah"
+  },
+  {
+    "title": "Kadıköy (Kozyatağı Mah. - Ayşekadın)",
+    "url": "/istanbul/kadikoy-kozyatagi-mah-aysekadin"
+  },
+  {
+    "title": "Kadıköy (Kozyatağı Mah. - Kazasker)",
+    "url": "/istanbul/kadikoy-kozyatagi-mah-kazasker"
+  },
+  {
+    "title": "Kadıköy (Kozyatağı Mah.)",
+    "url": "/istanbul/kadikoy-kozyatagi-mah"
+  },
+  {
+    "title": "Kadıköy (Merdivenköy Mah.)",
+    "url": "/istanbul/kadikoy-merdivenkoy-mah"
+  },
+  {
+    "title": "Kadıköy (Osmanağa Mah. - Bahariye)",
+    "url": "/istanbul/kadikoy-osmanaga-mah-bahariye"
+  },
+  {
+    "title": "Kadıköy (Osmanağa Mah.)",
+    "url": "/istanbul/kadikoy-osmanaga-mah"
+  },
+  {
+    "title": "Kadıköy (Rasimpaşa Mah. - Haydarpaşa)",
+    "url": "/istanbul/kadikoy-rasimpasa-mah-haydarpasa"
+  },
+  {
+    "title": "Kadıköy (Rasimpaşa Mah.)",
+    "url": "/istanbul/kadikoy-rasimpasa-mah"
+  },
+  {
+    "title": "Kadıköy (Sahrayıcedit Mah.)",
+    "url": "/istanbul/kadikoy-sahrayicedit-mah"
+  },
+  {
+    "title": "Kadıköy (Suadiye Mah. - Şaşkınbakkal)",
+    "url": "/istanbul/kadikoy-suadiye-mah-saskinbakkal"
+  },
+  {
+    "title": "Kadıköy (Suadiye Mah.)",
+    "url": "/istanbul/kadikoy-suadiye-mah"
+  },
+  {
+    "title": "Kadıköy (Zühtüpaşa Mah. - Kızıltoprak)",
+    "url": "/istanbul/kadikoy-zuhtupasa-mah-kiziltoprak"
+  },
+  {
+    "title": "Kadıköy (Zühtüpaşa Mah. - Ziverbey)",
+    "url": "/istanbul/kadikoy-zuhtupasa-mah-ziverbey"
+  },
+  {
+    "title": "Kağıthane (Çağlayan Mah.)",
+    "url": "/istanbul/kagithane-caglayan-mah"
+  },
+  {
+    "title": "Kağıthane (Çeliktepe Mah.)",
+    "url": "/istanbul/kagithane-celiktepe-mah"
+  },
+  {
+    "title": "Kağıthane (Emniyetevleri Mah.)",
+    "url": "/istanbul/kagithane-emniyetevleri-mah"
+  },
+  {
+    "title": "Kağıthane (Gültepe Mah.)",
+    "url": "/istanbul/kagithane-gultepe-mah"
+  },
+  {
+    "title": "Kağıthane (Gürsel Mah.)",
+    "url": "/istanbul/kagithane-gursel-mah"
+  },
+  {
+    "title": "Kağıthane (Hamidiye Mah.)",
+    "url": "/istanbul/kagithane-hamidiye-mah"
+  },
+  {
+    "title": "Kağıthane (Harmantepe Mah.)",
+    "url": "/istanbul/kagithane-harmantepe-mah"
+  },
+  {
+    "title": "Kağıthane (Hürriyet Mah.)",
+    "url": "/istanbul/kagithane-hurriyet-mah"
+  },
+  {
+    "title": "Kağıthane (Mehmet Akif Ersoy Mah.)",
+    "url": "/istanbul/kagithane-mehmet-akif-ersoy-mah"
+  },
+  {
+    "title": "Kağıthane (Merkez Mah.)",
+    "url": "/istanbul/kagithane-merkez-mah"
+  },
+  {
+    "title": "Kağıthane (Nurtepe Mah.)",
+    "url": "/istanbul/kagithane-nurtepe-mah"
+  },
+  {
+    "title": "Kağıthane (Ortabayır Mah.)",
+    "url": "/istanbul/kagithane-ortabayir-mah"
+  },
+  {
+    "title": "Kağıthane (Seyrantepe Mah.)",
+    "url": "/istanbul/kagithane-seyrantepe-mah"
+  },
+  {
+    "title": "Kağıthane (Sultan Selim / Sanayi Mah.)",
+    "url": "/istanbul/kagithane-sultan-selim-sanayi-mah"
+  },
+  {
+    "title": "Kağıthane (Şirintepe Mah.)",
+    "url": "/istanbul/kagithane-sirintepe-mah"
+  },
+  {
+    "title": "Kağıthane (Talatpaşa Mah.)",
+    "url": "/istanbul/kagithane-talatpasa-mah"
+  },
+  {
+    "title": "Kağıthane (Telsizler Mah.)",
+    "url": "/istanbul/kagithane-telsizler-mah"
+  },
+  {
+    "title": "Kağıthane (Yahya Kemal Mah. - Ayazma)",
+    "url": "/istanbul/kagithane-yahya-kemal-mah-ayazma"
+  },
+  {
+    "title": "Kağıthane (Yeşilce Mah.)",
+    "url": "/istanbul/kagithane-yesilce-mah"
+  },
+  {
+    "title": "Kartal (Atalar Mah.)",
+    "url": "/istanbul/kartal-atalar-mah"
+  },
+  {
+    "title": "Kartal (Cevizli Mah.)",
+    "url": "/istanbul/kartal-cevizli-mah"
+  },
+  {
+    "title": "Kartal (Cumhuriyet Mah.)",
+    "url": "/istanbul/kartal-cumhuriyet-mah"
+  },
+  {
+    "title": "Kartal (Çavuşoğlu Mah.)",
+    "url": "/istanbul/kartal-cavusoglu-mah"
+  },
+  {
+    "title": "Kartal (Esentepe Mah.)",
+    "url": "/istanbul/kartal-esentepe-mah"
+  },
+  {
+    "title": "Kartal (Gümüşpınar Mah.)",
+    "url": "/istanbul/kartal-gumuspinar-mah"
+  },
+  {
+    "title": "Kartal (Hürriyet Mah.)",
+    "url": "/istanbul/kartal-hurriyet-mah"
+  },
+  {
+    "title": "Kartal (Karlıktepe Mah.)",
+    "url": "/istanbul/kartal-karliktepe-mah"
+  },
+  {
+    "title": "Kartal (Kordonboyu Mah.)",
+    "url": "/istanbul/kartal-kordonboyu-mah"
+  },
+  {
+    "title": "Kartal (Orhantepe Mah.)",
+    "url": "/istanbul/kartal-orhantepe-mah"
+  },
+  {
+    "title": "Kartal (Petrol-İş Mah.)",
+    "url": "/istanbul/kartal-petrol-is-mah"
+  },
+  {
+    "title": "Kartal (Soğanlık Orta Mah.)",
+    "url": "/istanbul/kartal-soganlik-orta-mah"
+  },
+  {
+    "title": "Kartal (Soğanlık Yeni Mah.)",
+    "url": "/istanbul/kartal-soganlik-yeni-mah"
+  },
+  {
+    "title": "Kartal (Topselvi Mah.)",
+    "url": "/istanbul/kartal-topselvi-mah"
+  },
+  {
+    "title": "Kartal (Uğur Mumcu Mah.)",
+    "url": "/istanbul/kartal-ugur-mumcu-mah"
+  },
+  {
+    "title": "Kartal (Yakacık Çarşı Mah.)",
+    "url": "/istanbul/kartal-yakacik-carsi-mah"
+  },
+  {
+    "title": "Kartal (Yakacık Yeni Mah.)",
+    "url": "/istanbul/kartal-yakacik-yeni-mah"
+  },
+  {
+    "title": "Kartal (Yalı Mah.)",
+    "url": "/istanbul/kartal-yali-mah"
+  },
+  {
+    "title": "Kartal (Yukarı Mah.)",
+    "url": "/istanbul/kartal-yukari-mah"
+  },
+  {
+    "title": "Kartal (Yunus Mah.)",
+    "url": "/istanbul/kartal-yunus-mah"
+  },
+  {
+    "title": "Kınalıada",
+    "url": "/istanbul/kinaliada"
+  },
+  {
+    "title": "Küçükçekmece (Atakent Mah. - 1. İkitelli Cad. Bölgesi)",
+    "url": "/istanbul/kucukcekmece-atakent-mah-1-ikitelli-cad-bolgesi"
+  },
+  {
+    "title": "Küçükçekmece (Atakent Mah. - Atakent 3. Etap Bölgesi)",
+    "url": "/istanbul/kucukcekmece-atakent-mah-atakent-3-etap-bolgesi"
+  },
+  {
+    "title": "Küçükçekmece (Atakent Mah. - Avrupa Konutları Bölgesi)",
+    "url": "/istanbul/kucukcekmece-atakent-mah-avrupa-konutlari-bolgesi"
+  },
+  {
+    "title": "Küçükçekmece (Atakent Mah. - Halkalı 2. Etap Bölgesi)",
+    "url": "/istanbul/kucukcekmece-atakent-mah-halkali-2-etap-bolgesi"
+  },
+  {
+    "title": "Küçükçekmece (Atakent Mah. - İstanbul Lounge 2 Bölgesi)",
+    "url": "/istanbul/kucukcekmece-atakent-mah-istanbul-lounge-2-bolgesi"
+  },
+  {
+    "title": "Küçükçekmece (Atakent Mah. - İstanbul Lounge Bölgesi)",
+    "url": "/istanbul/kucukcekmece-atakent-mah-istanbul-lounge-bolgesi"
+  },
+  {
+    "title": "Küçükçekmece (Atakent Mah. - İstanbul Saraylar Bölgesi)",
+    "url": "/istanbul/kucukcekmece-atakent-mah-istanbul-saraylar-bolgesi"
+  },
+  {
+    "title": "Küçükçekmece (Atakent Mah. - Sinpaş Bosphorus Bölgesi)",
+    "url": "/istanbul/kucukcekmece-atakent-mah-sinpas-bosphorus-bolgesi"
+  },
+  {
+    "title": "Küçükçekmece (Atakent Mah. - Soyak Olympiakent Bölgesi)",
+    "url": "/istanbul/kucukcekmece-atakent-mah-soyak-olympiakent-bolgesi"
+  },
+  {
+    "title": "Küçükçekmece (Atakent Mah. - Tema Park Bölgesi)",
+    "url": "/istanbul/kucukcekmece-atakent-mah-tema-park-bolgesi"
+  },
+  {
+    "title": "Küçükçekmece (Atakent Mah. - Toki Fulya Evleri Bölgesi)",
+    "url": "/istanbul/kucukcekmece-atakent-mah-toki-fulya-evleri-bolgesi"
+  },
+  {
+    "title": "Küçükçekmece (Atakent Mah.-Kanuni S. Süleyman Hastanesi Bölgesi)",
+    "url": "/istanbul/kucukcekmece-atakent-mah-kanuni-s-suleyman-hastanesi-bolgesi"
+  },
+  {
+    "title": "Küçükçekmece (Atatürk Mah. - İkitelli OSB)",
+    "url": "/istanbul/kucukcekmece-ataturk-mah-ikitelli-osb"
+  },
+  {
+    "title": "Küçükçekmece (Atatürk Mah.)",
+    "url": "/istanbul/kucukcekmece-ataturk-mah"
+  },
+  {
+    "title": "Küçükçekmece (Beşyol Mah.)",
+    "url": "/istanbul/kucukcekmece-besyol-mah"
+  },
+  {
+    "title": "Küçükçekmece (Cennet Mah.)",
+    "url": "/istanbul/kucukcekmece-cennet-mah"
+  },
+  {
+    "title": "Küçükçekmece (Cumhuriyet Mah.)",
+    "url": "/istanbul/kucukcekmece-cumhuriyet-mah"
+  },
+  {
+    "title": "Küçükçekmece (Fatih Mah.)",
+    "url": "/istanbul/kucukcekmece-fatih-mah"
+  },
+  {
+    "title": "Küçükçekmece (Fevzi Çakmak Mah.)",
+    "url": "/istanbul/kucukcekmece-fevzi-cakmak-mah"
+  },
+  {
+    "title": "Küçükçekmece (Gültepe Mah.)",
+    "url": "/istanbul/kucukcekmece-gultepe-mah"
+  },
+  {
+    "title": "Küçükçekmece (Halkalı Mah. - Avrupa Atakent Konutları Bölgesi)",
+    "url": "/istanbul/kucukcekmece-halkali-mah-avrupa-atakent-konutlari-bolgesi"
+  },
+  {
+    "title": "Küçükçekmece (Halkalı Merkez Mah. - Avrupa Konutları 3 Bölgesi)",
+    "url": "/istanbul/kucukcekmece-halkali-merkez-mah-avrupa-konutlari-3-bolgesi"
+  },
+  {
+    "title": "Küçükçekmece (Halkalı Merkez Mah. - Basın Ekspres Yolu)",
+    "url": "/istanbul/kucukcekmece-halkali-merkez-mah-basin-ekspres-yolu"
+  },
+  {
+    "title": "Küçükçekmece (Halkalı Merkez Mah.)",
+    "url": "/istanbul/kucukcekmece-halkali-merkez-mah"
+  },
+  {
+    "title": "Küçükçekmece (İnönü Mah.)",
+    "url": "/istanbul/kucukcekmece-inonu-mah"
+  },
+  {
+    "title": "Küçükçekmece (İstasyon Mah.)",
+    "url": "/istanbul/kucukcekmece-istasyon-mah"
+  },
+  {
+    "title": "Küçükçekmece (Kanarya Mah.)",
+    "url": "/istanbul/kucukcekmece-kanarya-mah"
+  },
+  {
+    "title": "Küçükçekmece (Kartaltepe Mah.) ",
+    "url": "/istanbul/kucukcekmece-kartaltepe-mah"
+  },
+  {
+    "title": "Küçükçekmece (Kemalpaşa Mah.)",
+    "url": "/istanbul/kucukcekmece-kemalpasa-mah"
+  },
+  {
+    "title": "Küçükçekmece (Mehmet Akif Mah. - Bahariye Cad.)",
+    "url": "/istanbul/kucukcekmece-mehmet-akif-mah-bahariye-cad"
+  },
+  {
+    "title": "Küçükçekmece (Mehmet Akif Mah.)",
+    "url": "/istanbul/kucukcekmece-mehmet-akif-mah"
+  },
+  {
+    "title": "Küçükçekmece (Söğütlüçeşme Mah.)",
+    "url": "/istanbul/kucukcekmece-sogutlucesme-mah"
+  },
+  {
+    "title": "Küçükçekmece (Sultanmurat Mah.)",
+    "url": "/istanbul/kucukcekmece-sultanmurat-mah"
+  },
+  {
+    "title": "Küçükçekmece (Tevfikbey Mah. - Sefaköy)",
+    "url": "/istanbul/kucukcekmece-tevfikbey-mah-sefakoy"
+  },
+  {
+    "title": "Küçükçekmece (Tevfikbey Mah.)",
+    "url": "/istanbul/kucukcekmece-tevfikbey-mah"
+  },
+  {
+    "title": "Küçükçekmece (Yarımburgaz Mah.)",
+    "url": "/istanbul/kucukcekmece-yarimburgaz-mah"
+  },
+  {
+    "title": "Küçükçekmece (Yenimahalle Mah.)",
+    "url": "/istanbul/kucukcekmece-yenimahalle-mah"
+  },
+  {
+    "title": "Küçükçekmece (Yeşilova Mah.)",
+    "url": "/istanbul/kucukcekmece-yesilova-mah"
+  },
+  {
+    "title": "Maltepe (Altayçeşme Mah.)",
+    "url": "/istanbul/maltepe-altaycesme-mah"
+  },
+  {
+    "title": "Maltepe (Altıntepe Mah.)",
+    "url": "/istanbul/maltepe-altintepe-mah"
+  },
+  {
+    "title": "Maltepe (Aydınevler Mah.)",
+    "url": "/istanbul/maltepe-aydinevler-mah"
+  },
+  {
+    "title": "Maltepe (Bağlarbaşı Mah.)",
+    "url": "/istanbul/maltepe-baglarbasi-mah"
+  },
+  {
+    "title": "Maltepe (Başıbüyük Mah.)",
+    "url": "/istanbul/maltepe-basibuyuk-mah"
+  },
+  {
+    "title": "Maltepe (Büyükbakkalköy Mah.)",
+    "url": "/istanbul/maltepe-buyukbakkalkoy-mah"
+  },
+  {
+    "title": "Maltepe (Cevizli Mah.)",
+    "url": "/istanbul/maltepe-cevizli-mah"
+  },
+  {
+    "title": "Maltepe (Çınar Mah.)",
+    "url": "/istanbul/maltepe-cinar-mah"
+  },
+  {
+    "title": "Maltepe (Esenkent Mah.)",
+    "url": "/istanbul/maltepe-esenkent-mah"
+  },
+  {
+    "title": "Maltepe (Feyzullah Mah.)",
+    "url": "/istanbul/maltepe-feyzullah-mah"
+  },
+  {
+    "title": "Maltepe (Fındıklı Mah.)",
+    "url": "/istanbul/maltepe-findikli-mah"
+  },
+  {
+    "title": "Maltepe (Girne Mah.)",
+    "url": "/istanbul/maltepe-girne-mah"
+  },
+  {
+    "title": "Maltepe (Gülensu Mah.)",
+    "url": "/istanbul/maltepe-gulensu-mah"
+  },
+  {
+    "title": "Maltepe (Gülsuyu Mah.)",
+    "url": "/istanbul/maltepe-gulsuyu-mah"
+  },
+  {
+    "title": "Maltepe (İdealtepe Mah.)",
+    "url": "/istanbul/maltepe-idealtepe-mah"
+  },
+  {
+    "title": "Maltepe (Küçükyalı Mah.)",
+    "url": "/istanbul/maltepe-kucukyali-mah"
+  },
+  {
+    "title": "Maltepe (Yalı Mah. - Dragos)",
+    "url": "/istanbul/maltepe-yali-mah-dragos"
+  },
+  {
+    "title": "Maltepe (Yalı Mah.)",
+    "url": "/istanbul/maltepe-yali-mah"
+  },
+  {
+    "title": "Maltepe (Zümrütevler Mah.)",
+    "url": "/istanbul/maltepe-zumrutevler-mah"
+  },
+  {
+    "title": "Pendik (Ahmet Yesevi Mah.)",
+    "url": "/istanbul/pendik-ahmet-yesevi-mah"
+  },
+  {
+    "title": "Pendik (Bahçelievler Mah.)",
+    "url": "/istanbul/pendik-bahcelievler-mah"
+  },
+  {
+    "title": "Pendik (Batı Mah.)",
+    "url": "/istanbul/pendik-bati-mah"
+  },
+  {
+    "title": "Pendik (Çamçeşme Mah.)",
+    "url": "/istanbul/pendik-camcesme-mah"
+  },
+  {
+    "title": "Pendik (Çamlık Mah.- Kurtköy)",
+    "url": "/istanbul/pendik-camlik-mah-kurtkoy"
+  },
+  {
+    "title": "Pendik (Çınardere Mah.)",
+    "url": "/istanbul/pendik-cinardere-mah"
+  },
+  {
+    "title": "Pendik (Doğu Mah.)",
+    "url": "/istanbul/pendik-dogu-mah"
+  },
+  {
+    "title": "Pendik (Dumlupınar Mah.)",
+    "url": "/istanbul/pendik-dumlupinar-mah"
+  },
+  {
+    "title": "Pendik (Ertuğrulgazi Mah.)",
+    "url": "/istanbul/pendik-ertugrulgazi-mah"
+  },
+  {
+    "title": "Pendik (Esenler Mah.)",
+    "url": "/istanbul/pendik-esenler-mah"
+  },
+  {
+    "title": "Pendik (Esenyalı Mah.)",
+    "url": "/istanbul/pendik-esenyali-mah"
+  },
+  {
+    "title": "Pendik (Fatih Mah.)",
+    "url": "/istanbul/pendik-fatih-mah"
+  },
+  {
+    "title": "Pendik (Fevzi Çakmak Mah.)",
+    "url": "/istanbul/pendik-fevzi-cakmak-mah"
+  },
+  {
+    "title": "Pendik (Güllübağlar Mah.)",
+    "url": "/istanbul/pendik-gullubaglar-mah"
+  },
+  {
+    "title": "Pendik (Güzelyalı Mah.)",
+    "url": "/istanbul/pendik-guzelyali-mah"
+  },
+  {
+    "title": "Pendik (Harmandere Mah.- Kurtköy)",
+    "url": "/istanbul/pendik-harmandere-mah-kurtkoy"
+  },
+  {
+    "title": "Pendik (Kavakpınar Mah.)",
+    "url": "/istanbul/pendik-kavakpinar-mah"
+  },
+  {
+    "title": "Pendik (Kaynarca Mah.)",
+    "url": "/istanbul/pendik-kaynarca-mah"
+  },
+  {
+    "title": "Pendik (Kurtköy Merkez Mah.)",
+    "url": "/istanbul/pendik-kurtkoy-merkez-mah"
+  },
+  {
+    "title": "Pendik (Orhangazi Mah.)",
+    "url": "/istanbul/pendik-orhangazi-mah"
+  },
+  {
+    "title": "Pendik (Orta Mah.)",
+    "url": "/istanbul/pendik-orta-mah"
+  },
+  {
+    "title": "Pendik (Ramazanoğlu Mah.)",
+    "url": "/istanbul/pendik-ramazanoglu-mah"
+  },
+  {
+    "title": "Pendik (Sabiha Gökçen Havalimanı)",
+    "url": "/istanbul/pendik-sabiha-gokcen-havalimani"
+  },
+  {
+    "title": "Pendik (Sanayi Mah.- Kurtköy)",
+    "url": "/istanbul/pendik-sanayi-mah-kurtkoy"
+  },
+  {
+    "title": "Pendik (Sapan Bağları Mah.)",
+    "url": "/istanbul/pendik-sapan-baglari-mah"
+  },
+  {
+    "title": "Pendik (Sülüntepe Mah.)",
+    "url": "/istanbul/pendik-suluntepe-mah"
+  },
   {
-    "title": "McDonald's, Beşiktaş (Levent Mah.)"
+    "title": "Pendik (Şeyhli Mah. - Kurtköy)",
+    "url": "/istanbul/pendik-seyhli-mah-kurtkoy"
   },
   {
-    "title": "Günaydın Köfte & Döner, Şişli (Esentepe Mah. - Plazalar)"
+    "title": "Pendik (Velibaba Mah.)",
+    "url": "/istanbul/pendik-velibaba-mah"
   },
   {
-    "title": "Burger King, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Pendik (Yayalar Mah.)",
+    "url": "/istanbul/pendik-yayalar-mah"
   },
   {
-    "title": "Nadide Restaurant, Şişli (Esentepe Mah.)"
+    "title": "Pendik (Yeni Mah.)",
+    "url": "/istanbul/pendik-yeni-mah"
   },
   {
-    "title": "Vanilia Cafe, Beşiktaş (Gayrettepe Mah.)"
+    "title": "Pendik (Yenişehir Mah.- Kurtköy)",
+    "url": "/istanbul/pendik-yenisehir-mah-kurtkoy"
   },
   {
-    "title": "Bomba Döner, Şişli (Mecidiyeköy Mah.)"
+    "title": "Pendik (Yeşilbağlar Mah.)",
+    "url": "/istanbul/pendik-yesilbaglar-mah"
   },
   {
-    "title": "Abi Kardeş Kebap & Dürüm Evi, Kağıthane (Harmantepe Mah.)"
+    "title": "Sancaktepe (Abdurrahmangazi Mah.)",
+    "url": "/istanbul/sancaktepe-abdurrahmangazi-mah"
   },
   {
-    "title": "Abi Kardeş Pide & Lahmacun, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Sancaktepe (Akpınar Mah.)",
+    "url": "/istanbul/sancaktepe-akpinar-mah"
   },
   {
-    "title": "Aboov Urfam Kebap, Sarıyer (Pınar Mah.)"
+    "title": "Sancaktepe (Atatürk Mah.)",
+    "url": "/istanbul/sancaktepe-ataturk-mah"
   },
   {
-    "title": "Adıyaman Pide & Lahmacun, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Sancaktepe (Emek Mah.)",
+    "url": "/istanbul/sancaktepe-emek-mah"
   },
   {
-    "title": "Adıyaman Pide & Lahmacun, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Sancaktepe (Eyüp Sultan Mah.)",
+    "url": "/istanbul/sancaktepe-eyup-sultan-mah"
   },
   {
-    "title": "Ağız Tadı Kebap & Lahmacun, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Sancaktepe (Fatih Mah. - Ortadağ)",
+    "url": "/istanbul/sancaktepe-fatih-mah-ortadag"
   },
   {
-    "title": "Altın Sofra, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Sancaktepe (Hilal Mah.)",
+    "url": "/istanbul/sancaktepe-hilal-mah"
   },
   {
-    "title": "Altunova Kardeşler Pide & Lahmacun, Kağıthane (Harmantepe Mah.)"
+    "title": "Sancaktepe (İnönü Mah.)",
+    "url": "/istanbul/sancaktepe-inonu-mah"
   },
   {
-    "title": "Antep Lahmacun & Pide, Kağıthane (Harmantepe Mah.)"
+    "title": "Sancaktepe (Kemal Türkler Mah.)",
+    "url": "/istanbul/sancaktepe-kemal-turkler-mah"
   },
   {
-    "title": "Antepli Kardeşler, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Sancaktepe (Meclis Mah.)",
+    "url": "/istanbul/sancaktepe-meclis-mah"
   },
   {
-    "title": "Ar Gurme Hamburger & Köfte, Kağıthane (Çeliktepe Mah.)"
+    "title": "Sancaktepe (Merve Mah.)",
+    "url": "/istanbul/sancaktepe-merve-mah"
   },
   {
-    "title": "Asrın Pide & Lahmacun, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Sancaktepe (Mevlana Mah.)",
+    "url": "/istanbul/sancaktepe-mevlana-mah"
   },
   {
-    "title": "As Urfa Pide & Lahmacun, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Sancaktepe (Osmangazi Mah.)",
+    "url": "/istanbul/sancaktepe-osmangazi-mah"
   },
   {
-    "title": "Dobby's Burger Place, Sarıyer (Maslak Mah.)"
+    "title": "Sancaktepe (Paşaköy Mah.)",
+    "url": "/istanbul/sancaktepe-pasakoy-mah"
   },
   {
-    "title": "Hurma Restaurant, Beşiktaş (Ulus Mah.)"
+    "title": "Sancaktepe (Safa Mah.)",
+    "url": "/istanbul/sancaktepe-safa-mah"
   },
   {
-    "title": "İkbal Lokantası 1922, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Sancaktepe (Sarıgazi Mah.)",
+    "url": "/istanbul/sancaktepe-sarigazi-mah"
   },
   {
-    "title": "Öz Adana Kebap, Kağıthane (Ortabayır Mah.)"
+    "title": "Sancaktepe (Veysel Karani Mah.)",
+    "url": "/istanbul/sancaktepe-veysel-karani-mah"
   },
   {
-    "title": "Paşazadem Antep Sofrası, Kağıthane (Şirintepe Mah.)"
+    "title": "Sancaktepe (Yenidoğan Mah.)",
+    "url": "/istanbul/sancaktepe-yenidogan-mah"
   },
   {
-    "title": "Urfa Kebapçım, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Sancaktepe (Yunusemre Mah.)",
+    "url": "/istanbul/sancaktepe-yunusemre-mah"
   },
   {
-    "title": "7/70 Pizza & Burger, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Sarıyer (Ayazağa Mah. - Vadi İstanbul Bölgesi)",
+    "url": "/istanbul/sariyer-ayazaga-mah-vadi-istanbul-bolgesi"
   },
   {
-    "title": "Acıktım Kardeşler Pide & Lahmacun, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Sarıyer (Ayazağa Mah.)",
+    "url": "/istanbul/sariyer-ayazaga-mah"
   },
   {
-    "title": "Adalı Midye, Sarıyer (Ayazağa Mah.)"
+    "title": "Sarıyer (Bahçeköy Kemer Mah.)",
+    "url": "/istanbul/sariyer-bahcekoy-kemer-mah"
   },
   {
-    "title": "Aile Mutfağı Ev Yemekleri, Şişli (Mecidiyeköy Mah.)"
+    "title": "Sarıyer (Bahçeköy Merkez Mah.)",
+    "url": "/istanbul/sariyer-bahcekoy-merkez-mah"
   },
   {
-    "title": "Ala Sandwich, Sarıyer (Reşitpaşa Mah.)"
+    "title": "Sarıyer (Bahçeköy Yeni Mah.)",
+    "url": "/istanbul/sariyer-bahcekoy-yeni-mah"
   },
   {
-    "title": "Blue Ice Cream, Kağıthane (Ortabayır Mah.)"
+    "title": "Sarıyer (Baltalimanı Mah.)",
+    "url": "/istanbul/sariyer-baltalimani-mah"
   },
   {
-    "title": "Bostan Meze, Beşiktaş (Akat Mah.)"
+    "title": "Sarıyer (Büyükdere Mah.)",
+    "url": "/istanbul/sariyer-buyukdere-mah"
   },
   {
-    "title": "Brkd Döner & Pide & Lahmacun, Sarıyer (FSM Mah.)"
+    "title": "Sarıyer (Cumhuriyet Mah.)",
+    "url": "/istanbul/sariyer-cumhuriyet-mah"
   },
   {
-    "title": "Hisar Lokantası & Döner, Sarıyer (Rumelihisarı Mah. - Hisarüstü)"
+    "title": "Sarıyer (Çayırbaşı Mah.)",
+    "url": "/istanbul/sariyer-cayirbasi-mah"
   },
   {
-    "title": "Madam Butterfly Restaurant & Cafe, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Sarıyer (Darüşşafaka Mah.)",
+    "url": "/istanbul/sariyer-darussafaka-mah"
   },
   {
-    "title": "Tostlar Sağolsun, Şişli (Esentepe Mah.)"
+    "title": "Sarıyer (Demirciköy Mah.)",
+    "url": "/istanbul/sariyer-demircikoy-mah"
   },
   {
-    "title": "Türkis Gourmet Pide, Beşiktaş (Levent Mah.)"
+    "title": "Sarıyer (Derbent Mah. - Çamlıtepe)",
+    "url": "/istanbul/sariyer-derbent-mah-camlitepe"
   },
   {
-    "title": "Urfalı Kebapçım, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Sarıyer (Emirgan Mah.)",
+    "url": "/istanbul/sariyer-emirgan-mah"
   },
   {
-    "title": "Wallop, Sarıyer (Maslak Mah.)"
+    "title": "Sarıyer (Ferahevler Mah.)",
+    "url": "/istanbul/sariyer-ferahevler-mah"
   },
   {
-    "title": "(Chinastix) & Sushi, Beşiktaş (Etiler Mah.)"
+    "title": "Sarıyer (FSM Mah.)",
+    "url": "/istanbul/sariyer-fsm-mah"
   },
   {
-    "title": "(Parantez İstanbul) Pide, Beşiktaş (Etiler Mah.)"
+    "title": "Sarıyer (Garipçe Köyü)",
+    "url": "/istanbul/sariyer-garipce-koyu"
   },
   {
-    "title": "(Parantez İstanbul) Zeytinyağlı & Meze, Beşiktaş (Etiler Mah.)"
+    "title": "Sarıyer (Gümüşdere Mah.)",
+    "url": "/istanbul/sariyer-gumusdere-mah"
   },
   {
-    "title": "33 Suat Usta Mersin Tantuni, Beşiktaş (Sinanpaşa Mah.)"
+    "title": "Sarıyer (Huzur Mah.)",
+    "url": "/istanbul/sariyer-huzur-mah"
   },
   {
-    "title": "33 Suat Usta Mersin Tantuni, Şişli (Mecidiyeköy Mah.)"
+    "title": "Sarıyer (İstinye Mah.)",
+    "url": "/istanbul/sariyer-istinye-mah"
   },
   {
-    "title": "4X4 Tost, Beşiktaş (Nisbetiye Mah.)"
+    "title": "Sarıyer (Kazım Karabekir Mah.)",
+    "url": "/istanbul/sariyer-kazim-karabekir-mah"
   },
   {
-    "title": "Abc Sucuk Ekmek, Şişli (Mecidiyeköy Mah.)"
+    "title": "Sarıyer (Kireçburnu Mah.)",
+    "url": "/istanbul/sariyer-kirecburnu-mah"
   },
   {
-    "title": "Abla Kardeş Mantı Evi, Beşiktaş (Etiler Mah.)"
+    "title": "Sarıyer (Kocataş Mah.)",
+    "url": "/istanbul/sariyer-kocatas-mah"
   },
   {
-    "title": "Above Taco, Şişli (Esentepe Mah.)"
+    "title": "Sarıyer (Kumköy Mah. - Kilyos)",
+    "url": "/istanbul/sariyer-kumkoy-mah-kilyos"
   },
   {
-    "title": "Acar Dürüm Evi, Şişli (Esentepe Mah.)"
+    "title": "Sarıyer (Maden Mah.)",
+    "url": "/istanbul/sariyer-maden-mah"
   },
   {
-    "title": "Acıktım Pide & Lahmacun, Kağıthane (Harmantepe Mah.)"
+    "title": "Sarıyer (Maslak Mah. - Mashattan Bölgesi)",
+    "url": "/istanbul/sariyer-maslak-mah-mashattan-bolgesi"
   },
   {
-    "title": "Acıktım Tat Lahmacun Pide & Kebap, Kağıthane (Yahya Kemal Mah. - Ayazma)"
+    "title": "Sarıyer (Maslak Mah. - Maslak 1453 Bölgesi)",
+    "url": "/istanbul/sariyer-maslak-mah-maslak-1453-bolgesi"
   },
   {
-    "title": "Acil Tost, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Sarıyer (Maslak Mah.)",
+    "url": "/istanbul/sariyer-maslak-mah"
   },
   {
-    "title": "Adana Mahle Ocakbaşı, Sarıyer (Rumelihisarı Mah. - Hisarüstü)"
+    "title": "Sarıyer (Pınar Mah.)",
+    "url": "/istanbul/sariyer-pinar-mah"
   },
   {
-    "title": "Agapia Gourmet Meze, Beşiktaş (Kültür Mah.)"
+    "title": "Sarıyer (Poligon Mah.)",
+    "url": "/istanbul/sariyer-poligon-mah"
   },
   {
-    "title": "Agreeni Burger House, Sarıyer (FSM Mah.)"
+    "title": "Sarıyer (PTT Evleri Mah.)",
+    "url": "/istanbul/sariyer-ptt-evleri-mah"
   },
   {
-    "title": "Al'bi Tost, Beşiktaş (Konaklar Mah.)"
+    "title": "Sarıyer (Reşitpaşa Mah.)",
+    "url": "/istanbul/sariyer-resitpasa-mah"
   },
   {
-    "title": "Altınemek Döner, Şişli (Mecidiyeköy Mah.)"
+    "title": "Sarıyer (Rumelifeneri Mah.)",
+    "url": "/istanbul/sariyer-rumelifeneri-mah"
   },
   {
-    "title": "Anadolu Pide & Lahmacun, Kağıthane (Harmantepe Mah.)"
+    "title": "Sarıyer (Rumelihisarı Mah. - Hisarüstü)",
+    "url": "/istanbul/sariyer-rumelihisari-mah-hisarustu"
   },
   {
-    "title": "Anadolu Urfa Kebap Lahmacun & Pide, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Sarıyer (Rumelihisarı Mah.)",
+    "url": "/istanbul/sariyer-rumelihisari-mah"
   },
   {
-    "title": "Anne Gözleme, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Sarıyer (Rumelikavağı Mah.)",
+    "url": "/istanbul/sariyer-rumelikavagi-mah"
   },
   {
-    "title": "As Bursa İskender, Beşiktaş (Gayrettepe Mah.)"
+    "title": "Sarıyer (Sarıyer Merkez Mah.)",
+    "url": "/istanbul/sariyer-sariyer-merkez-mah"
   },
   {
-    "title": "As Gaziantep Kebap & Izgara, Kağıthane (Harmantepe Mah.)"
+    "title": "Sarıyer (Tarabya Mah.)",
+    "url": "/istanbul/sariyer-tarabya-mah"
   },
   {
-    "title": "Asil Mantı & Tava, Kağıthane (Gültepe Mah.)"
+    "title": "Sarıyer (Tarabyaüstü Mah.)",
+    "url": "/istanbul/sariyer-tarabyaustu-mah"
   },
   {
-    "title": "Aşiyan Mantı & Tava Ev Yemekleri, Kağıthane (Yahya Kemal Mah. - Ayazma)"
+    "title": "Sarıyer (Uskumruköy Mah.)",
+    "url": "/istanbul/sariyer-uskumrukoy-mah"
   },
   {
-    "title": "Ayça Kasap Burger, Şişli (Fulya Mah. - Ortaklar)"
+    "title": "Sarıyer (Yeniköy Mah. - Çarşı)",
+    "url": "/istanbul/sariyer-yenikoy-mah-carsi"
   },
   {
-    "title": "BackStreet Diner, Kağıthane (Merkez Mah. - Çobançeşme)"
+    "title": "Sarıyer (Yeniköy Mah.)",
+    "url": "/istanbul/sariyer-yenikoy-mah"
   },
   {
-    "title": "Bad Fried Chicken, Beşiktaş (Türkali Mah.)"
+    "title": "Sarıyer (Yenimahalle Mah.)",
+    "url": "/istanbul/sariyer-yenimahalle-mah"
   },
   {
-    "title": "Bakırda Kuru, Beşiktaş (Etiler Mah.)"
+    "title": "Sarıyer (Zekeriyaköy Mah. - Acarlar)",
+    "url": "/istanbul/sariyer-zekeriyakoy-mah-acarlar"
   },
   {
-    "title": "Bal Kaymak Kahvaltı & Ev Yemekleri, Beşiktaş (Sinanpaşa Mah.)"
+    "title": "Sarıyer (Zekeriyaköy Mah. - Arıköy)",
+    "url": "/istanbul/sariyer-zekeriyakoy-mah-arikoy"
   },
   {
-    "title": "Baltazar, Beşiktaş (Türkali Mah.)"
+    "title": "Sarıyer (Zekeriyaköy Mah. - Medyakent Bölgesi)",
+    "url": "/istanbul/sariyer-zekeriyakoy-mah-medyakent-bolgesi"
   },
   {
-    "title": "Bean's Dessert, Beşiktaş (Nisbetiye Mah.)"
+    "title": "Sarıyer (Zekeriyaköy Mah.)",
+    "url": "/istanbul/sariyer-zekeriyakoy-mah"
   },
   {
-    "title": "Bean's Dessert, Kağıthane (Ortabayır Mah.)"
+    "title": "Silivri (Ali Bey Mah.)",
+    "url": "/istanbul/silivri-ali-bey-mah"
   },
   {
-    "title": "Bebek Pilavcısı, Beşiktaş (Bebek Mah.)"
+    "title": "Silivri (Alipaşa Mah.)",
+    "url": "/istanbul/silivri-alipasa-mah"
   },
   {
-    "title": "Bi Boyoz, Beşiktaş (Vişnezade Mah. - Akaretler)"
+    "title": "Silivri (Balaban Mah. - Çanta)",
+    "url": "/istanbul/silivri-balaban-mah-canta"
   },
   {
-    "title": "Binbir Lahmacun, Şişli (Mecidiyeköy Mah.)"
+    "title": "Silivri (Cumhuriyet Mah.)",
+    "url": "/istanbul/silivri-cumhuriyet-mah"
   },
   {
-    "title": "Bizim Balıkçı Namık Abi, Kağıthane (Seyrantepe Mah.)"
+    "title": "Silivri (Fatih Mah.)",
+    "url": "/istanbul/silivri-fatih-mah"
   },
   {
-    "title": "Boğaziçi Pide & Lahmacun, Sarıyer (Rumelihisarı Mah. - Hisarüstü)"
+    "title": "Silivri (Gümüşyaka Mah.)",
+    "url": "/istanbul/silivri-gumusyaka-mah"
   },
   {
-    "title": "Chop Shop Sushi & Noodle, Beşiktaş (Levent Mah.)"
+    "title": "Silivri (Mimar Sinan Mah. - Maxi Avm)",
+    "url": "/istanbul/silivri-mimar-sinan-mah-maxi-avm"
   },
   {
-    "title": "Çardakçı Cafe, Kağıthane (Yeşilce Mah.)"
+    "title": "Silivri (Mimar Sinan Mah. - Sanayi Sitesi)",
+    "url": "/istanbul/silivri-mimar-sinan-mah-sanayi-sitesi"
   },
   {
-    "title": "Çiftlik Kasap Burger, Beşiktaş (Akat Mah.)"
+    "title": "Silivri (Mimar Sinan Mah.)",
+    "url": "/istanbul/silivri-mimar-sinan-mah"
   },
   {
-    "title": "Emine Ana Tantuni, Şişli (Mecidiyeköy Mah.)"
+    "title": "Silivri (Piri Mehmet Paşa Mah. - Sahil)",
+    "url": "/istanbul/silivri-piri-mehmet-pasa-mah-sahil"
   },
   {
-    "title": "Fiskos Cafe & Breakfast, Beşiktaş (Sinanpaşa Mah.)"
+    "title": "Silivri (Piri Mehmet Paşa Mah.)",
+    "url": "/istanbul/silivri-piri-mehmet-pasa-mah"
   },
   {
-    "title": "Fresh Food, Sarıyer (FSM Mah.)"
+    "title": "Silivri (Selimpaşa Mah.)",
+    "url": "/istanbul/silivri-selimpasa-mah"
   },
   {
-    "title": "Joy Meal Cafe, Beşiktaş (Türkali Mah.)"
+    "title": "Silivri (Semizkumlar Mah.)",
+    "url": "/istanbul/silivri-semizkumlar-mah"
   },
   {
-    "title": "Kaktüs Büfe & Pilav, Kağıthane (Gültepe Mah.)"
+    "title": "Silivri (Yeni Mah.)",
+    "url": "/istanbul/silivri-yeni-mah"
   },
   {
-    "title": "Küp Cafe Tost & Tatlı, Sarıyer (Rumelihisarı Mah.)"
+    "title": "Sultanbeyli (Abdurrahman Gazi Mah.)",
+    "url": "/istanbul/sultanbeyli-abdurrahman-gazi-mah"
   },
   {
-    "title": "Lokum Burger, Sarıyer (Rumelihisarı Mah.)"
+    "title": "Sultanbeyli (Adil Mah.)",
+    "url": "/istanbul/sultanbeyli-adil-mah"
   },
   {
-    "title": "Mis Döner Evi, Şişli (Esentepe Mah.)"
+    "title": "Sultanbeyli (Ahmet Yesevi Mah.)",
+    "url": "/istanbul/sultanbeyli-ahmet-yesevi-mah"
   },
   {
-    "title": "Mos Kafe Restoran, Beşiktaş (Gayrettepe Mah.)"
+    "title": "Sultanbeyli (Akşemsettin Mah.)",
+    "url": "/istanbul/sultanbeyli-aksemsettin-mah"
   },
   {
-    "title": "Muallim Ocakbaşı, Beşiktaş (Ortaköy Mah.)"
+    "title": "Sultanbeyli (Battalgazi Mah.)",
+    "url": "/istanbul/sultanbeyli-battalgazi-mah"
   },
   {
-    "title": "My Graffiti Burger Co., Sarıyer (Maslak Mah.)"
+    "title": "Sultanbeyli (Fatih Mah.)",
+    "url": "/istanbul/sultanbeyli-fatih-mah"
   },
   {
-    "title": "Nappo, Şişli (Esentepe Mah. - Plazalar)"
+    "title": "Sultanbeyli (Hamidiye Mah.)",
+    "url": "/istanbul/sultanbeyli-hamidiye-mah"
   },
   {
-    "title": "Nevada Leaf Restaurant, Şişli (Mecidiyeköy Mah.)"
+    "title": "Sultanbeyli (Hasanpaşa Mah.)",
+    "url": "/istanbul/sultanbeyli-hasanpasa-mah"
   },
   {
-    "title": "Niş Burger & Steak House, Beşiktaş (Ulus Mah.)"
+    "title": "Sultanbeyli (Mecidiye Mah.)",
+    "url": "/istanbul/sultanbeyli-mecidiye-mah"
   },
   {
-    "title": "Opera Pastanesi, Beşiktaş (Nisbetiye Mah.)"
+    "title": "Sultanbeyli (Mehmet Akif Mah.)",
+    "url": "/istanbul/sultanbeyli-mehmet-akif-mah"
   },
   {
-    "title": "Oya'nın Yeri, Beşiktaş (Etiler Mah.)"
+    "title": "Sultanbeyli (Mimar Sinan Mah.)",
+    "url": "/istanbul/sultanbeyli-mimar-sinan-mah"
   },
   {
-    "title": "Ozzy's Cafe & Bistro, Beşiktaş (Balmumcu Mah.)"
+    "title": "Sultanbeyli (Necip Fazıl Mah.)",
+    "url": "/istanbul/sultanbeyli-necip-fazil-mah"
   },
   {
-    "title": "Paşa Döner, Sarıyer (Rumelihisarı Mah. - Hisarüstü)"
+    "title": "Sultanbeyli (Orhangazi Mah.)",
+    "url": "/istanbul/sultanbeyli-orhangazi-mah"
   },
   {
-    "title": "Patso & Pilav, Kağıthane (Harmantepe Mah.)"
+    "title": "Sultanbeyli (Turgut Reis Mah.)",
+    "url": "/istanbul/sultanbeyli-turgut-reis-mah"
   },
   {
-    "title": "Pizza Mia Casa, Beşiktaş (Kültür Mah.)"
+    "title": "Sultanbeyli (Yavuz Selim Mah.)",
+    "url": "/istanbul/sultanbeyli-yavuz-selim-mah"
   },
   {
-    "title": "Pizza Station, Beşiktaş (Etiler Mah.)"
+    "title": "Sultangazi (50.Yıl Mah.)",
+    "url": "/istanbul/sultangazi-50-yil-mah"
   },
   {
-    "title": "Plus Kitchen, Beşiktaş (Kültür Mah.)"
+    "title": "Sultangazi (75.Yıl Mah.)",
+    "url": "/istanbul/sultangazi-75-yil-mah"
   },
   {
-    "title": "Poker Burger, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Sultangazi (Cebeci Mah.)",
+    "url": "/istanbul/sultangazi-cebeci-mah"
   },
   {
-    "title": "Rumeli Pilav Üstü, Sarıyer (Rumelihisarı Mah.)"
+    "title": "Sultangazi (Cumhuriyet Mah.)",
+    "url": "/istanbul/sultangazi-cumhuriyet-mah"
   },
   {
-    "title": "Saladstation, Beşiktaş (Levent Mah.)"
+    "title": "Sultangazi (Esentepe Mah.)",
+    "url": "/istanbul/sultangazi-esentepe-mah"
   },
   {
-    "title": "Tencere Ev Yemekleri & Meze, Beşiktaş (Bebek Mah.)"
+    "title": "Sultangazi (Eski Habibler Mah.)",
+    "url": "/istanbul/sultangazi-eski-habibler-mah"
   },
   {
-    "title": "Torcello Ristorante Italiano, Beşiktaş (Akat Mah.)"
+    "title": "Sultangazi (Gazi Mah.)",
+    "url": "/istanbul/sultangazi-gazi-mah"
   },
   {
-    "title": "Tost Royce, Beşiktaş (Etiler Mah.)"
+    "title": "Sultangazi (Habibler Mah.)",
+    "url": "/istanbul/sultangazi-habibler-mah"
   },
   {
-    "title": "Trabzon Kaşıkçı Pilavı, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Sultangazi (İsmet Paşa Mah. - Ordu Cad.)",
+    "url": "/istanbul/sultangazi-ismet-pasa-mah-ordu-cad"
   },
   {
-    "title": "Urfa Kebap & Lahmacun & Pide, Kağıthane (Şirintepe Mah.)"
+    "title": "Sultangazi (İsmet Paşa Mah.)",
+    "url": "/istanbul/sultangazi-ismet-pasa-mah"
   },
   {
-    "title": "Yummy & Beyond Restaurant, Kağıthane (Seyrantepe Mah.)"
+    "title": "Sultangazi (Malkoçoğlu Mah.)",
+    "url": "/istanbul/sultangazi-malkocoglu-mah"
   },
   {
-    "title": "(+) Tatlı Zamanı, Kağıthane (Çeliktepe Mah.)"
+    "title": "Sultangazi (Sultançiftliği Mah. - Ordu Cad.)",
+    "url": "/istanbul/sultangazi-sultanciftligi-mah-ordu-cad"
   },
   {
-    "title": "(2 Go) By Goodville, Şişli (Esentepe Mah. - Plazalar)"
+    "title": "Sultangazi (Sultançiftliği Mah.)",
+    "url": "/istanbul/sultangazi-sultanciftligi-mah"
   },
   {
-    "title": "(Bebek Waffle & Kumpir), Beşiktaş (Bebek Mah.)"
+    "title": "Sultangazi (Uğur Mumcu Mah.)",
+    "url": "/istanbul/sultangazi-ugur-mumcu-mah"
   },
   {
-    "title": "(Her Alem) Ocakbaşı, Şişli (Esentepe Mah.)"
+    "title": "Sultangazi (Yayla Mah.)",
+    "url": "/istanbul/sultangazi-yayla-mah"
   },
   {
-    "title": "(Parantez İstanbul), Beşiktaş (Nisbetiye Mah.)"
+    "title": "Sultangazi (Yunus Emre Mah.)",
+    "url": "/istanbul/sultangazi-yunus-emre-mah"
   },
   {
-    "title": "+ Profiterol & Tatlı Dükkanı, Beşiktaş (Muradiye Mah.)"
+    "title": "Sultangazi (Zübeyde Hanım Mah.)",
+    "url": "/istanbul/sultangazi-zubeyde-hanim-mah"
   },
   {
-    "title": "21 Mercan Kebap, Beşiktaş (Vişnezade Mah. - Akaretler)"
+    "title": "Şile (Ağva Mah.)",
+    "url": "/istanbul/sile-agva-mah"
   },
   {
-    "title": "46 Zurna Dürüm, Kağıthane (Çeliktepe Mah.)"
+    "title": "Şile (Çavuş Mah.)",
+    "url": "/istanbul/sile-cavus-mah"
   },
   {
-    "title": "46 Zurna Dürüm, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Şile (Kumbaba Mah.)",
+    "url": "/istanbul/sile-kumbaba-mah"
   },
   {
-    "title": "4X4 Tost, Beşiktaş (Levent Mah.)"
+    "title": "Şişli (19 Mayıs Mah.)",
+    "url": "/istanbul/sisli-19-mayis-mah"
   },
   {
-    "title": "86'd Deli Sandwiches, Beşiktaş (Etiler Mah.)"
+    "title": "Şişli (Bozkurt Mah. - Kurtuluş)",
+    "url": "/istanbul/sisli-bozkurt-mah-kurtulus"
   },
   {
-    "title": "Ab'bas Waffle & Kumpir, Beşiktaş (Ortaköy Mah.)"
+    "title": "Şişli (Cumhuriyet Mah. - Bomonti)",
+    "url": "/istanbul/sisli-cumhuriyet-mah-bomonti"
   },
   {
-    "title": "Abacı Çeşme Kumru, Şişli (Fulya Mah.)"
+    "title": "Şişli (Duatepe Mah.)",
+    "url": "/istanbul/sisli-duatepe-mah"
   },
   {
-    "title": "Abacı Kasap Burger, Beşiktaş (Dikilitaş Mah.)"
+    "title": "Şişli (Ergenekon Mah. - Dolapdere)",
+    "url": "/istanbul/sisli-ergenekon-mah-dolapdere"
   },
   {
-    "title": "Abacı Kasap Burger, Şişli (Fulya Mah.)"
+    "title": "Şişli (Ergenekon Mah. - Pangaltı)",
+    "url": "/istanbul/sisli-ergenekon-mah-pangalti"
   },
   {
-    "title": "Abant Ev Yemekleri & Izgara, Şişli (Fulya Mah.)"
+    "title": "Şişli (Esentepe Mah. - Plazalar)",
+    "url": "/istanbul/sisli-esentepe-mah-plazalar"
   },
   {
-    "title": "Abantlı Neco Ciğer Pilav, Beşiktaş (Etiler Mah.)"
+    "title": "Şişli (Esentepe Mah.)",
+    "url": "/istanbul/sisli-esentepe-mah"
   },
   {
-    "title": "Abat, Sarıyer (Maslak Mah.)"
+    "title": "Şişli (Eskişehir Mah.)",
+    "url": "/istanbul/sisli-eskisehir-mah"
   },
   {
-    "title": "Aberna, Şişli (Fulya Mah.)"
+    "title": "Şişli (Feriköy Mah.)",
+    "url": "/istanbul/sisli-ferikoy-mah"
   },
   {
-    "title": "Abi Burger, Beşiktaş (Etiler Mah.)"
+    "title": "Şişli (Fulya Mah. - Ortaklar)",
+    "url": "/istanbul/sisli-fulya-mah-ortaklar"
   },
   {
-    "title": "Abi Döner Express, Kağıthane (Gültepe Mah.)"
+    "title": "Şişli (Fulya Mah.)",
+    "url": "/istanbul/sisli-fulya-mah"
   },
   {
-    "title": "Abi Gala Kokoreç, Şişli (Mecidiyeköy Mah.)"
+    "title": "Şişli (Gülbahar Mah. - Gülbağ)",
+    "url": "/istanbul/sisli-gulbahar-mah-gulbag"
   },
   {
-    "title": "Ability Menemen Station, Şişli (Esentepe Mah. - Plazalar)"
+    "title": "Şişli (Halaskargazi Mah. - Osmanbey)",
+    "url": "/istanbul/sisli-halaskargazi-mah-osmanbey"
   },
   {
-    "title": "A Bit Of Eggo, Beşiktaş (Arnavutköy Mah.)"
+    "title": "Şişli (Halide Edip Adıvar Mah.)",
+    "url": "/istanbul/sisli-halide-edip-adivar-mah"
   },
   {
-    "title": "Abi Tost Station, Şişli (Esentepe Mah. - Plazalar)"
+    "title": "Şişli (Halil Rıfat Paşa Mah. - Perpa)",
+    "url": "/istanbul/sisli-halil-rifat-pasa-mah-perpa"
   },
   {
-    "title": "Ablanın Yeri, Şişli (Esentepe Mah.)"
+    "title": "Şişli (Harbiye Mah. - Maçka)",
+    "url": "/istanbul/sisli-harbiye-mah-macka"
   },
   {
-    "title": "Acil 1 Mantı & Tava Yemekleri, Şişli (Mecidiyeköy Mah. - Dereboyu)"
+    "title": "Şişli (Harbiye Mah.)",
+    "url": "/istanbul/sisli-harbiye-mah"
   },
   {
-    "title": "Açık Büfe Zeytinyağlı Ev Yemekleri, Şişli (Esentepe Mah.)"
+    "title": "Şişli (İnönü Mah. - Elmadağ)",
+    "url": "/istanbul/sisli-inonu-mah-elmadag"
   },
   {
-    "title": "Açık Mutfak Ev Yemekleri & Izgara, Şişli (Fulya Mah.)"
+    "title": "Şişli (İzzet Paşa Mah.)",
+    "url": "/istanbul/sisli-izzet-pasa-mah"
   },
   {
-    "title": "Adabella Dessert, Şişli (Merkez Mah.)"
+    "title": "Şişli (Kaptanpaşa Mah. - Okmeydanı)",
+    "url": "/istanbul/sisli-kaptanpasa-mah-okmeydani"
   },
   {
-    "title": "Ada Kahvaltı Evi, Sarıyer (FSM Mah.)"
+    "title": "Şişli (Kuştepe Mah.)",
+    "url": "/istanbul/sisli-kustepe-mah"
   },
   {
-    "title": "Adana 34 Dürüm Evi, Beşiktaş (Ulus Mah.)"
+    "title": "Şişli (Mahmut Şevket Paşa Mah.)",
+    "url": "/istanbul/sisli-mahmut-sevket-pasa-mah"
   },
   {
-    "title": "Adana 34 Lahmacun & Pide, Beşiktaş (Ulus Mah.)"
+    "title": "Şişli (Mecidiyeköy Mah. - Dereboyu)",
+    "url": "/istanbul/sisli-mecidiyekoy-mah-dereboyu"
   },
   {
-    "title": "Adana Dürüm Olay Yeri, Kağıthane (Ortabayır Mah.)"
+    "title": "Şişli (Mecidiyeköy Mah.)",
+    "url": "/istanbul/sisli-mecidiyekoy-mah"
   },
   {
-    "title": "Adana Kebap & Lahmacun & Pide, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Şişli (Merkez Mah.)",
+    "url": "/istanbul/sisli-merkez-mah"
   },
   {
-    "title": "Adanalı Dürümcü Abi, Şişli (İzzet Paşa Mah.)"
+    "title": "Şişli (Meşrutiyet Mah. - Nişantaşı)",
+    "url": "/istanbul/sisli-mesrutiyet-mah-nisantasi"
   },
   {
-    "title": "Adana Varda Ocakbaşı, Sarıyer (Rumelihisarı Mah. - Hisarüstü)"
+    "title": "Şişli (Paşa Mah.)",
+    "url": "/istanbul/sisli-pasa-mah"
   },
   {
-    "title": "Adanistan, Beşiktaş (Gayrettepe Mah.)"
+    "title": "Şişli (Teşvikiye Mah.)",
+    "url": "/istanbul/sisli-tesvikiye-mah"
   },
   {
-    "title": "Ada Sokağı, Beşiktaş (Abbasağa Mah.)"
+    "title": "Şişli (Yayla Mah.)",
+    "url": "/istanbul/sisli-yayla-mah"
   },
   {
-    "title": "Address City, Beşiktaş (Etiler Mah.)"
+    "title": "Tuzla (Akfırat Mah.)",
+    "url": "/istanbul/tuzla-akfirat-mah"
   },
   {
-    "title": "Adem Baba, Beşiktaş (Arnavutköy Mah.)"
+    "title": "Tuzla (Anadolu Mah.)",
+    "url": "/istanbul/tuzla-anadolu-mah"
   },
   {
-    "title": "Adım Kebap, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Tuzla (Aydınlı Mah. - Birlik OSB)",
+    "url": "/istanbul/tuzla-aydinli-mah-birlik-osb"
   },
   {
-    "title": "Adıyaman Çiğ Köfte, Şişli (Gülbahar Mah. - Gülbağ)"
-  }
-,
+    "title": "Tuzla (Aydınlı Mah. - Deri OSB Orhanlı Girişi)",
+    "url": "/istanbul/tuzla-aydinli-mah-deri-osb-orhanli-girisi"
+  },
+  {
+    "title": "Tuzla (Aydınlı Mah. - Deri OSB)",
+    "url": "/istanbul/tuzla-aydinli-mah-deri-osb"
+  },
+  {
+    "title": "Tuzla (Aydınlı Mah. - İstanbul Ay OSB)",
+    "url": "/istanbul/tuzla-aydinli-mah-istanbul-ay-osb"
+  },
+  {
+    "title": "Tuzla (Aydınlı Mah. - KOSB)",
+    "url": "/istanbul/tuzla-aydinli-mah-kosb"
+  },
+  {
+    "title": "Tuzla (Aydınlı Mah. - OSB)",
+    "url": "/istanbul/tuzla-aydinli-mah-osb"
+  },
+  {
+    "title": "Tuzla (Aydınlı Mah. - TOKİ)",
+    "url": "/istanbul/tuzla-aydinli-mah-toki"
+  },
+  {
+    "title": "Tuzla (Aydınlı Mah.)",
+    "url": "/istanbul/tuzla-aydinli-mah"
+  },
+  {
+    "title": "Tuzla (Aydıntepe Mah. - Tersane)",
+    "url": "/istanbul/tuzla-aydintepe-mah-tersane"
+  },
+  {
+    "title": "Tuzla (Aydıntepe Mah.)",
+    "url": "/istanbul/tuzla-aydintepe-mah"
+  },
+  {
+    "title": "Tuzla (Cami Mah.)",
+    "url": "/istanbul/tuzla-cami-mah"
+  },
+  {
+    "title": "Tuzla (Evliya Çelebi Mah.)",
+    "url": "/istanbul/tuzla-evliya-celebi-mah"
+  },
+  {
+    "title": "Tuzla (Fatih Mah.)",
+    "url": "/istanbul/tuzla-fatih-mah"
+  },
+  {
+    "title": "Tuzla (İçmeler Mah.)",
+    "url": "/istanbul/tuzla-icmeler-mah"
+  },
+  {
+    "title": "Tuzla (İstasyon Mah.)",
+    "url": "/istanbul/tuzla-istasyon-mah"
+  },
+  {
+    "title": "Tuzla (Mescit Mah.)",
+    "url": "/istanbul/tuzla-mescit-mah"
+  },
+  {
+    "title": "Tuzla (Mimar Sinan Mah.)",
+    "url": "/istanbul/tuzla-mimar-sinan-mah"
+  },
+  {
+    "title": "Tuzla (Orhanlı Mah.)",
+    "url": "/istanbul/tuzla-orhanli-mah"
+  },
+  {
+    "title": "Tuzla (Orta Mah.)",
+    "url": "/istanbul/tuzla-orta-mah"
+  },
+  {
+    "title": "Tuzla (Postane Mah.)",
+    "url": "/istanbul/tuzla-postane-mah"
+  },
+  {
+    "title": "Tuzla (Şifa Mah.)",
+    "url": "/istanbul/tuzla-sifa-mah"
+  },
+  {
+    "title": "Tuzla (Tepeören Mah. - OSB)",
+    "url": "/istanbul/tuzla-tepeoren-mah-osb"
+  },
+  {
+    "title": "Tuzla (Tepeören Mah.)",
+    "url": "/istanbul/tuzla-tepeoren-mah"
+  },
+  {
+    "title": "Tuzla (Yayla Mah.)",
+    "url": "/istanbul/tuzla-yayla-mah"
+  },
+  {
+    "title": "Ümraniye (Adem Yavuz Mah.)",
+    "url": "/istanbul/umraniye-adem-yavuz-mah"
+  },
+  {
+    "title": "Ümraniye (Altınşehir Mah.)",
+    "url": "/istanbul/umraniye-altinsehir-mah"
+  },
+  {
+    "title": "Ümraniye (Armağanevler Mah.)",
+    "url": "/istanbul/umraniye-armaganevler-mah"
+  },
+  {
+    "title": "Ümraniye (Aşağı Dudullu Mah.)",
+    "url": "/istanbul/umraniye-asagi-dudullu-mah"
+  },
+  {
+    "title": "Ümraniye (Atakent Mah.)",
+    "url": "/istanbul/umraniye-atakent-mah"
+  },
+  {
+    "title": "Ümraniye (Atatürk Mah.)",
+    "url": "/istanbul/umraniye-ataturk-mah"
+  },
+  {
+    "title": "Ümraniye (Cemil Meriç Mah.)",
+    "url": "/istanbul/umraniye-cemil-meric-mah"
+  },
+  {
+    "title": "Ümraniye (Çakmak Mah.)",
+    "url": "/istanbul/umraniye-cakmak-mah"
+  },
+  {
+    "title": "Ümraniye (Çamlık Mah.)",
+    "url": "/istanbul/umraniye-camlik-mah"
+  },
+  {
+    "title": "Ümraniye (Dumlupınar Mah.)",
+    "url": "/istanbul/umraniye-dumlupinar-mah"
+  },
+  {
+    "title": "Ümraniye (Elmalıkent Mah.)",
+    "url": "/istanbul/umraniye-elmalikent-mah"
+  },
+  {
+    "title": "Ümraniye (Esenevler Mah.)",
+    "url": "/istanbul/umraniye-esenevler-mah"
+  },
+  {
+    "title": "Ümraniye (Esenkent Mah.)",
+    "url": "/istanbul/umraniye-esenkent-mah"
+  },
+  {
+    "title": "Ümraniye (Esenşehir Mah.)",
+    "url": "/istanbul/umraniye-esensehir-mah"
+  },
+  {
+    "title": "Ümraniye (Fatih Sultan Mehmet Mah.)",
+    "url": "/istanbul/umraniye-fatih-sultan-mehmet-mah"
+  },
+  {
+    "title": "Ümraniye (Finanskent Mah.)",
+    "url": "/istanbul/umraniye-finanskent-mah"
+  },
+  {
+    "title": "Ümraniye (Hekimbaşı Mah.)",
+    "url": "/istanbul/umraniye-hekimbasi-mah"
+  },
+  {
+    "title": "Ümraniye (Huzur Mah.)",
+    "url": "/istanbul/umraniye-huzur-mah"
+  },
+  {
+    "title": "Ümraniye (Ihlamurkuyu Mah.)",
+    "url": "/istanbul/umraniye-ihlamurkuyu-mah"
+  },
+  {
+    "title": "Ümraniye (İnkılap Mah.)",
+    "url": "/istanbul/umraniye-inkilap-mah"
+  },
+  {
+    "title": "Ümraniye (İstiklal Mah.)",
+    "url": "/istanbul/umraniye-istiklal-mah"
+  },
+  {
+    "title": "Ümraniye (Kazım Karabekir Mah.)",
+    "url": "/istanbul/umraniye-kazim-karabekir-mah"
+  },
+  {
+    "title": "Ümraniye (Madenler Mah.)",
+    "url": "/istanbul/umraniye-madenler-mah"
+  },
+  {
+    "title": "Ümraniye (Mehmet Akif Mah.)",
+    "url": "/istanbul/umraniye-mehmet-akif-mah"
+  },
+  {
+    "title": "Ümraniye (Namık Kemal Mah.)",
+    "url": "/istanbul/umraniye-namik-kemal-mah"
+  },
+  {
+    "title": "Ümraniye (Necip Fazıl Mah.)",
+    "url": "/istanbul/umraniye-necip-fazil-mah"
+  },
+  {
+    "title": "Ümraniye (Parseller Mah.)",
+    "url": "/istanbul/umraniye-parseller-mah"
+  },
+  {
+    "title": "Ümraniye (Saray Mah.)",
+    "url": "/istanbul/umraniye-saray-mah"
+  },
+  {
+    "title": "Ümraniye (Site Mah. - Yenişehir Soyak)",
+    "url": "/istanbul/umraniye-site-mah-yenisehir-soyak"
+  },
+  {
+    "title": "Ümraniye (Site Mah.)",
+    "url": "/istanbul/umraniye-site-mah"
+  },
+  {
+    "title": "Ümraniye (Şerifali Mah.)",
+    "url": "/istanbul/umraniye-serifali-mah"
+  },
+  {
+    "title": "Ümraniye (Tantavi Mah.)",
+    "url": "/istanbul/umraniye-tantavi-mah"
+  },
+  {
+    "title": "Ümraniye (Tatlısu Mah.)",
+    "url": "/istanbul/umraniye-tatlisu-mah"
+  },
+  {
+    "title": "Ümraniye (Tepeüstü Mah.)",
+    "url": "/istanbul/umraniye-tepeustu-mah"
+  },
+  {
+    "title": "Ümraniye (Topağacı Mah.)",
+    "url": "/istanbul/umraniye-topagaci-mah"
+  },
+  {
+    "title": "Ümraniye (Yamanevler Mah.)",
+    "url": "/istanbul/umraniye-yamanevler-mah"
+  },
+  {
+    "title": "Ümraniye (Yenişehir Mah.)",
+    "url": "/istanbul/umraniye-yenisehir-mah"
+  },
+  {
+    "title": "Ümraniye (Yukarı Dudullu Mah.)",
+    "url": "/istanbul/umraniye-yukari-dudullu-mah"
+  },
+  {
+    "title": "Üsküdar (A. Mahmud Hüdayi Mah.)",
+    "url": "/istanbul/uskudar-a-mahmud-hudayi-mah"
+  },
+  {
+    "title": "Üsküdar (Acıbadem Mah.)",
+    "url": "/istanbul/uskudar-acibadem-mah"
+  },
+  {
+    "title": "Üsküdar (Ahmediye Mah.)",
+    "url": "/istanbul/uskudar-ahmediye-mah"
+  },
+  {
+    "title": "Üsküdar (Altunizade Mah.)",
+    "url": "/istanbul/uskudar-altunizade-mah"
+  },
+  {
+    "title": "Üsküdar (Bahçelievler Mah.)",
+    "url": "/istanbul/uskudar-bahcelievler-mah"
+  },
+  {
+    "title": "Üsküdar (Barbaros Mah.)",
+    "url": "/istanbul/uskudar-barbaros-mah"
+  },
+  {
+    "title": "Üsküdar (Beylerbeyi Mah.)",
+    "url": "/istanbul/uskudar-beylerbeyi-mah"
+  },
+  {
+    "title": "Üsküdar (Bulgurlu Mah.)",
+    "url": "/istanbul/uskudar-bulgurlu-mah"
+  },
+  {
+    "title": "Üsküdar (Burhaniye Mah.)",
+    "url": "/istanbul/uskudar-burhaniye-mah"
+  },
+  {
+    "title": "Üsküdar (Büyük Çamlıca Mah.)",
+    "url": "/istanbul/uskudar-buyuk-camlica-mah"
+  },
+  {
+    "title": "Üsküdar (Cumhuriyet Mah.)",
+    "url": "/istanbul/uskudar-cumhuriyet-mah"
+  },
+  {
+    "title": "Üsküdar (Çengelköy Mah.)",
+    "url": "/istanbul/uskudar-cengelkoy-mah"
+  },
+  {
+    "title": "Üsküdar (Ferah Mah.)",
+    "url": "/istanbul/uskudar-ferah-mah"
+  },
+  {
+    "title": "Üsküdar (Güzeltepe Mah.)",
+    "url": "/istanbul/uskudar-guzeltepe-mah"
+  },
+  {
+    "title": "Üsküdar (İcadiye Mah.)",
+    "url": "/istanbul/uskudar-icadiye-mah"
+  },
+  {
+    "title": "Üsküdar (Kandilli Mah.)",
+    "url": "/istanbul/uskudar-kandilli-mah"
+  },
+  {
+    "title": "Üsküdar (Kısıklı Mah.)",
+    "url": "/istanbul/uskudar-kisikli-mah"
+  },
+  {
+    "title": "Üsküdar (Kirazlıtepe Mah.)",
+    "url": "/istanbul/uskudar-kirazlitepe-mah"
+  },
+  {
+    "title": "Üsküdar (Kuleli Mah.)",
+    "url": "/istanbul/uskudar-kuleli-mah"
+  },
+  {
+    "title": "Üsküdar (Kuzguncuk Mah. - Nakkaştepe)",
+    "url": "/istanbul/uskudar-kuzguncuk-mah-nakkastepe"
+  },
+  {
+    "title": "Üsküdar (Kuzguncuk Mah.)",
+    "url": "/istanbul/uskudar-kuzguncuk-mah"
+  },
+  {
+    "title": "Üsküdar (Küçük Çamlıca Mah.)",
+    "url": "/istanbul/uskudar-kucuk-camlica-mah"
+  },
+  {
+    "title": "Üsküdar (Küçüksu Mah.)",
+    "url": "/istanbul/uskudar-kucuksu-mah"
+  },
+  {
+    "title": "Üsküdar (Küplüce Mah.)",
+    "url": "/istanbul/uskudar-kupluce-mah"
+  },
+  {
+    "title": "Üsküdar (Mehmet Akif Ersoy Mah.)",
+    "url": "/istanbul/uskudar-mehmet-akif-ersoy-mah"
+  },
+  {
+    "title": "Üsküdar (Mimar Sinan Mah. - Toygar Hamza)",
+    "url": "/istanbul/uskudar-mimar-sinan-mah-toygar-hamza"
+  },
+  {
+    "title": "Üsküdar (Mimar Sinan Mah.)",
+    "url": "/istanbul/uskudar-mimar-sinan-mah"
+  },
+  {
+    "title": "Üsküdar (Murat Reis Mah.)",
+    "url": "/istanbul/uskudar-murat-reis-mah"
+  },
+  {
+    "title": "Üsküdar (Salacak Mah.)",
+    "url": "/istanbul/uskudar-salacak-mah"
+  },
+  {
+    "title": "Üsküdar (Selamiali Mah. - Bağlarbaşı)",
+    "url": "/istanbul/uskudar-selamiali-mah-baglarbasi"
+  },
+  {
+    "title": "Üsküdar (Selamiali Mah. - Fıstıkağacı)",
+    "url": "/istanbul/uskudar-selamiali-mah-fistikagaci"
+  },
+  {
+    "title": "Üsküdar (Selamiali Mah.)",
+    "url": "/istanbul/uskudar-selamiali-mah"
+  },
+  {
+    "title": "Üsküdar (Selimiye Mah. - Harem)",
+    "url": "/istanbul/uskudar-selimiye-mah-harem"
+  },
+  {
+    "title": "Üsküdar (Selimiye Mah.)",
+    "url": "/istanbul/uskudar-selimiye-mah"
+  },
+  {
+    "title": "Üsküdar (Sultantepe Mah.)",
+    "url": "/istanbul/uskudar-sultantepe-mah"
+  },
+  {
+    "title": "Üsküdar (Ünalan Mah.)",
+    "url": "/istanbul/uskudar-unalan-mah"
+  },
+  {
+    "title": "Üsküdar (Valide-i Atik Mah.)",
+    "url": "/istanbul/uskudar-valide-i-atik-mah"
+  },
+  {
+    "title": "Üsküdar (Yavuztürk Mah.)",
+    "url": "/istanbul/uskudar-yavuzturk-mah"
+  },
+  {
+    "title": "Üsküdar (Zeynep Kamil Mah.)",
+    "url": "/istanbul/uskudar-zeynep-kamil-mah"
+  },
+  {
+    "title": "Zeytinburnu (Beştelsiz Mah.)",
+    "url": "/istanbul/zeytinburnu-bestelsiz-mah"
+  },
+  {
+    "title": "Zeytinburnu (Çırpıcı Mah.)",
+    "url": "/istanbul/zeytinburnu-cirpici-mah"
+  },
+  {
+    "title": "Zeytinburnu (Gökalp Mah.)",
+    "url": "/istanbul/zeytinburnu-gokalp-mah"
+  },
+  {
+    "title": "Zeytinburnu (Kazlıçeşme Mah.)",
+    "url": "/istanbul/zeytinburnu-kazlicesme-mah"
+  },
+  {
+    "title": "Zeytinburnu (Maltepe Mah.- Cevizlibağ)",
+    "url": "/istanbul/zeytinburnu-maltepe-mah-cevizlibag"
+  },
+  {
+    "title": "Zeytinburnu (Maltepe Mah.)",
+    "url": "/istanbul/zeytinburnu-maltepe-mah"
+  },
+  {
+    "title": "Zeytinburnu (Merkezefendi Mah.- Cevizlibağ)",
+    "url": "/istanbul/zeytinburnu-merkezefendi-mah-cevizlibag"
+  },
+  {
+    "title": "Zeytinburnu (Merkezefendi Mah.)",
+    "url": "/istanbul/zeytinburnu-merkezefendi-mah"
+  },
+  {
+    "title": "Zeytinburnu (Nuripaşa Mah.)",
+    "url": "/istanbul/zeytinburnu-nuripasa-mah"
+  },
+  {
+    "title": "Zeytinburnu (Seyitnizam Mah.)",
+    "url": "/istanbul/zeytinburnu-seyitnizam-mah"
+  },
+  {
+    "title": "Zeytinburnu (Sümer Mah.)",
+    "url": "/istanbul/zeytinburnu-sumer-mah"
+  },
+  {
+    "title": "Zeytinburnu (Telsiz Mah.)",
+    "url": "/istanbul/zeytinburnu-telsiz-mah"
+  },
+  {
+    "title": "Zeytinburnu (Veliefendi Mah.)",
+    "url": "/istanbul/zeytinburnu-veliefendi-mah"
+  },
+  {
+    "title": "Zeytinburnu (Yenidoğan Mah.)",
+    "url": "/istanbul/zeytinburnu-yenidogan-mah"
+  },
+  {
+    "title": "Zeytinburnu (Yeşiltepe Mah.)",
+    "url": "/istanbul/zeytinburnu-yesiltepe-mah"
+  },
+  {
+    "title": "29 Mayıs Üniversitesi - Bağlarbaşı Kampüsü",
+    "url": "/istanbul/29-mayis-universitesi-baglarbasi-kampusu"
+  },
+  {
+    "title": "29 Mayıs Üniversitesi - Ümraniye Kampüsü",
+    "url": "/istanbul/29-mayis-universitesi-umraniye-kampusu"
+  },
+  {
+    "title": "Acıbadem Üniversitesi - Kerem Aydınlar Kampüsü",
+    "url": "/istanbul/acibadem-universitesi-kerem-aydinlar-kampusu"
+  },
+  {
+    "title": "Bahçeşehir Üniversitesi - Beşiktaş Kampüsü",
+    "url": "/istanbul/bahcesehir-universitesi-besiktas-kampusu"
+  },
+  {
+    "title": "Bahçeşehir Üniversitesi - Galata Kampüsü",
+    "url": "/istanbul/bahcesehir-universitesi-galata-kampusu"
+  },
+  {
+    "title": "Bahçeşehir Üniversitesi - Göztepe Kampüsü",
+    "url": "/istanbul/bahcesehir-universitesi-goztepe-kampusu"
+  },
+  {
+    "title": "Bahçeşehir Üniversitesi - Kuzey Kampüs",
+    "url": "/istanbul/bahcesehir-universitesi-kuzey-kampus"
+  },
+  {
+    "title": "Bahçeşehir Üniversitesi - Şişli Kampüsü",
+    "url": "/istanbul/bahcesehir-universitesi-sisli-kampusu"
+  },
+  {
+    "title": "Beykent Üniversitesi - Ayazağa Kampüsü",
+    "url": "/istanbul/beykent-universitesi-ayazaga-kampusu"
+  },
+  {
+    "title": "Beykent Üniversitesi - Beylikdüzü Kampüsü",
+    "url": "/istanbul/beykent-universitesi-beylikduzu-kampusu"
+  },
+  {
+    "title": "Beykent Üniversitesi - Taksim Kampüsü",
+    "url": "/istanbul/beykent-universitesi-taksim-kampusu"
+  },
+  {
+    "title": "Beykoz Üniversitesi - Çubuklu Kampüsü",
+    "url": "/istanbul/beykoz-universitesi-cubuklu-kampusu"
+  },
+  {
+    "title": "Beykoz Üniversitesi - Hazırlık Kampüsü",
+    "url": "/istanbul/beykoz-universitesi-hazirlik-kampusu"
+  },
+  {
+    "title": "Beykoz Üniversitesi - Kavacık Kampüsü",
+    "url": "/istanbul/beykoz-universitesi-kavacik-kampusu"
+  },
   {
-    "title": "McDonald's, Beşiktaş (Levent Mah.)"
+    "title": "Biruni Üniversitesi - Merkez Kampüs",
+    "url": "/istanbul/biruni-universitesi-merkez-kampus"
   },
   {
-    "title": "Günaydın Köfte & Döner, Şişli (Esentepe Mah. - Plazalar)"
+    "title": "Boğaziçi Üniversitesi - Güney Kampüs ",
+    "url": "/istanbul/bogazici-universitesi-guney-kampus"
   },
   {
-    "title": "Burger King, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Boğaziçi Üniversitesi - Hisar Kampüsü",
+    "url": "/istanbul/bogazici-universitesi-hisar-kampusu"
   },
   {
-    "title": "Nadide Restaurant, Şişli (Esentepe Mah.)"
+    "title": "Boğaziçi Üniversitesi - Kandilli Kampüsü",
+    "url": "/istanbul/bogazici-universitesi-kandilli-kampusu"
   },
   {
-    "title": "Vanilia Cafe, Beşiktaş (Gayrettepe Mah.)"
+    "title": "Boğaziçi Üniversitesi - Kuzey Kampüs ",
+    "url": "/istanbul/bogazici-universitesi-kuzey-kampus"
   },
   {
-    "title": "Bomba Döner, Şişli (Mecidiyeköy Mah.)"
+    "title": "Boğaziçi Üniversitesi - Sarıtepe - Kilyos Kampüsü",
+    "url": "/istanbul/bogazici-universitesi-saritepe-kilyos-kampusu"
   },
   {
-    "title": "Abi Kardeş Kebap & Dürüm Evi, Kağıthane (Harmantepe Mah.)"
+    "title": "Boğaziçi Üniversitesi - Uçaksavar Kampüsü",
+    "url": "/istanbul/bogazici-universitesi-ucaksavar-kampusu"
   },
   {
-    "title": "Abi Kardeş Pide & Lahmacun, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Doğuş Üniversitesi - Acıbadem Kampüsü",
+    "url": "/istanbul/dogus-universitesi-acibadem-kampusu"
   },
   {
-    "title": "Aboov Urfam Kebap, Sarıyer (Pınar Mah.)"
+    "title": "Esenyurt Üniversitesi - Esenyurt Kampüsü",
+    "url": "/istanbul/esenyurt-universitesi-esenyurt-kampusu"
   },
   {
-    "title": "Adıyaman Pide & Lahmacun, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Fenerbahçe Üniversitesi - Ataşehir Kampüsü",
+    "url": "/istanbul/fenerbahce-universitesi-atasehir-kampusu"
   },
   {
-    "title": "Adıyaman Pide & Lahmacun, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Galatasaray Üniversitesi - Ortaköy Kampüsü",
+    "url": "/istanbul/galatasaray-universitesi-ortakoy-kampusu"
   },
   {
-    "title": "Ağız Tadı Kebap & Lahmacun, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Haliç Üniversitesi - Levent Kampüsü",
+    "url": "/istanbul/halic-universitesi-levent-kampusu"
   },
   {
-    "title": "Altın Sofra, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Haliç Üniversitesi - Sütlüce Kampüsü",
+    "url": "/istanbul/halic-universitesi-sutluce-kampusu"
   },
   {
-    "title": "Altunova Kardeşler Pide & Lahmacun, Kağıthane (Harmantepe Mah.)"
+    "title": "Haliç Üniversitesi - Şişhane Kampüsü",
+    "url": "/istanbul/halic-universitesi-sishane-kampusu"
   },
   {
-    "title": "Antep Lahmacun & Pide, Kağıthane (Harmantepe Mah.)"
+    "title": "Işık Üniversitesi - Maslak Kampüsü",
+    "url": "/istanbul/isik-universitesi-maslak-kampusu"
   },
   {
-    "title": "Antepli Kardeşler, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Işık Üniversitesi - Şile Kampüsü",
+    "url": "/istanbul/isik-universitesi-sile-kampusu"
   },
   {
-    "title": "Ar Gurme Hamburger & Köfte, Kağıthane (Çeliktepe Mah.)"
+    "title": "İbn Haldun Üniversitesi - Başakşehir Kampüsü",
+    "url": "/istanbul/ibn-haldun-universitesi-basaksehir-kampusu"
   },
   {
-    "title": "Asrın Pide & Lahmacun, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "İstanbul Altınbaş Üniversitesi - Bakırköy Kampüsü",
+    "url": "/istanbul/istanbul-altinbas-universitesi-bakirkoy-kampusu"
   },
   {
-    "title": "As Urfa Pide & Lahmacun, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "İstanbul Altınbaş Üniversitesi - Esentepe Kampüsü",
+    "url": "/istanbul/istanbul-altinbas-universitesi-esentepe-kampusu"
   },
   {
-    "title": "Dobby's Burger Place, Sarıyer (Maslak Mah.)"
+    "title": "İstanbul Altınbaş Üniversitesi - Mahmutbey Kampüsü",
+    "url": "/istanbul/istanbul-altinbas-universitesi-mahmutbey-kampusu"
   },
   {
-    "title": "Hurma Restaurant, Beşiktaş (Ulus Mah.)"
+    "title": "İstanbul Arel Üniversitesi - Sefaköy Kampüsü",
+    "url": "/istanbul/istanbul-arel-universitesi-sefakoy-kampusu"
   },
   {
-    "title": "İkbal Lokantası 1922, Kağıthane (Emniyetevleri Mah.)"
+    "title": "İstanbul Arel Üniversitesi - Tepe Kent Kampüsü",
+    "url": "/istanbul/istanbul-arel-universitesi-tepe-kent-kampusu"
   },
   {
-    "title": "Öz Adana Kebap, Kağıthane (Ortabayır Mah.)"
+    "title": "İstanbul Atlas Üniversitesi - Kağıthane Kampüsü",
+    "url": "/istanbul/istanbul-atlas-universitesi-kagithane-kampusu"
   },
   {
-    "title": "Paşazadem Antep Sofrası, Kağıthane (Şirintepe Mah.)"
+    "title": "İstanbul Aydın Üniversitesi - Bahçelievler Kampüsü",
+    "url": "/istanbul/istanbul-aydin-universitesi-bahcelievler-kampusu"
   },
   {
-    "title": "Urfa Kebapçım, Kağıthane (Emniyetevleri Mah.)"
+    "title": "İstanbul Aydın Üniversitesi - Beşiktaş Kampüsü",
+    "url": "/istanbul/istanbul-aydin-universitesi-besiktas-kampusu"
   },
   {
-    "title": "7/70 Pizza & Burger, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "İstanbul Aydın Üniversitesi - Halit Aydın Kampüsü",
+    "url": "/istanbul/istanbul-aydin-universitesi-halit-aydin-kampusu"
   },
   {
-    "title": "Acıktım Kardeşler Pide & Lahmacun, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "İstanbul Aydın Üniversitesi - Kadıköy Kampüsü",
+    "url": "/istanbul/istanbul-aydin-universitesi-kadikoy-kampusu"
   },
   {
-    "title": "Adalı Midye, Sarıyer (Ayazağa Mah.)"
+    "title": "İstanbul Ayvansaray Üniversitesi - Ayvansaray Kampüsü",
+    "url": "/istanbul/istanbul-ayvansaray-universitesi-ayvansaray-kampusu"
   },
   {
-    "title": "Aile Mutfağı Ev Yemekleri, Şişli (Mecidiyeköy Mah.)"
+    "title": "İstanbul Ayvansaray Üniversitesi - Merter Kampüsü",
+    "url": "/istanbul/istanbul-ayvansaray-universitesi-merter-kampusu"
   },
   {
-    "title": "Ala Sandwich, Sarıyer (Reşitpaşa Mah.)"
+    "title": "İstanbul Ayvansaray Üniversitesi - Yenibosna Kampüsü",
+    "url": "/istanbul/istanbul-ayvansaray-universitesi-yenibosna-kampusu"
   },
   {
-    "title": "Blue Ice Cream, Kağıthane (Ortabayır Mah.)"
+    "title": "İstanbul Bilgi Üniversitesi - Dolapdere Kampüsü",
+    "url": "/istanbul/istanbul-bilgi-universitesi-dolapdere-kampusu"
   },
   {
-    "title": "Bostan Meze, Beşiktaş (Akat Mah.)"
+    "title": "İstanbul Bilgi Üniversitesi - Kozyatağı Kampüsü",
+    "url": "/istanbul/istanbul-bilgi-universitesi-kozyatagi-kampusu"
   },
   {
-    "title": "Brkd Döner & Pide & Lahmacun, Sarıyer (FSM Mah.)"
+    "title": "İstanbul Bilgi Üniversitesi - Kuştepe Kampüsü",
+    "url": "/istanbul/istanbul-bilgi-universitesi-kustepe-kampusu"
   },
   {
-    "title": "Hisar Lokantası & Döner, Sarıyer (Rumelihisarı Mah. - Hisarüstü)"
+    "title": "İstanbul Bilgi Üniversitesi - Premier Kampüsü",
+    "url": "/istanbul/istanbul-bilgi-universitesi-premier-kampusu"
   },
   {
-    "title": "Madam Butterfly Restaurant & Cafe, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "İstanbul Bilgi Üniversitesi - Santralistanbul Kampüsü",
+    "url": "/istanbul/istanbul-bilgi-universitesi-santralistanbul-kampusu"
   },
   {
-    "title": "Tostlar Sağolsun, Şişli (Esentepe Mah.)"
+    "title": "İstanbul Bilim Üniversitesi - Esentepe Kampüsü",
+    "url": "/istanbul/istanbul-bilim-universitesi-esentepe-kampusu"
   },
   {
-    "title": "Türkis Gourmet Pide, Beşiktaş (Levent Mah.)"
+    "title": "İstanbul Bilim Üniversitesi - Fulya Kampüsü",
+    "url": "/istanbul/istanbul-bilim-universitesi-fulya-kampusu"
   },
   {
-    "title": "Urfalı Kebapçım, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "İstanbul Bilim Üniversitesi - Gayrettepe Kampüsü",
+    "url": "/istanbul/istanbul-bilim-universitesi-gayrettepe-kampusu"
   },
   {
-    "title": "Wallop, Sarıyer (Maslak Mah.)"
+    "title": "İstanbul Bilim Üniversitesi - Şişhane Kampüsü",
+    "url": "/istanbul/istanbul-bilim-universitesi-sishane-kampusu"
   },
   {
-    "title": "(Chinastix) & Sushi, Beşiktaş (Etiler Mah.)"
+    "title": "İstanbul Fatih Sultan Mehmet Üniversitesi - Çamlıca Kampüsü",
+    "url": "/istanbul/istanbul-fatih-sultan-mehmet-universitesi-camlica-kampusu"
   },
   {
-    "title": "(Parantez İstanbul) Pide, Beşiktaş (Etiler Mah.)"
+    "title": "İstanbul Fatih Sultan Mehmet Üniversitesi - Fatih Kampüsü",
+    "url": "/istanbul/istanbul-fatih-sultan-mehmet-universitesi-fatih-kampusu"
   },
   {
-    "title": "(Parantez İstanbul) Zeytinyağlı & Meze, Beşiktaş (Etiler Mah.)"
+    "title": "İstanbul Fatih Sultan Mehmet Üniversitesi - Halıcıoğlu Kampüsü",
+    "url": "/istanbul/istanbul-fatih-sultan-mehmet-universitesi-halicioglu-kampusu"
   },
   {
-    "title": "33 Suat Usta Mersin Tantuni, Beşiktaş (Sinanpaşa Mah.)"
+    "title": "İstanbul Fatih Sultan Mehmet Üniversitesi - Kandilli Kampüsü",
+    "url": "/istanbul/istanbul-fatih-sultan-mehmet-universitesi-kandilli-kampusu"
   },
   {
-    "title": "33 Suat Usta Mersin Tantuni, Şişli (Mecidiyeköy Mah.)"
+    "title": "İstanbul Fatih Sultan Mehmet Üniversitesi - Topkapı Kampüsü",
+    "url": "/istanbul/istanbul-fatih-sultan-mehmet-universitesi-topkapi-kampusu"
   },
   {
-    "title": "4X4 Tost, Beşiktaş (Nisbetiye Mah.)"
+    "title": "İstanbul Fatih Sultan Mehmet Üniversitesi - Üsküdar Kampüsü",
+    "url": "/istanbul/istanbul-fatih-sultan-mehmet-universitesi-uskudar-kampusu"
   },
   {
-    "title": "Abc Sucuk Ekmek, Şişli (Mecidiyeköy Mah.)"
+    "title": "İstanbul Gedik Üniversitesi - Kartal Kampüsü",
+    "url": "/istanbul/istanbul-gedik-universitesi-kartal-kampusu"
   },
   {
-    "title": "Abla Kardeş Mantı Evi, Beşiktaş (Etiler Mah.)"
+    "title": "İstanbul Gedik Üniversitesi - Pendik Kampüsü",
+    "url": "/istanbul/istanbul-gedik-universitesi-pendik-kampusu"
   },
   {
-    "title": "Above Taco, Şişli (Esentepe Mah.)"
+    "title": "İstanbul Gelişim Üniversitesi - Avcılar Kampüsü",
+    "url": "/istanbul/istanbul-gelisim-universitesi-avcilar-kampusu"
   },
   {
-    "title": "Acar Dürüm Evi, Şişli (Esentepe Mah.)"
+    "title": "İstanbul Kent Üniversitesi - Cihangir Kampüsü",
+    "url": "/istanbul/istanbul-kent-universitesi-cihangir-kampusu"
   },
   {
-    "title": "Acıktım Pide & Lahmacun, Kağıthane (Harmantepe Mah.)"
+    "title": "İstanbul Kültür Üniversitesi - Ataköy Kampüsü",
+    "url": "/istanbul/istanbul-kultur-universitesi-atakoy-kampusu"
   },
   {
-    "title": "Acıktım Tat Lahmacun Pide & Kebap, Kağıthane (Yahya Kemal Mah. - Ayazma)"
+    "title": "İstanbul Kültür Üniversitesi - Basın Ekspres Kampüsü",
+    "url": "/istanbul/istanbul-kultur-universitesi-basin-ekspres-kampusu"
   },
   {
-    "title": "Acil Tost, Kağıthane (Emniyetevleri Mah.)"
+    "title": "İstanbul Kültür Üniversitesi - İncirli Kampüsü",
+    "url": "/istanbul/istanbul-kultur-universitesi-incirli-kampusu"
   },
   {
-    "title": "Adana Mahle Ocakbaşı, Sarıyer (Rumelihisarı Mah. - Hisarüstü)"
+    "title": "İstanbul Kültür Üniversitesi - Şirinevler Kampüsü",
+    "url": "/istanbul/istanbul-kultur-universitesi-sirinevler-kampusu"
   },
   {
-    "title": "Agapia Gourmet Meze, Beşiktaş (Kültür Mah.)"
+    "title": "İstanbul Medeniyet Üniversitesi - Güney Kampüsü",
+    "url": "/istanbul/istanbul-medeniyet-universitesi-guney-kampusu"
   },
   {
-    "title": "Agreeni Burger House, Sarıyer (FSM Mah.)"
+    "title": "İstanbul Medeniyet Üniversitesi - Kartal Cevizli Mah. Kampüsü",
+    "url": "/istanbul/istanbul-medeniyet-universitesi-kartal-cevizli-mah-kampusu"
   },
   {
-    "title": "Al'bi Tost, Beşiktaş (Konaklar Mah.)"
+    "title": "İstanbul Medeniyet Üniversitesi - Kuzey Kampüsü",
+    "url": "/istanbul/istanbul-medeniyet-universitesi-kuzey-kampusu"
   },
   {
-    "title": "Altınemek Döner, Şişli (Mecidiyeköy Mah.)"
+    "title": "İstanbul Medipol Üniversitesi - Haliç Kampüsü",
+    "url": "/istanbul/istanbul-medipol-universitesi-halic-kampusu"
   },
   {
-    "title": "Anadolu Pide & Lahmacun, Kağıthane (Harmantepe Mah.)"
+    "title": "İstanbul Medipol Üniversitesi - Kavacık Güney Kampüsü",
+    "url": "/istanbul/istanbul-medipol-universitesi-kavacik-guney-kampusu"
   },
   {
-    "title": "Anadolu Urfa Kebap Lahmacun & Pide, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "İstanbul Medipol Üniversitesi - Kavacık Kuzey Kampüsü",
+    "url": "/istanbul/istanbul-medipol-universitesi-kavacik-kuzey-kampusu"
   },
   {
-    "title": "Anne Gözleme, Kağıthane (Emniyetevleri Mah.)"
+    "title": "İstanbul Rumeli Üniversitesi - Bostancı Yerleşkesi",
+    "url": "/istanbul/istanbul-rumeli-universitesi-bostanci-yerleskesi"
   },
   {
-    "title": "As Bursa İskender, Beşiktaş (Gayrettepe Mah.)"
+    "title": "İstanbul Rumeli Üniversitesi - Esenyurt Yerleşkesi",
+    "url": "/istanbul/istanbul-rumeli-universitesi-esenyurt-yerleskesi"
   },
   {
-    "title": "As Gaziantep Kebap & Izgara, Kağıthane (Harmantepe Mah.)"
+    "title": "İstanbul Rumeli Üniversitesi - Fikriye Balcı Yerleşkesi",
+    "url": "/istanbul/istanbul-rumeli-universitesi-fikriye-balci-yerleskesi"
   },
   {
-    "title": "Asil Mantı & Tava, Kağıthane (Gültepe Mah.)"
+    "title": "İstanbul Rumeli Üniversitesi - Haliç Yerleşkesi",
+    "url": "/istanbul/istanbul-rumeli-universitesi-halic-yerleskesi"
   },
   {
-    "title": "Aşiyan Mantı & Tava Ev Yemekleri, Kağıthane (Yahya Kemal Mah. - Ayazma)"
+    "title": "İstanbul Rumeli Üniversitesi - Kadıköy SEM Yerleşkesi",
+    "url": "/istanbul/istanbul-rumeli-universitesi-kadikoy-sem-yerleskesi"
   },
   {
-    "title": "Ayça Kasap Burger, Şişli (Fulya Mah. - Ortaklar)"
+    "title": "İstanbul Rumeli Üniversitesi - Mehmet Balcı Yerleşkesi",
+    "url": "/istanbul/istanbul-rumeli-universitesi-mehmet-balci-yerleskesi"
   },
   {
-    "title": "BackStreet Diner, Kağıthane (Merkez Mah. - Çobançeşme)"
+    "title": "İstanbul Rumeli Üniversitesi - Pendik Yerleşkesi",
+    "url": "/istanbul/istanbul-rumeli-universitesi-pendik-yerleskesi"
   },
   {
-    "title": "Bad Fried Chicken, Beşiktaş (Türkali Mah.)"
+    "title": "İstanbul Rumeli Üniversitesi - SEM Pastacılık Akademi Yerleşkesi",
+    "url": "/istanbul/istanbul-rumeli-universitesi-sem-pastacilik-akademi-yerleskesi"
   },
   {
-    "title": "Bakırda Kuru, Beşiktaş (Etiler Mah.)"
+    "title": "İstanbul Sabahattin Zaim Üniv. - Küçükçekmece Kampüsü",
+    "url": "/istanbul/istanbul-sabahattin-zaim-univ-kucukcekmece-kampusu"
   },
   {
-    "title": "Bal Kaymak Kahvaltı & Ev Yemekleri, Beşiktaş (Sinanpaşa Mah.)"
+    "title": "İstanbul Sabahattin Zaim Üniversitesi - Eyüp Kampüsü",
+    "url": "/istanbul/istanbul-sabahattin-zaim-universitesi-eyup-kampusu"
   },
   {
-    "title": "Baltazar, Beşiktaş (Türkali Mah.)"
+    "title": "İstanbul Sağlık ve Teknoloji Üniversitesi - Zeytinburnu Kampüsü",
+    "url": "/istanbul/istanbul-saglik-ve-teknoloji-universitesi-zeytinburnu-kampusu"
   },
   {
-    "title": "Bean's Dessert, Beşiktaş (Nisbetiye Mah.)"
+    "title": "İstanbul Şehir Üniversitesi - Altunizade Batı Kampüsü",
+    "url": "/istanbul/istanbul-sehir-universitesi-altunizade-bati-kampusu"
   },
   {
-    "title": "Bean's Dessert, Kağıthane (Ortabayır Mah.)"
+    "title": "İstanbul Şehir Üniversitesi - Altunizade Doğu Kampüsü",
+    "url": "/istanbul/istanbul-sehir-universitesi-altunizade-dogu-kampusu"
   },
   {
-    "title": "Bebek Pilavcısı, Beşiktaş (Bebek Mah.)"
+    "title": "İstanbul Şehir Üniversitesi - Altunizade Güney Kampüsü",
+    "url": "/istanbul/istanbul-sehir-universitesi-altunizade-guney-kampusu"
   },
   {
-    "title": "Bi Boyoz, Beşiktaş (Vişnezade Mah. - Akaretler)"
+    "title": "İstanbul Şehir Üniversitesi - Dragos Kampüsü",
+    "url": "/istanbul/istanbul-sehir-universitesi-dragos-kampusu"
   },
   {
-    "title": "Binbir Lahmacun, Şişli (Mecidiyeköy Mah.)"
+    "title": "İstanbul Şişli Meslek Yüksek Okulu - Maslak Yerleşkesi",
+    "url": "/istanbul/istanbul-sisli-meslek-yuksek-okulu-maslak-yerleskesi"
   },
   {
-    "title": "Bizim Balıkçı Namık Abi, Kağıthane (Seyrantepe Mah.)"
+    "title": "İstanbul Teknik Üniversitesi - Gümüşsuyu Kampüsü",
+    "url": "/istanbul/istanbul-teknik-universitesi-gumussuyu-kampusu"
   },
   {
-    "title": "Boğaziçi Pide & Lahmacun, Sarıyer (Rumelihisarı Mah. - Hisarüstü)"
+    "title": "İstanbul Teknik Üniversitesi - Maçka Kampüsü",
+    "url": "/istanbul/istanbul-teknik-universitesi-macka-kampusu"
   },
   {
-    "title": "Chop Shop Sushi & Noodle, Beşiktaş (Levent Mah.)"
+    "title": "İstanbul Teknik Üniversitesi - Maslak Kampüsü",
+    "url": "/istanbul/istanbul-teknik-universitesi-maslak-kampusu"
   },
   {
-    "title": "Çardakçı Cafe, Kağıthane (Yeşilce Mah.)"
+    "title": "İstanbul Teknik Üniversitesi - Maslak Kampüsü Yurtlar Bölgesi",
+    "url": "/istanbul/istanbul-teknik-universitesi-maslak-kampusu-yurtlar-bolgesi"
   },
   {
-    "title": "Çiftlik Kasap Burger, Beşiktaş (Akat Mah.)"
+    "title": "İstanbul Teknik Üniversitesi - Taşkışla Kampüsü",
+    "url": "/istanbul/istanbul-teknik-universitesi-taskisla-kampusu"
   },
   {
-    "title": "Emine Ana Tantuni, Şişli (Mecidiyeköy Mah.)"
+    "title": "İstanbul Teknik Üniversitesi - Tuzla Kampüsü",
+    "url": "/istanbul/istanbul-teknik-universitesi-tuzla-kampusu"
   },
   {
-    "title": "Fiskos Cafe & Breakfast, Beşiktaş (Sinanpaşa Mah.)"
+    "title": "İstanbul Ticaret Üniversitesi - Eminönü Kampüsü",
+    "url": "/istanbul/istanbul-ticaret-universitesi-eminonu-kampusu"
   },
   {
-    "title": "Fresh Food, Sarıyer (FSM Mah.)"
+    "title": "İstanbul Ticaret Üniversitesi - Küçükyalı Kampüsü",
+    "url": "/istanbul/istanbul-ticaret-universitesi-kucukyali-kampusu"
   },
   {
-    "title": "Joy Meal Cafe, Beşiktaş (Türkali Mah.)"
+    "title": "İstanbul Ticaret Üniversitesi - Sütlüce Kampüsü",
+    "url": "/istanbul/istanbul-ticaret-universitesi-sutluce-kampusu"
   },
   {
-    "title": "Kaktüs Büfe & Pilav, Kağıthane (Gültepe Mah.)"
+    "title": "İstanbul Üniversitesi - Avcılar Kampüsü",
+    "url": "/istanbul/istanbul-universitesi-avcilar-kampusu"
   },
   {
-    "title": "Küp Cafe Tost & Tatlı, Sarıyer (Rumelihisarı Mah.)"
+    "title": "İstanbul Üniversitesi - Bahçeköy Kampüsü",
+    "url": "/istanbul/istanbul-universitesi-bahcekoy-kampusu"
   },
   {
-    "title": "Lokum Burger, Sarıyer (Rumelihisarı Mah.)"
+    "title": "İstanbul Üniversitesi - Bakırköy Kampüsü",
+    "url": "/istanbul/istanbul-universitesi-bakirkoy-kampusu"
   },
   {
-    "title": "Mis Döner Evi, Şişli (Esentepe Mah.)"
+    "title": "İstanbul Üniversitesi - Beyazıt Kampüsü",
+    "url": "/istanbul/istanbul-universitesi-beyazit-kampusu"
   },
   {
-    "title": "Mos Kafe Restoran, Beşiktaş (Gayrettepe Mah.)"
+    "title": "İstanbul Üniversitesi - Cerrahpaşa Büyükçekmece Yerleşkesi",
+    "url": "/istanbul/istanbul-universitesi-cerrahpasa-buyukcekmece-yerleskesi"
   },
   {
-    "title": "Muallim Ocakbaşı, Beşiktaş (Ortaköy Mah.)"
+    "title": "İstanbul Üniversitesi - Cerrahpaşa Kampüsü",
+    "url": "/istanbul/istanbul-universitesi-cerrahpasa-kampusu"
   },
   {
-    "title": "My Graffiti Burger Co., Sarıyer (Maslak Mah.)"
+    "title": "İstanbul Üniversitesi - Çapa Kampüsü",
+    "url": "/istanbul/istanbul-universitesi-capa-kampusu"
   },
   {
-    "title": "Nappo, Şişli (Esentepe Mah. - Plazalar)"
+    "title": "İstanbul Üniversitesi - Fatih Kampüsü (İlahiyat Fakültesi)",
+    "url": "/istanbul/istanbul-universitesi-fatih-kampusu-ilahiyat-fakultesi"
   },
   {
-    "title": "Nevada Leaf Restaurant, Şişli (Mecidiyeköy Mah.)"
+    "title": "İstanbul Üniversitesi - Kadıköy Kampüsü",
+    "url": "/istanbul/istanbul-universitesi-kadikoy-kampusu"
   },
   {
-    "title": "Niş Burger & Steak House, Beşiktaş (Ulus Mah.)"
+    "title": "İstanbul Üniversitesi - Şişli Kampüsü",
+    "url": "/istanbul/istanbul-universitesi-sisli-kampusu"
   },
   {
-    "title": "Opera Pastanesi, Beşiktaş (Nisbetiye Mah.)"
+    "title": "İstinye Üniversitesi - Çekmeköy Kampüsü",
+    "url": "/istanbul/istinye-universitesi-cekmekoy-kampusu"
   },
   {
-    "title": "Oya'nın Yeri, Beşiktaş (Etiler Mah.)"
+    "title": "İstinye Üniversitesi - Topkapı Kampüsü",
+    "url": "/istanbul/istinye-universitesi-topkapi-kampusu"
   },
   {
-    "title": "Ozzy's Cafe & Bistro, Beşiktaş (Balmumcu Mah.)"
+    "title": "Kadir Has Üniversitesi - Bahçelievler Kampüsü",
+    "url": "/istanbul/kadir-has-universitesi-bahcelievler-kampusu"
   },
   {
-    "title": "Paşa Döner, Sarıyer (Rumelihisarı Mah. - Hisarüstü)"
+    "title": "Kadir Has Üniversitesi - Cibali Kampüsü",
+    "url": "/istanbul/kadir-has-universitesi-cibali-kampusu"
   },
   {
-    "title": "Patso & Pilav, Kağıthane (Harmantepe Mah.)"
+    "title": "Kadir Has Üniversitesi - Selimpaşa Kampüsü",
+    "url": "/istanbul/kadir-has-universitesi-selimpasa-kampusu"
   },
   {
-    "title": "Pizza Mia Casa, Beşiktaş (Kültür Mah.)"
+    "title": "Kapadokya Meslek Yüksek Okulu - Kurtköy Kampüsü",
+    "url": "/istanbul/kapadokya-meslek-yuksek-okulu-kurtkoy-kampusu"
   },
   {
-    "title": "Pizza Station, Beşiktaş (Etiler Mah.)"
+    "title": "Koç Üniversitesi - Batı Kampüsü",
+    "url": "/istanbul/koc-universitesi-bati-kampusu"
   },
   {
-    "title": "Plus Kitchen, Beşiktaş (Kültür Mah.)"
+    "title": "Koç Üniversitesi - İstinye Kampüsü",
+    "url": "/istanbul/koc-universitesi-istinye-kampusu"
   },
   {
-    "title": "Poker Burger, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Koç Üniversitesi - Nişantaşı Kampüsü",
+    "url": "/istanbul/koc-universitesi-nisantasi-kampusu"
   },
   {
-    "title": "Rumeli Pilav Üstü, Sarıyer (Rumelihisarı Mah.)"
+    "title": "Koç Üniversitesi - Rumelifeneri Kampüsü",
+    "url": "/istanbul/koc-universitesi-rumelifeneri-kampusu"
   },
   {
-    "title": "Saladstation, Beşiktaş (Levent Mah.)"
+    "title": "Maltepe Üniversitesi - Dragos Kampüsü",
+    "url": "/istanbul/maltepe-universitesi-dragos-kampusu"
   },
   {
-    "title": "Tencere Ev Yemekleri & Meze, Beşiktaş (Bebek Mah.)"
+    "title": "Maltepe Üniversitesi - Marmara Eğitim Köyü Kampüsü",
+    "url": "/istanbul/maltepe-universitesi-marmara-egitim-koyu-kampusu"
   },
   {
-    "title": "Torcello Ristorante Italiano, Beşiktaş (Akat Mah.)"
+    "title": "Marmara Üniversitesi - Acıbadem Kampüsü",
+    "url": "/istanbul/marmara-universitesi-acibadem-kampusu"
   },
   {
-    "title": "Tost Royce, Beşiktaş (Etiler Mah.)"
+    "title": "Marmara Üniversitesi - Anadoluhisarı Kampüsü",
+    "url": "/istanbul/marmara-universitesi-anadoluhisari-kampusu"
   },
   {
-    "title": "Trabzon Kaşıkçı Pilavı, Kağıthane (Emniyetevleri Mah.)"
+    "title": "Marmara Üniversitesi - Bağlarbaşı Kampüsü",
+    "url": "/istanbul/marmara-universitesi-baglarbasi-kampusu"
   },
   {
-    "title": "Urfa Kebap & Lahmacun & Pide, Kağıthane (Şirintepe Mah.)"
+    "title": "Marmara Üniversitesi - Bahçelievler Kampüsü",
+    "url": "/istanbul/marmara-universitesi-bahcelievler-kampusu"
   },
   {
-    "title": "Yummy & Beyond Restaurant, Kağıthane (Seyrantepe Mah.)"
+    "title": "Marmara Üniversitesi - Başıbüyük Kampüsü",
+    "url": "/istanbul/marmara-universitesi-basibuyuk-kampusu"
   },
   {
-    "title": "(+) Tatlı Zamanı, Kağıthane (Çeliktepe Mah.)"
+    "title": "Marmara Üniversitesi - Beyazıt Kampüsü",
+    "url": "/istanbul/marmara-universitesi-beyazit-kampusu"
   },
   {
-    "title": "(2 Go) By Goodville, Şişli (Esentepe Mah. - Plazalar)"
+    "title": "Marmara Üniversitesi - Göztepe Kampüsü",
+    "url": "/istanbul/marmara-universitesi-goztepe-kampusu"
   },
   {
-    "title": "(Bebek Waffle & Kumpir), Beşiktaş (Bebek Mah.)"
+    "title": "Marmara Üniversitesi - Haydarpaşa Kampüsü",
+    "url": "/istanbul/marmara-universitesi-haydarpasa-kampusu"
   },
   {
-    "title": "(Her Alem) Ocakbaşı, Şişli (Esentepe Mah.)"
+    "title": "Marmara Üniversitesi - Kartal Kampüsü",
+    "url": "/istanbul/marmara-universitesi-kartal-kampusu"
   },
   {
-    "title": "(Parantez İstanbul), Beşiktaş (Nisbetiye Mah.)"
+    "title": "Marmara Üniversitesi - Nişantaşı Kampüsü",
+    "url": "/istanbul/marmara-universitesi-nisantasi-kampusu"
   },
   {
-    "title": "+ Profiterol & Tatlı Dükkanı, Beşiktaş (Muradiye Mah.)"
+    "title": "Marmara Üniversitesi - Sultanahmet Kampüsü",
+    "url": "/istanbul/marmara-universitesi-sultanahmet-kampusu"
   },
   {
-    "title": "21 Mercan Kebap, Beşiktaş (Vişnezade Mah. - Akaretler)"
+    "title": "Marmara Üniversitesi - Şişli Kampüsü",
+    "url": "/istanbul/marmara-universitesi-sisli-kampusu"
   },
   {
-    "title": "46 Zurna Dürüm, Kağıthane (Çeliktepe Mah.)"
+    "title": "Marmara Üniversitesi - Zeynep Kamil Kampüsü",
+    "url": "/istanbul/marmara-universitesi-zeynep-kamil-kampusu"
   },
   {
-    "title": "46 Zurna Dürüm, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "MEF Üniversitesi - Maslak Kampüsü",
+    "url": "/istanbul/mef-universitesi-maslak-kampusu"
   },
   {
-    "title": "4X4 Tost, Beşiktaş (Levent Mah.)"
+    "title": "Milli Savunma Üniversitesi - Beşiktaş Kampüsü",
+    "url": "/istanbul/milli-savunma-universitesi-besiktas-kampusu"
   },
   {
-    "title": "86'd Deli Sandwiches, Beşiktaş (Etiler Mah.)"
+    "title": "Mimar Sinan Üniversitesi - Beşiktaş Kampüsü",
+    "url": "/istanbul/mimar-sinan-universitesi-besiktas-kampusu"
   },
   {
-    "title": "Ab'bas Waffle & Kumpir, Beşiktaş (Ortaköy Mah.)"
+    "title": "Mimar Sinan Üniversitesi - Bomonti Kampüsü",
+    "url": "/istanbul/mimar-sinan-universitesi-bomonti-kampusu"
   },
   {
-    "title": "Abacı Çeşme Kumru, Şişli (Fulya Mah.)"
+    "title": "Mimar Sinan Üniversitesi - Fındıklı Kampüsü",
+    "url": "/istanbul/mimar-sinan-universitesi-findikli-kampusu"
   },
   {
-    "title": "Abacı Kasap Burger, Beşiktaş (Dikilitaş Mah.)"
+    "title": "Mimar Sinan Üniversitesi - Yedikule Kampüsü",
+    "url": "/istanbul/mimar-sinan-universitesi-yedikule-kampusu"
   },
   {
-    "title": "Abacı Kasap Burger, Şişli (Fulya Mah.)"
+    "title": "Nişantaşı Üniversitesi - Maslak Kampüsü",
+    "url": "/istanbul/nisantasi-universitesi-maslak-kampusu"
   },
   {
-    "title": "Abant Ev Yemekleri & Izgara, Şişli (Fulya Mah.)"
+    "title": "Nişantaşı Üniversitesi - Nişantaşı Kampüsü",
+    "url": "/istanbul/nisantasi-universitesi-nisantasi-kampusu"
   },
   {
-    "title": "Abantlı Neco Ciğer Pilav, Beşiktaş (Etiler Mah.)"
+    "title": "Nişantaşı Üniversitesi - Osmanbey Kampüsü",
+    "url": "/istanbul/nisantasi-universitesi-osmanbey-kampusu"
   },
   {
-    "title": "Abat, Sarıyer (Maslak Mah.)"
+    "title": "Nişantaşı Üniversitesi - Sadabad Kampüsü",
+    "url": "/istanbul/nisantasi-universitesi-sadabad-kampusu"
   },
   {
-    "title": "Aberna, Şişli (Fulya Mah.)"
+    "title": "Okan Üniversitesi - Akfırat Tuzla Kampüsü",
+    "url": "/istanbul/okan-universitesi-akfirat-tuzla-kampusu"
   },
   {
-    "title": "Abi Burger, Beşiktaş (Etiler Mah.)"
+    "title": "Okan Üniversitesi - Hasanpaşa Kampüsü",
+    "url": "/istanbul/okan-universitesi-hasanpasa-kampusu"
   },
   {
-    "title": "Abi Döner Express, Kağıthane (Gültepe Mah.)"
+    "title": "Okan Üniversitesi - Mecidiyeköy Kampüsü",
+    "url": "/istanbul/okan-universitesi-mecidiyekoy-kampusu"
   },
   {
-    "title": "Abi Gala Kokoreç, Şişli (Mecidiyeköy Mah.)"
+    "title": "Okan Üniversitesi - Taksim Kampüsü",
+    "url": "/istanbul/okan-universitesi-taksim-kampusu"
   },
   {
-    "title": "Ability Menemen Station, Şişli (Esentepe Mah. - Plazalar)"
+    "title": "Özyeğin Üniversitesi - Altunizade Kampüsü",
+    "url": "/istanbul/ozyegin-universitesi-altunizade-kampusu"
   },
   {
-    "title": "A Bit Of Eggo, Beşiktaş (Arnavutköy Mah.)"
+    "title": "Özyeğin Üniversitesi - Çekmeköy Kampüsü",
+    "url": "/istanbul/ozyegin-universitesi-cekmekoy-kampusu"
   },
   {
-    "title": "Abi Tost Station, Şişli (Esentepe Mah. - Plazalar)"
+    "title": "Robert Lisesi (İstanbul Amerikan) - Arnavutköy Yerleşkesi",
+    "url": "/istanbul/robert-lisesi-istanbul-amerikan-arnavutkoy-yerleskesi"
   },
   {
-    "title": "Ablanın Yeri, Şişli (Esentepe Mah.)"
+    "title": "Sabancı Üniversitesi - Tuzla Kampüsü",
+    "url": "/istanbul/sabanci-universitesi-tuzla-kampusu"
   },
   {
-    "title": "Acil 1 Mantı & Tava Yemekleri, Şişli (Mecidiyeköy Mah. - Dereboyu)"
+    "title": "Sağlık Bilimleri Üniversitesi - Haydarpaşa Kampüsü",
+    "url": "/istanbul/saglik-bilimleri-universitesi-haydarpasa-kampusu"
   },
   {
-    "title": "Açık Büfe Zeytinyağlı Ev Yemekleri, Şişli (Esentepe Mah.)"
+    "title": "T.C. Bezmialem Vakıf Üniversitesi - Eyüp Kampüsü",
+    "url": "/istanbul/t-c-bezmialem-vakif-universitesi-eyup-kampusu"
   },
   {
-    "title": "Açık Mutfak Ev Yemekleri & Izgara, Şişli (Fulya Mah.)"
+    "title": "T.C. Bezmialem Vakıf Üniversitesi - Sultangazi Kampüsü",
+    "url": "/istanbul/t-c-bezmialem-vakif-universitesi-sultangazi-kampusu"
   },
   {
-    "title": "Adabella Dessert, Şişli (Merkez Mah.)"
+    "title": "T.C. Piri Reis Üniversitesi - Tuzla Kampüsü",
+    "url": "/istanbul/t-c-piri-reis-universitesi-tuzla-kampusu"
   },
   {
-    "title": "Ada Kahvaltı Evi, Sarıyer (FSM Mah.)"
+    "title": "TAÜ Türk Alman Üniversitesi - Beykoz Kampüsü",
+    "url": "/istanbul/tau-turk-alman-universitesi-beykoz-kampusu"
   },
   {
-    "title": "Adana 34 Dürüm Evi, Beşiktaş (Ulus Mah.)"
+    "title": "TC Bezmialem Vakıf Üniversitesi - Fatih Kampüsü",
+    "url": "/istanbul/tc-bezmialem-vakif-universitesi-fatih-kampusu"
   },
   {
-    "title": "Adana 34 Lahmacun & Pide, Beşiktaş (Ulus Mah.)"
+    "title": "Üsküdar Üniversitesi - Altunizade Kampüsü",
+    "url": "/istanbul/uskudar-universitesi-altunizade-kampusu"
   },
   {
-    "title": "Adana Dürüm Olay Yeri, Kağıthane (Ortabayır Mah.)"
+    "title": "Üsküdar Üniversitesi - Çarşı Kampüsü",
+    "url": "/istanbul/uskudar-universitesi-carsi-kampusu"
   },
   {
-    "title": "Adana Kebap & Lahmacun & Pide, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Üsküdar Üniversitesi - Nakkaştepe Kampüsü",
+    "url": "/istanbul/uskudar-universitesi-nakkastepe-kampusu"
   },
   {
-    "title": "Adanalı Dürümcü Abi, Şişli (İzzet Paşa Mah.)"
+    "title": "Yeditepe Üniversitesi - Göztepe Kampüsü",
+    "url": "/istanbul/yeditepe-universitesi-goztepe-kampusu"
   },
   {
-    "title": "Adana Varda Ocakbaşı, Sarıyer (Rumelihisarı Mah. - Hisarüstü)"
+    "title": "Yeditepe Üniversitesi - Kayışdağı Kampüsü",
+    "url": "/istanbul/yeditepe-universitesi-kayisdagi-kampusu"
   },
   {
-    "title": "Adanistan, Beşiktaş (Gayrettepe Mah.)"
+    "title": "Yeditepe Üniversitesi - Yeditepe Üniversitesi Hastanesi",
+    "url": "/istanbul/yeditepe-universitesi-yeditepe-universitesi-hastanesi"
   },
   {
-    "title": "Ada Sokağı, Beşiktaş (Abbasağa Mah.)"
+    "title": "Yeni Yüzyıl Üniversitesi - Cevizlibağ Kampüsü",
+    "url": "/istanbul/yeni-yuzyil-universitesi-cevizlibag-kampusu"
   },
   {
-    "title": "Address City, Beşiktaş (Etiler Mah.)"
+    "title": "Yıldız Teknik Üniversitesi - Ayazağa Kampüsü",
+    "url": "/istanbul/yildiz-teknik-universitesi-ayazaga-kampusu"
   },
   {
-    "title": "Adem Baba, Beşiktaş (Arnavutköy Mah.)"
+    "title": "Yıldız Teknik Üniversitesi - Davutpaşa Kampüsü ",
+    "url": "/istanbul/yildiz-teknik-universitesi-davutpasa-kampusu"
   },
   {
-    "title": "Adım Kebap, Kağıthane (Sultan Selim / Sanayi Mah.)"
+    "title": "Yıldız Teknik Üniversitesi - Maslak Kampüsü",
+    "url": "/istanbul/yildiz-teknik-universitesi-maslak-kampusu"
   },
   {
-    "title": "Adıyaman Çiğ Köfte, Şişli (Gülbahar Mah. - Gülbağ)"
+    "title": "Yıldız Teknik Üniversitesi - Yıldız Kampüsü ",
+    "url": "/istanbul/yildiz-teknik-universitesi-yildiz-kampusu"
   }
 ]
